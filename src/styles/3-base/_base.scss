@@ -1,0 +1,84 @@
+/* Base Styles -------------------- */
+body, html {
+  height: 100%;
+}
+
+body:after {
+  background: url(../images/elevate-one.jpg) center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+  content: "";
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: -1;
+
+  @media screen and (max-width: 768px) {
+      background-attachment: scroll;
+  }
+}
+
+.btn {
+  border-radius: 0 !important;
+  text-transform: uppercase;
+}
+
+.btn-xl {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 250px;
+}
+
+.btn-xxl {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.btn-outline-elevate {
+  color: $white;
+  background-color: transparent;
+  background-image: none;
+  border-color: $pink;
+
+  &:hover {
+      color: $white;
+      background-color: $turquoise;
+      border-color: $turquoise;
+  }
+
+  &:focus {
+      color: $white;
+      background-color: $turquoise;
+      border-color: $turquoise;
+  }
+
+  &:active {
+      color: $white;
+      background-color: $turquoise;
+      border-color: $turquoise;
+  }
+}
+
+.was-validated {
+  .form-control {
+      &:valid {
+          border-color: $turquoise;
+      }
+
+      &:invalid {
+          border-color: $pink;
+      }
+  }
+}
+
+.invalid-feedback {
+  color: $pink;
+}

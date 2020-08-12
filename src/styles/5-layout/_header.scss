@@ -1,0 +1,28 @@
+.navbar {
+  a {
+    box-shadow: none;
+  }
+}
+
+.navbar-nav {
+  .nav-item {
+    a {
+      border-bottom: 1px solid transparent;
+      box-shadow: none;
+      color: $white;
+      font-size: 1.4rem;
+      text-transform: uppercase;
+  
+      &:link,
+      &:visited {
+        color: $white;
+      }
+  
+      &:active,
+      &:focus,
+      &:hover {
+        border-bottom: 1px solid $pink !important;
+      }
+    }
+  }
+}
