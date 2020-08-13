@@ -1,5 +1,7 @@
 import React from "react"
 
+import ContactForm from "../components/contact-form"
+
 import { Col, Container, Row } from "react-bootstrap"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCompass, faEnvelope } from '@fortawesome/free-regular-svg-icons'
@@ -11,7 +13,7 @@ const Contact = () => {
       <h1 className="text-center">Get In Touch</h1>
       <Row noGutters className="justify-content-center my-3">
         <Col sm="6">
-
+          <ContactForm></ContactForm>
         </Col>
         <Col sm="6">
           <blockquote className="blockquote text-center mt-5">
