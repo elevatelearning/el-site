@@ -22,8 +22,7 @@ const ContactForm = () => {
         <Form.Control required as="textarea" rows="3" name="message" />
       </Form.Group>
       <Form.Group>
-        <small class="form-text text-muted d-none d-lg-block" id="emailHelp">We'll never share your personal details or data with anyone.</small>
-        <Form.Control type="hidden" name="_next" value="//site.io/thanks.html" />
+        <small className="form-text text-muted d-none d-lg-block" id="emailHelp">We'll never share your personal details or data with anyone.</small>
       </Form.Group>
       <Button variant="outline-primary" className="btn btn-lg" type="submit">Submit</Button>
     </Form>
