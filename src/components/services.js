@@ -9,28 +9,28 @@ const Services = () => {
   return (
     <Container fluid className="services-wrapper p-5" id="services">
       <h1 className="text-center">Our Services</h1>
-      <Tab.Container defaultActiveKey="tab-1" id="tabs">
+      <Tab.Container defaultActiveKey="first" id="tabs">
         <Row noGutters>
           <Col>
             <Nav justify variant="pills" as="ul" className="mt-5">
               <Nav.Item as="li">
-                <Nav.Link eventKey="tab-1"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
+                <Nav.Link eventKey="first"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
                 <h3>Learning Needs Analysis</h3>
               </Nav.Item>
               <Nav.Item as="li">
-                <Nav.Link eventKey="tab-2"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
+                <Nav.Link eventKey="second"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
                 <h3>Programme Design &amp; Development</h3>
               </Nav.Item>
               <Nav.Item as="li">
-                <Nav.Link eventKey="tab-3"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
+                <Nav.Link eventKey="third"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
                 <h3>Course &amp; Content Development</h3>
               </Nav.Item>
               <Nav.Item as="li">
-                <Nav.Link eventKey="tab-4"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
+                <Nav.Link eventKey="fourth"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
                 <h3>e-Learning Strategy &amp; Implementation</h3>
               </Nav.Item>
               <Nav.Item as="li">
-                <Nav.Link eventKey="tab-5"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
+                <Nav.Link eventKey="fifth"><FontAwesomeIcon icon={faGraduationCap} size="5x" /></Nav.Link>
                 <h3>Facilitation Training</h3>
               </Nav.Item>
             </Nav>
@@ -39,7 +39,7 @@ const Services = () => {
         <Row noGutters>
           <Col>
             <Tab.Content>
-              <Tab.Pane eventKey="tab-1">
+              <Tab.Pane eventKey="first">
                 <blockquote className="blockquote text-center">
                   <p class="mb-0">
                     The key to instilling a culture of lifelong learning is to curate and personalise flexible learning experiences. By gaining
@@ -48,7 +48,7 @@ const Services = () => {
                   </p>
                 </blockquote>
               </Tab.Pane>
-              <Tab.Pane eventKey="tab-2">
+              <Tab.Pane eventKey="second">
                 <blockquote className="blockquote text-center">
                   <p class="mb-0">
                     We design interactive, user-centered learning programmes and academies that respond to the needs of your organisation. We
@@ -57,7 +57,7 @@ const Services = () => {
                   </p>
                 </blockquote>
               </Tab.Pane>
-              <Tab.Pane eventKey="tab-3">
+              <Tab.Pane eventKey="third">
                 <blockquote className="blockquote text-center">
                   <p class="mb-0">
                     We’ll design, develop or transform your content into experiential, memorable and practical online and face-to-face learning
@@ -66,7 +66,7 @@ const Services = () => {
                   </p>
                 </blockquote>
               </Tab.Pane>
-              <Tab.Pane eventKey="tab-4">
+              <Tab.Pane eventKey="fourth">
                 <blockquote className="blockquote text-center">
                   <p class="mb-0">
                     We’ll work with you to design and implement a learner management system and an accompanying change management and communication
@@ -75,7 +75,7 @@ const Services = () => {
                   </p>
                 </blockquote>
               </Tab.Pane>
-              <Tab.Pane eventKey="tab-5">
+              <Tab.Pane eventKey="fifth">
                 <blockquote className="blockquote text-center">
                   <p class="mb-0">
                     We conduct train-the-trainer, facilitation and blended learning workshops and courses to ensure your team is ready to deliver
