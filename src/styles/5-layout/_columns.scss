@@ -11,18 +11,19 @@
       display: block;
       margin-bottom: 10px;
 
-      &:focus,
-      &:hover,
-      &:visited,
       &:link,
-      &:active {
-        text-decoration: none;
+      &:visited {
+        color: $turquoise !important;
       }
 
+      &:active,
       &:focus,
-      &:hover,
-      &:active {
-        color: $pink;
+      &:hover {
+        color: $pink !important;
+      }
+
+      &.active {
+        color: $pink !important;
       }
     }
 
