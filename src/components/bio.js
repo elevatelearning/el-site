@@ -35,7 +35,7 @@ const Bio = () => {
     }
   `)
 
-  const { author, social } = data.site.siteMetadata
+  const { author } = data.site.siteMetadata
   return (
     <div
       style={{
@@ -57,7 +57,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> 
+        Written by <strong>{author.name}</strong>
         <br />{author.summary}
         {` `}
       </p>

@@ -25,9 +25,7 @@ const ContactForm = () => {
         <small class="form-text text-muted d-none d-lg-block" id="emailHelp">We'll never share your personal details or data with anyone.</small>
         <Form.Control type="hidden" name="_next" value="//site.io/thanks.html" />
       </Form.Group>
-      <Button className="btn btn-outline-elevate btn-lg" type="submit">
-        Submit
-      </Button>
+      <Button variant="outline-primary" className="btn btn-lg" type="submit">Submit</Button>
     </Form>
   )
 }

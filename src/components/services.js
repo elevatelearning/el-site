@@ -1,9 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
 
-import { Col, Container, Nav, Row } from "react-bootstrap"
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faGraduationCap } from '@fortawesome/free-solid-svg-icons'
+import { Button, Col, Container, Nav, Row } from "react-bootstrap"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faGraduationCap } from "@fortawesome/free-solid-svg-icons"
+import scrollTo from "gatsby-plugin-smoothscroll"
 
 const Services = () => {
   return (
@@ -48,7 +48,7 @@ const Services = () => {
       </Row>
       <Row noGutters>
         <Col className="text-center">
-          <Link to="/" className="btn btn-outline-elevate btn-xl mt-5 link-no-style">About Us</Link>
+          <Button variant="outline-primary" onClick={() => scrollTo("#about")} className="btn btn-xl mt-5 link-no-style">About Us</Button>
         </Col>
       </Row>
     </Container>

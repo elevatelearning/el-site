@@ -1,5 +1,6 @@
 /* Base Styles -------------------- */
-body, html {
+body,
+html {
   height: 100%;
 }
 
@@ -19,7 +20,7 @@ body:after {
   z-index: -1;
 
   @media screen and (max-width: 768px) {
-      background-attachment: scroll;
+    background-attachment: scroll;
   }
 }
 
@@ -46,40 +47,37 @@ body:after {
   width: 300px;
 }
 
-.btn-outline-elevate {
-  color: $white;
+.btn-outline-primary {
   background-color: transparent;
   background-image: none;
   border-color: $pink;
+  box-shadow: none;
+  color: $white;
 
   &:hover {
-      color: $white;
-      background-color: $turquoise;
-      border-color: $turquoise;
+    background-color: $turquoise;
+    border-color: $turquoise;
+    box-shadow: none;
+    color: $white;
   }
 
-  &:focus {
-      color: $white;
-      background-color: $turquoise;
-      border-color: $turquoise;
-  }
-
-  &:active {
-      color: $white;
-      background-color: $turquoise;
-      border-color: $turquoise;
+  &:active,
+  &:focus,
+  &:link,
+  &:visited {
+    box-shadow: none;
   }
 }
 
 .was-validated {
   .form-control {
-      &:valid {
-          border-color: $turquoise;
-      }
+    &:valid {
+      border-color: $turquoise;
+    }
 
-      &:invalid {
-          border-color: $pink;
-      }
+    &:invalid {
+      border-color: $pink;
+    }
   }
 }
 

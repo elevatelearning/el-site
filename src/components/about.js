@@ -1,7 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
 
-import { Container, Jumbotron } from "react-bootstrap"
+import { Button, Container, Jumbotron } from "react-bootstrap"
+import scrollTo from "gatsby-plugin-smoothscroll"
 
 const About = () => {
   return (
@@ -22,7 +22,7 @@ const About = () => {
           applied. And by continuously closing the feedback loop in this way, you'll see improved individual performance, productivity
           and engagement, moving you one step closer to your organisational and development goals.
         </p>
-        <Link to="/" className="btn btn-outline-elevate btn-xxl mt-5 link-no-style">Partner with Elevate</Link>
+        <Button variant="outline-primary" onClick={() => scrollTo("#contact")} className="btn btn-xxl mt-5 link-no-style">Partner with Elevate</Button>
       </Jumbotron>
     </Container>
   )

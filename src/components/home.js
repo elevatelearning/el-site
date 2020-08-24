@@ -1,7 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
 
-import { Container, Jumbotron } from "react-bootstrap"
+import { Button, Container, Jumbotron } from "react-bootstrap"
+import scrollTo from "gatsby-plugin-smoothscroll"
 
 const Home = () => {
   return (
@@ -12,7 +12,7 @@ const Home = () => {
           Elevate Learning is a full-service learning design consultancy. We partner with you to design and implement online and blended
           learning experiences, organisation-specific learning programmes, and experiential content and workshops.
         </p>
-        <Link to="/" className="btn btn-outline-elevate btn-xl mt-5 link-no-style">Learn more</Link>
+        <Button variant="outline-primary" onClick={() => scrollTo("#services")} className="btn btn-xl mt-5">Learn more</Button>
       </Jumbotron>
     </Container>
   )
