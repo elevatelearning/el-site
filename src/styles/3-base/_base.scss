@@ -19,6 +19,10 @@ body:after {
   right: 0;
   top: 0;
   z-index: -1;
+
+  @media screen and (max-width: 768px) {
+      background-attachment: scroll;
+  }
 }
 
 .form-label {
