@@ -18,8 +18,15 @@ const Header = ({ pageInfo }) => {
 
   return (
     <header>
-      <Navbar variant="dark" expand="lg" fixed="top" id="site-navbar">
-        {/* <Container> */}
+      <Navbar className="d-block d-lg-none" id="alt-site-navbar">
+        <Link to="/" className="link-no-style">
+          <Navbar.Brand as="span">
+            <img src={Logo} width="150" height="150" alt="Elevate Learning" />
+          </Navbar.Brand>
+        </Link>
+      </Navbar>
+
+      <Navbar variant="dark" expand="lg" fixed="top" className="d-none d-lg-flex" id="site-navbar">
         <Link to="/" className="link-no-style">
           <Navbar.Brand as="span">
             <img src={Logo} width="150" height="150" alt="Elevate Learning" />
@@ -39,7 +46,7 @@ const Header = ({ pageInfo }) => {
                 <Nav.Link onClick={() => scrollTo("#about")}>About</Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" className="mx-3">
-                <Nav.Link href="/blog">Blog</Nav.Link>
+                <Nav.Link href="/insights">Insights</Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" className="mx-3">
                 <Nav.Link onClick={() => scrollTo("#contact")}>Contact</Nav.Link>
@@ -47,7 +54,6 @@ const Header = ({ pageInfo }) => {
             </Scrollspy>
           </Nav>
         </Navbar.Collapse>
-        {/* </Container> */}
       </Navbar>
     </header>
   )

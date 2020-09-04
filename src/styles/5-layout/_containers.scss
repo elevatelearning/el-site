@@ -15,13 +15,13 @@
     box-shadow: none;
   }
 
-  @media screen and (max-width: 768px) {
-      h1 {
-          font-size: 1.6rem;
-      }
+  @include media-breakpoint-down(sm) {
+    h1 {
+      font-size: 1.6rem;
+    }
 
-      p {
-          font-size: 1.0rem;
-      }
+    p {
+      font-size: 1.2rem;
+    }
   }
 }

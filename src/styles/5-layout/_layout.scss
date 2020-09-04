@@ -28,12 +28,6 @@
   a {
     box-shadow: none;
   }
-
-  @media screen and (max-width: 768px) {
-    h1 {
-      font-size: 1.6rem;
-    }
-  }
 }
 
 .about-wrapper {
@@ -48,10 +42,6 @@
   background-size: cover;
   background-attachment: fixed;
   height: 100vh;
-
-  @media screen and (max-width: 768px) {
-    background-attachment: scroll;
-  }
 }
 
 .contact-wrapper {
@@ -64,11 +54,6 @@
     text-transform: uppercase;
   }
 
-  blockquote {
-    border: none !important;
-    font-style: normal !important;
-  }
-
   h3 {
     color: $white;
     font-size: 1.4rem;
@@ -76,6 +61,11 @@
 
   p {
     color: $turquoise;
+  }
+
+  blockquote {
+    border: none !important;
+    font-style: normal !important;
   }
 
   span {
@@ -102,17 +92,13 @@
     }
   }
 
-  @media screen and (max-width: 768px) {
+  @include media-breakpoint-down(sm) {
     h1 {
       font-size: 1.6rem;
     }
 
-    h3 {
-      font-size: 1.2rem;
-    }
-
     p {
-      font-size: 1.0rem;
+      font-size: 1.2rem;
     }
   }
 }

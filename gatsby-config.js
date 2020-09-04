@@ -5,18 +5,18 @@ module.exports = {
       name: `Kira Koopman`,
       summary: `Founder at Elevate Learning | Digital Learning Solutions Specialist`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Insights from Elevate Learning.`,
     siteUrl: `https://www.elevatelearning.org/`,
     social: {
-      twitter: `liambeeton`,
+      twitter: `elevatelearning`,
     },
   },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/insights`,
+        name: `insights`,
       },
     },
     {
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/elevate-learning-icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

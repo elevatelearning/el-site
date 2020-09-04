@@ -37,11 +37,11 @@ const Services = () => {
   const [services] = React.useState(SERVICES);
 
   return (
-    <Container fluid className="services-wrapper p-5" id="services">
+    <Container fluid className="services-wrapper d-none d-lg-block p-5" id="services">
       <h1 className="text-center">Our Services</h1>
       <Tab.Container defaultActiveKey="first" id="service-items">
         <Row noGutters>
-          <Col>
+          <Col lg={{ span: 10, offset: 1 }}>
             <Nav justify variant="pills" as="ul" className="mt-5">
               {services.map((service) =>
                 <Nav.Item as="li" key={service.eventKey}>
@@ -55,7 +55,7 @@ const Services = () => {
           </Col>
         </Row>
         <Row noGutters>
-          <Col>
+          <Col lg={{ span: 10, offset: 1 }}>
             <Tab.Content>
               {services.map((service) =>
                 <Tab.Pane eventKey={service.eventKey} key={service.eventKey}>
