@@ -10,6 +10,8 @@ Learning Experience Design (or LXD) is a relatively new discipline within the fi
 
 It is widely agreed in education circles that “learning is the process whereby knowledge is created through the transformation of experience” (Kolb, 1984, p. 38). Kolb, a psychologist and educational theorist, states that learners need to feel, watch, think, and do in order for effective learning to take place. He developed a cyclical continuum that integrates and embeds knowledge, competencies, and skills habitually and continuously into the learners’ everyday contexts.
 
+![Kolb's Experiential Learning Cycle](./kolb-experiential-learning.jpg)
+
 While Kolb’s initial research is many decades old now, it’s because of recent advancements in digital learning platforms and trends that learning experience design has evolved as a complementary approach to designing impactful learning programmes. As such, Learning Experience Design has emerged as an interdisciplinary approach to creating learning experiences that most effectively and efficiently cycles through this process, resulting in maximum learning and retention.
 
 ## So, What is Learning Experience Design?

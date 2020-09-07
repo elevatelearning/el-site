@@ -12,7 +12,7 @@ const Header = ({ pageInfo }) => {
     { content: 'Home', href: 'home' },
     { content: 'Services', href: 'services' },
     { content: 'About', href: 'about' },
-    { content: 'Blog', href: 'blog' },
+    { content: 'Insights', href: 'insights' },
     { content: 'Contact', href: 'contact' },
   ]);
 
@@ -26,7 +26,7 @@ const Header = ({ pageInfo }) => {
         </Link>
       </Navbar>
 
-      <Navbar variant="dark" expand="lg" fixed="top" className="d-none d-lg-flex" id="site-navbar">
+      <Navbar fixed="top" className="d-none d-lg-flex" id="site-navbar">
         <Link to="/" className="link-no-style">
           <Navbar.Brand as="span">
             <img src={Logo} width="150" height="150" alt="Elevate Learning" />

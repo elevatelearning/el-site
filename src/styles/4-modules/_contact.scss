@@ -1,0 +1,58 @@
+.contact-wrapper {
+  background-color: $blue;
+
+  h1 {
+    color: $white;
+    font-family: $font-family-sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    color: $white;
+    font-size: 1.4rem;
+  }
+
+  p {
+    color: $turquoise;
+  }
+
+  blockquote {
+    border: none !important;
+    font-style: normal !important;
+  }
+
+  span {
+    margin-left: 5px;
+  }
+
+  a {
+    border-bottom: 1px solid transparent;
+    box-shadow: none;
+    color: $white;
+    font-size: 1.4rem;
+    margin-left: 5px;
+    text-decoration: none;
+
+    &:link,
+    &:visited {
+      color: $white;
+    }
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: $pink;
+    }
+  }
+
+  @include media-breakpoint-down(sm) {
+    h1 {
+      font-size: 1.6rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+    }
+  }
+}

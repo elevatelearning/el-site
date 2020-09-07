@@ -1,12 +1,12 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
-import Layout from "../components/insights-layout"
-import SEO from "../components/seo"
+import Bio from "../components/insights/bio"
+import Layout from "../components/insights/layout"
+import SEO from "../components/insights/seo"
 import { rhythm } from "../utils/typography"
 
-const BlogIndex = ({ data, location }) => {
+const Insights = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
@@ -44,7 +44,7 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default Insights
 
 export const pageQuery = graphql`
   query {

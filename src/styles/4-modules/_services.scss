@@ -1,0 +1,60 @@
+.services-wrapper {
+  background-color: $blue;
+
+  h1 {
+    color: $white;
+    font-family: $font-family-sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  p {
+    color: $turquoise;
+  }
+
+  blockquote {
+    border: none !important;
+    font-style: normal !important;
+  }
+
+  a {
+    box-shadow: none;
+  }
+
+  .nav-pills {
+    .nav-item {
+      h3 {
+        color: $white;
+        font-size: 1.4rem !important;
+      }
+  
+      a {
+        box-shadow: none;
+        color: $turquoise;
+        display: block;
+        margin-bottom: 10px;
+  
+        &:link,
+        &:visited {
+          color: $turquoise !important;
+        }
+  
+        &:active,
+        &:focus,
+        &:hover {
+          color: $pink !important;
+        }
+  
+        &.active {
+          color: $pink !important;
+        }
+      }
+    }
+  }
+  
+  .tab-content {
+    p {
+      color: $turquoise;
+    }
+  }
+}

@@ -5,7 +5,7 @@ import scrollTo from "gatsby-plugin-smoothscroll"
 
 const Home = () => {
   return (
-    <Container fluid className="intro-wrapper" id="home">
+    <Container fluid className="home-wrapper" id="home">
       <Row noGutters>
         <Col lg={{ span: 10, offset: 1 }}>
           <Jumbotron className="pt-lg-10">

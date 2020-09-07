@@ -7,36 +7,35 @@
 .navbar-nav {
   .nav-item {
     a {
-      border-bottom: 1px solid transparent !important;
       box-shadow: none;
-      color: $white;
       font-size: 1.4rem;
       text-transform: uppercase;
-  
-      &:active,
-      &:focus,
-      &:hover,
+
       &:link,
       &:visited {
         color: $white !important;
+        border-bottom: 1px solid transparent !important;
       }
 
+      &:active,
+      &:focus,
       &:hover {
+        color: $white !important;
         border-bottom: 1px solid $pink !important;
       }
     }
-  }
 
-  .current {
-    a {
-      border-bottom: 1px solid $pink !important;
-
-      &:active,
-      &:focus,
-      &:hover,
-      &:link,
-      &:visited {
-        color: $white !important;
+    .current {
+      a {
+        border-bottom: 1px solid $pink !important;
+  
+        &:active,
+        &:focus,
+        &:hover,
+        &:link,
+        &:visited {
+          color: $white !important;
+        }
       }
     }
   }
