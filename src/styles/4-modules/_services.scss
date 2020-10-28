@@ -21,33 +21,31 @@
     box-shadow: none;
   }
 
-  .nav-pills {
-    .nav-item {
-      h3 {
-        color: $white;
-        font-size: 1.5rem !important;
+  ul.nav-pills {
+    a {
+      box-shadow: none;
+      display: block;
+      font-family: $headings-font-family;
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-bottom: 10px;
+
+      &:link,
+      &:visited {
+        background-color: $blue;
+        color: $white !important;
       }
-  
-      a {
-        box-shadow: none;
-        color: $turquoise;
-        display: block;
-        margin-bottom: 10px;
-  
-        &:link,
-        &:visited {
-          color: $turquoise !important;
-        }
-  
-        &:active,
-        &:focus,
-        &:hover {
-          color: $pink !important;
-        }
-  
-        &.active {
-          color: $pink !important;
-        }
+
+      &:active,
+      &:focus,
+      &:hover {
+        background-color: $blue;
+        color: $pink !important;
+      }
+
+      &.active {
+        background-color: $blue;
+        color: $pink !important;
       }
     }
   }

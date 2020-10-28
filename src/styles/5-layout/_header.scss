@@ -2,10 +2,8 @@
   a {
     box-shadow: none;
   }
-}
 
-.navbar-nav {
-  .nav-item {
+  ul.navbar-nav {
     a {
       box-shadow: none;
       font-size: 1.4rem;
@@ -28,14 +26,6 @@
     .current {
       a {
         border-bottom: 1px solid $pink !important;
-  
-        &:active,
-        &:focus,
-        &:hover,
-        &:link,
-        &:visited {
-          color: $white !important;
-        }
       }
     }
   }
