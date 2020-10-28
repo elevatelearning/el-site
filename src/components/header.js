@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link, useStaticQuery } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
 import Image from "gatsby-image"
 
 import { Navbar, Nav } from "react-bootstrap"
@@ -41,24 +41,20 @@ const Header = ({ pageInfo }) => {
   return (
     <header>
       <Navbar className="d-block d-lg-none" id="alt-site-navbar">
-        <Link to="/" className="link-no-style">
-          <Navbar.Brand as="span">
-            <Image
-              fixed={data.logoSmall.childImageSharp.fixed}
-              alt="Elevate Learning"
-            />
-          </Navbar.Brand>
-        </Link>
+        <Navbar.Brand as="span" onClick={() => scrollTo("#home")}>
+          <Image
+            fixed={data.logoSmall.childImageSharp.fixed}
+            alt="Elevate Learning"
+          />
+        </Navbar.Brand>
       </Navbar>
       <Navbar fixed="top" className="d-none d-lg-flex" id="site-navbar">
-        <Link to="/" className="link-no-style">
-          <Navbar.Brand as="span">
-            <Image
-              fixed={data.logoLarge.childImageSharp.fixed}
-              alt="Elevate Learning"
-            />
-          </Navbar.Brand>
-        </Link>
+        <Navbar.Brand as="span" onClick={() => scrollTo("#home")}>
+          <Image
+            fixed={data.logoLarge.childImageSharp.fixed}
+            alt="Elevate Learning"
+          />
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto" activeKey={pageInfo && pageInfo.pageName}>
@@ -72,7 +68,9 @@ const Header = ({ pageInfo }) => {
                 <Nav.Link onClick={() => scrollTo("#home")}>Home</Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" className="mx-3">
-                <Nav.Link onClick={() => scrollTo("#services")}>Services</Nav.Link>
+                <Nav.Link onClick={() => scrollTo("#services")}>
+                  Services
+                </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" className="mx-3">
                 <Nav.Link onClick={() => scrollTo("#about")}>About</Nav.Link>
@@ -81,7 +79,9 @@ const Header = ({ pageInfo }) => {
                 <Nav.Link href="/insights">Insights</Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" className="mx-3">
-                <Nav.Link onClick={() => scrollTo("#contact")}>Contact</Nav.Link>
+                <Nav.Link onClick={() => scrollTo("#contact")}>
+                  Contact
+                </Nav.Link>
               </Nav.Item>
             </Scrollspy>
           </Nav>
