@@ -5,7 +5,7 @@ module.exports = {
       name: `Kira Koopman`,
       summary: `Founder at Elevate Learning | Digital Learning Solutions Specialist`,
     },
-    description: `Insights from Elevate Learning.`,
+    description: `Elevate Learning is a full-service learning design consultancy. We partner with you to design and implement online and blended learning experiences.`,
     siteUrl: `https://www.elevatelearning.org/`,
     social: {
       twitter: `elevatelearning`,

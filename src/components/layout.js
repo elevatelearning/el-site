@@ -1,5 +1,6 @@
 import React from "react"
 
+import SEO from "../components/seo"
 import Header from "../components/header"
 import Home from "../components/home"
 import Services from "../components/services"
@@ -10,6 +11,7 @@ import Footer from "../components/footer"
 const Layout = () => {
   return (
     <div>
+      <SEO></SEO>
       <Header></Header>
       <Home></Home>
       <Services></Services>
