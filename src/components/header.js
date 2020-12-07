@@ -34,30 +34,22 @@ const Header = ({ pageInfo }) => {
     { content: "Home", href: "home" },
     { content: "Services", href: "services" },
     { content: "About", href: "about" },
-    { content: "Insights", href: "insights" },
+    // { content: "Insights", href: "insights" },
     { content: "Contact", href: "contact" },
   ])
 
   return (
     <header>
-      <Navbar className="d-block d-lg-none" id="alt-site-navbar">
-        <Navbar.Brand as="span" onClick={() => scrollTo("#home")}>
-          <Image
-            fixed={data.logoSmall.childImageSharp.fixed}
-            alt="Elevate Learning"
-          />
-        </Navbar.Brand>
-      </Navbar>
-      <Navbar fixed="top" className="d-none d-lg-flex" id="site-navbar">
+      <Navbar expand="lg" fixed="top">
         <Navbar.Brand as="span" onClick={() => scrollTo("#home")}>
           <Image
             fixed={data.logoLarge.childImageSharp.fixed}
             alt="Elevate Learning"
           />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ml-auto" activeKey={pageInfo && pageInfo.pageName}>
+        <Navbar.Toggle aria-controls="header-navbar-nav" />
+        <Navbar.Collapse id="header-navbar-nav">
+          <Nav className="ml-auto">
             <Scrollspy
               items={links.map(s => s.href)}
               currentClassName="current"
@@ -75,9 +67,9 @@ const Header = ({ pageInfo }) => {
               <Nav.Item as="li" className="mx-3">
                 <Nav.Link onClick={() => scrollTo("#about")}>About</Nav.Link>
               </Nav.Item>
-              <Nav.Item as="li" className="mx-3">
+              {/* <Nav.Item as="li" className="mx-3">
                 <Nav.Link href="/insights">Insights</Nav.Link>
-              </Nav.Item>
+              </Nav.Item> */}
               <Nav.Item as="li" className="mx-3">
                 <Nav.Link onClick={() => scrollTo("#contact")}>
                   Contact

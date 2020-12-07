@@ -1,7 +1,5 @@
 import React from "react"
-
 import ContactForm from "../components/contact-form"
-
 import { Col, Container, Row } from "react-bootstrap"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCompass, faEnvelope } from '@fortawesome/free-regular-svg-icons'
@@ -9,13 +7,13 @@ import { faPhone } from '@fortawesome/free-solid-svg-icons'
 
 const Contact = () => {
   return (
-    <Container fluid className="contact-wrapper p-5" id="contact">
-      <h1 className="text-center">Get In Touch</h1>
-      <Row noGutters className="my-4">
-        <Col lg={{ span: 5, offset: 1 }}>
+    <Container fluid className="contact-wrapper py-8" id="contact">
+      <h1 className="text-center pb-5">Get In Touch</h1>
+      <Row className="d-flex justify-content-center">
+        <Col xl="4">
           <ContactForm></ContactForm>
         </Col>
-        <Col lg={{ span: 5, offset: 0 }}>
+        <Col xl="4">
           <blockquote className="blockquote text-center mt-5">
             <p className="mb-0">
               Our approach to creating effective, memorable learning experiences starts with you. If you're interested in elevating your

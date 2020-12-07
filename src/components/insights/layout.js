@@ -11,7 +11,7 @@ const Layout = ({ location, title, children }) => {
       <Header></Header>
       <Container className="insights-wrapper" id="blog">
         <Row noGutters>
-          <Col lg={{ span: 10, offset: 1 }}>
+          <Col>
             {children}
           </Col>
         </Row>

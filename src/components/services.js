@@ -1,7 +1,6 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-
 import { Button, Col, Container, Nav, Row, Tab } from "react-bootstrap"
 import scrollTo from "gatsby-plugin-smoothscroll"
 
@@ -57,23 +56,19 @@ const Services = () => {
   `)
 
   return (
-    <Container
-      fluid
-      className="services-wrapper d-none d-lg-block p-5"
-      id="services"
-    >
-      <h1 className="text-center">Our Services</h1>
+    <Container fluid className="services-wrapper py-8" id="services">
+      <h1 className="text-center pb-5">Our Services</h1>
       <Tab.Container defaultActiveKey="tab-1" id="service-items">
-        <Row noGutters>
-          <Col lg={{ span: 10, offset: 1 }}>
-            <Nav justify variant="pills" as="ul" className="mt-5">
+        <Row className="d-flex justify-content-center">
+          <Col xl="8">
+            <Nav justify variant="pills" as="ul">
               <Nav.Item as="li" key="tab-1">
                 <Nav.Link eventKey="tab-1">
                   <Image
                     fixed={data.digitalNeedsAnalysis.childImageSharp.fixed}
                     alt="Digital Needs Analysis"
                   />
-                  Digital Needs Analysis
+                  <span>Digital Needs Analysis</span>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-2">
@@ -84,7 +79,7 @@ const Services = () => {
                     }
                     alt="Learning & Development Strategy"
                   />
-                  Learning & Development Strategy
+                  <span>Learning & Development Strategy</span>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-3">
@@ -96,7 +91,7 @@ const Services = () => {
                     }
                     alt="Learning Design & Content Development"
                   />
-                  Learning Design & Content Development
+                  <span>Learning Design & Content Development</span>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-4">
@@ -105,7 +100,7 @@ const Services = () => {
                     fixed={data.digitalLearningSolutions.childImageSharp.fixed}
                     alt="Digital Learning Solutions"
                   />
-                  Digital Learning Solutions
+                  <span>Digital Learning Solutions</span>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-5">
@@ -117,14 +112,14 @@ const Services = () => {
                     }
                     alt="Learning Experience Design Training"
                   />
-                  Learning Experience Design Training
+                  <span>Learning Experience Design Training</span>
                 </Nav.Link>
               </Nav.Item>
             </Nav>
           </Col>
         </Row>
-        <Row noGutters>
-          <Col lg={{ span: 10, offset: 1 }}>
+        <Row className="d-flex justify-content-center">
+          <Col xl="8">
             <Tab.Content>
               <Tab.Pane eventKey="tab-1" key="tab-1" className="text-center">
                 <p>

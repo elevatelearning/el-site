@@ -17,10 +17,6 @@
     font-style: normal !important;
   }
 
-  a {
-    box-shadow: none;
-  }
-
   ul.nav-pills {
     a {
       box-shadow: none;
@@ -33,7 +29,7 @@
       &:link,
       &:visited {
         background-color: $blue;
-        color: $white !important;
+        color: $turquoise !important;
       }
 
       &:active,
@@ -47,6 +43,10 @@
         background-color: $blue;
         color: $pink !important;
       }
+    }
+
+    span {
+      display: block;
     }
   }
   
