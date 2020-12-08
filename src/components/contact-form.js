@@ -50,9 +50,6 @@ class ContactForm extends React.Component {
         name="contact"
       >
         <Form.Group>
-          {this.state.feedbackMsg && <p>{this.state.feedbackMsg}</p>}
-        </Form.Group>
-        <Form.Group>
           <Form.Label>Name</Form.Label>
           <Form.Control
             required
@@ -91,6 +88,7 @@ class ContactForm extends React.Component {
           </small>
         </Form.Group>
         <Form.Group>
+          {this.state.feedbackMsg && <p>{this.state.feedbackMsg}</p>}
           <Form.Control type="hidden" name="bot-field" />
           <Form.Control type="hidden" name="form-name" value="contact" />
         </Form.Group>

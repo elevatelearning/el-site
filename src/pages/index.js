@@ -1,10 +1,13 @@
 import React from "react"
 
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
-const Index = () => {
+const Index = ({ location }) => {
   return (
-    <Layout></Layout>
+    <Layout location={location}>
+      <SEO></SEO>
+    </Layout>
   )
 }
 
