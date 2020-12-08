@@ -1,10 +1,11 @@
 import React from "react"
+
 import { Link, graphql } from "gatsby"
 
+import { rhythm } from "../utils/typography"
 import Bio from "../components/insights/bio"
 import Layout from "../components/insights/layout"
 import SEO from "../components/insights/seo"
-import { rhythm } from "../utils/typography"
 
 const Insights = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title

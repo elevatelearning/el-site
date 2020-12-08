@@ -1,7 +1,8 @@
 import React from "react"
+
+import { Button, Col, Container, Nav, Row, Tab } from "react-bootstrap"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-import { Button, Col, Container, Nav, Row, Tab } from "react-bootstrap"
 import scrollTo from "gatsby-plugin-smoothscroll"
 
 const Services = () => {

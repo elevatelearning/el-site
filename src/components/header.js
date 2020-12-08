@@ -1,9 +1,9 @@
 import React from "react"
-import { graphql, useStaticQuery } from "gatsby"
-import Image from "gatsby-image"
 
 import { Navbar, Nav } from "react-bootstrap"
 import Scrollspy from "react-scrollspy"
+import { graphql, useStaticQuery } from "gatsby"
+import Image from "gatsby-image"
 import scrollTo from "gatsby-plugin-smoothscroll"
 
 const Header = ({ pageInfo }) => {

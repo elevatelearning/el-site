@@ -1,9 +1,11 @@
 import React from "react"
-import ContactForm from "../components/contact-form"
+
 import { Col, Container, Row } from "react-bootstrap"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCompass, faEnvelope } from '@fortawesome/free-regular-svg-icons'
 import { faPhone } from '@fortawesome/free-solid-svg-icons'
+
+import ContactForm from "../components/contact-form"
 
 const Contact = () => {
   return (
