@@ -26,7 +26,12 @@ class ContactForm extends React.Component {
 
     const formData = {}
     Object.keys(this.formRef.current).map(
-      key => (formData[key] = this.formRef.current[key].value)
+      key => {
+        const nameAsKey = this.formRef.current[key].name
+        if (nameAsKey) {
+          formData[nameAsKey] = this.formRef.current[key].value
+        }
+      }
     )
 
     const axiosOptions = {
@@ -67,14 +72,14 @@ class ContactForm extends React.Component {
       >
         <Form.Group>
           <Form.Label>Name</Form.Label>
-          <Form.Control type="text" placeholder="Enter name" maxLength="100" required />
+          <Form.Control type="text" placeholder="Enter name" maxLength="100" name="name" required />
           <Form.Control.Feedback type="invalid">
             Please enter your name.
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
           <Form.Label>Email Address</Form.Label>
-          <Form.Control type="email" placeholder="Enter email" maxLength="100" required />
+          <Form.Control type="email" placeholder="Enter email" maxLength="100" name="email" required />
           <Form.Control.Feedback type="invalid">
             Please enter your email.
           </Form.Control.Feedback>
@@ -84,14 +89,14 @@ class ContactForm extends React.Component {
         </Form.Group>
         <Form.Group>
           <Form.Label>Contact Number</Form.Label>
-          <Form.Control type="text" placeholder="Enter contact number" maxLength="20" />
+          <Form.Control type="text" placeholder="Enter contact number" name="number" maxLength="20" />
           <Form.Text className="text-muted">
             We'll never share your contact number with anyone else.
           </Form.Text>
         </Form.Group>
         <Form.Group>
           <Form.Label>Enquiry</Form.Label>
-          <Form.Control as="textarea" rows="3" maxLength="400" required />
+          <Form.Control as="textarea" rows="3" maxLength="400" name="message" required />
           <Form.Control.Feedback type="invalid">
             Please enter a message.
           </Form.Control.Feedback>
