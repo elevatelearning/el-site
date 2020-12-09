@@ -5,8 +5,11 @@ import axios from "axios"
 import * as qs from "query-string"
 
 class ContactForm extends React.Component {
-  formRef = createRef()
-  state = { feedbackMessage: null, formValidated: false }
+  constructor(props) {
+    super(props)
+    this.formRef = createRef()
+    this.state = { feedbackMessage: null, formValidated: false }
+  }
 
   handleSubmit = event => {
     event.preventDefault()
@@ -22,11 +25,9 @@ class ContactForm extends React.Component {
     }
 
     const formData = {}
-    Object.keys(this.formRef).map(
-      key => (formData[key] = this.formRef[key].value)
+    Object.keys(this.formRef.current).map(
+      key => (formData[key] = this.formRef.current[key].value)
     )
-
-    console.log(qs.stringify(formData))
 
     const axiosOptions = {
       url: "/",
@@ -41,7 +42,7 @@ class ContactForm extends React.Component {
           feedbackMessage: "Message sent successfully!",
           formValidated: false,
         })
-        this.formRef.reset()
+        this.formRef.current.reset()
       })
       .catch(error =>
         this.setState({
@@ -56,7 +57,7 @@ class ContactForm extends React.Component {
   render() {
     return (
       <Form
-        ref={form => (this.formRef = form)}
+        ref={this.formRef}
         name="contact"
         method="POST"
         data-netlify="true"
@@ -66,14 +67,14 @@ class ContactForm extends React.Component {
       >
         <Form.Group>
           <Form.Label>Name</Form.Label>
-          <Form.Control type="text" placeholder="Enter name" required />
+          <Form.Control type="text" placeholder="Enter name" maxLength="100" required />
           <Form.Control.Feedback type="invalid">
             Please enter your name.
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
           <Form.Label>Email Address</Form.Label>
-          <Form.Control type="email" placeholder="Enter email" required />
+          <Form.Control type="email" placeholder="Enter email" maxLength="100" required />
           <Form.Control.Feedback type="invalid">
             Please enter your email.
           </Form.Control.Feedback>
@@ -83,14 +84,14 @@ class ContactForm extends React.Component {
         </Form.Group>
         <Form.Group>
           <Form.Label>Contact Number</Form.Label>
-          <Form.Control type="text" placeholder="Enter contact number" />
+          <Form.Control type="text" placeholder="Enter contact number" maxLength="20" />
           <Form.Text className="text-muted">
             We'll never share your contact number with anyone else.
           </Form.Text>
         </Form.Group>
         <Form.Group>
           <Form.Label>Enquiry</Form.Label>
-          <Form.Control as="textarea" rows="3" required />
+          <Form.Control as="textarea" rows="3" maxLength="400" required />
           <Form.Control.Feedback type="invalid">
             Please enter a message.
           </Form.Control.Feedback>
