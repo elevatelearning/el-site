@@ -25,14 +25,14 @@ class ContactForm extends React.Component {
     }
 
     const formData = {}
-    Object.keys(this.formRef.current).map(
-      key => {
-        const nameAsKey = this.formRef.current[key].name
-        if (nameAsKey) {
-          formData[nameAsKey] = this.formRef.current[key].value
-        }
-      }
-    )
+    Object.keys(this.formRef.current)
+      .filter(key => this.formRef.current[key].value)
+      .map(key => {
+        const name = this.formRef.current[key].name
+        return formData[name] = this.formRef.current[key].value
+      })
+
+    console.log(qs.stringify(formData))
 
     const axiosOptions = {
       url: "/",
