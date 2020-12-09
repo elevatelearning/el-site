@@ -7,13 +7,13 @@ import { faPhone } from "@fortawesome/free-solid-svg-icons"
 
 import ContactForm from "../components/contact-form"
 
-const Contact = ({ location }) => {
+const Contact = () => {
   return (
     <Container fluid className="contact-wrapper py-8" id="contact">
       <h1 className="text-center pb-5">Get In Touch</h1>
       <Row className="d-flex justify-content-center">
         <Col xl="4">
-          <ContactForm location={location}></ContactForm>
+          <ContactForm></ContactForm>
         </Col>
         <Col xl="4">
           <blockquote className="blockquote text-center mt-5">

@@ -27,7 +27,7 @@ class ContactForm extends React.Component {
     )
 
     const axiosOptions = {
-      url: this.props.location.pathname,
+      url: "/",
       method: "post",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       data: qs.stringify(formData),

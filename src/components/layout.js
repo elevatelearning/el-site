@@ -7,14 +7,14 @@ import About from "../components/about"
 import Contact from "../components/contact"
 import Footer from "../components/footer"
 
-const Layout = ({ location }) => {
+const Layout = () => {
   return (
     <main>
       <Header></Header>
       <Home></Home>
       <Services></Services>
       <About></About>
-      <Contact location={location}></Contact>
+      <Contact></Contact>
       <Footer></Footer>
     </main>
   )
