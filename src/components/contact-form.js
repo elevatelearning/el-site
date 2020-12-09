@@ -1,21 +1,29 @@
-import React from "react"
+import React, { createRef } from "react"
 
 import { Button, Form } from "react-bootstrap"
 import axios from "axios"
 import * as qs from "query-string"
 
 class ContactForm extends React.Component {
-  constructor(props) {
-    super(props)
-    this.domRef = React.createRef()
-    this.state = { feedbackMsg: null }
-  }
+  formRef = createRef()
+  state = { feedbackMessage: null, formValidated: false }
 
-  handleSubmit(event) {
+  handleSubmit = event => {
     event.preventDefault()
+    event.stopPropagation()
+
+    const form = event.currentTarget
+    if (form.checkValidity() === false) {
+      this.setState({
+        feedbackMessage: null,
+        formValidated: true,
+      })
+      return
+    }
+
     const formData = {}
-    Object.keys(this.domRef).map(
-      key => (formData[key] = this.domRef[key].value)
+    Object.keys(this.formRef).map(
+      key => (formData[key] = this.formRef[key].value)
     )
 
     const axiosOptions = {
@@ -28,13 +36,17 @@ class ContactForm extends React.Component {
     axios(axiosOptions)
       .then(response => {
         this.setState({
-          feedbackMsg: "Form submitted successfully!",
+          feedbackMessage: "Message sent successfully!",
+          formValidated: false,
         })
-        this.domRef.current.reset()
+        this.formRef.reset()
       })
-      .catch(err =>
+      .catch(error =>
         this.setState({
-          feedbackMsg: "Form could not be submitted.",
+          feedbackMessage: `Message could not be sent. ${JSON.stringify(
+            error
+          )}`,
+          formValidated: false,
         })
       )
   }
@@ -42,53 +54,48 @@ class ContactForm extends React.Component {
   render() {
     return (
       <Form
-        ref={this.domRef}
-        method="post"
+        noValidate
+        validated={this.state.formValidated}
         onSubmit={event => this.handleSubmit(event)}
+        method="post"
+        ref={form => (this.formRef = form)}
         netlify-honeypot="bot-field"
         data-netlify="true"
         name="contact"
       >
         <Form.Group>
           <Form.Label>Name</Form.Label>
-          <Form.Control
-            required
-            type="text"
-            placeholder="Enter name"
-            name="name"
-          />
+          <Form.Control type="text" placeholder="Enter name" required />
+          <Form.Control.Feedback type="invalid">
+            Please enter your name.
+          </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
           <Form.Label>Email Address</Form.Label>
-          <Form.Control
-            required
-            type="email"
-            placeholder="Enter email"
-            name="email"
-          />
+          <Form.Control type="email" placeholder="Enter email" required />
+          <Form.Control.Feedback type="invalid">
+            Please enter your email.
+          </Form.Control.Feedback>
+          <Form.Text className="text-muted">
+            We'll never share your email with anyone else.
+          </Form.Text>
         </Form.Group>
         <Form.Group>
           <Form.Label>Contact Number</Form.Label>
-          <Form.Control
-            type="text"
-            placeholder="Enter contact number"
-            name="contact-number"
-          />
+          <Form.Control type="text" placeholder="Enter contact number" />
+          <Form.Text className="text-muted">
+            We'll never share your contact number with anyone else.
+          </Form.Text>
         </Form.Group>
         <Form.Group>
           <Form.Label>Enquiry</Form.Label>
-          <Form.Control required as="textarea" rows="3" name="message" />
+          <Form.Control as="textarea" rows="3" required />
+          <Form.Control.Feedback type="invalid">
+            Please enter a message.
+          </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
-          <small
-            className="form-text text-muted d-none d-lg-block"
-            id="emailHelp"
-          >
-            We'll never share your personal details or data with anyone.
-          </small>
-        </Form.Group>
-        <Form.Group>
-          {this.state.feedbackMsg && <p>{this.state.feedbackMsg}</p>}
+          {this.state.feedbackMessage && <p>{this.state.feedbackMessage}</p>}
           <Form.Control type="hidden" name="bot-field" />
           <Form.Control type="hidden" name="form-name" value="contact" />
         </Form.Group>

@@ -25,6 +25,11 @@ body:after {
   }
 }
 
+.form-control {
+  border: 1px solid $white;
+  border-radius: 0;
+}
+
 .form-label {
   color: $white;
 }
