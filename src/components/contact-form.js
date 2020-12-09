@@ -26,6 +26,8 @@ class ContactForm extends React.Component {
       key => (formData[key] = this.formRef[key].value)
     )
 
+    console.log(qs.stringify(formData))
+
     const axiosOptions = {
       url: "/",
       method: "post",
@@ -54,14 +56,13 @@ class ContactForm extends React.Component {
   render() {
     return (
       <Form
+        ref={form => (this.formRef = form)}
+        name="contact"
+        method="POST"
+        data-netlify="true"
+        onSubmit={event => this.handleSubmit(event)}
         noValidate
         validated={this.state.formValidated}
-        onSubmit={event => this.handleSubmit(event)}
-        method="post"
-        ref={form => (this.formRef = form)}
-        netlify-honeypot="bot-field"
-        data-netlify="true"
-        name="contact"
       >
         <Form.Group>
           <Form.Label>Name</Form.Label>
@@ -96,7 +97,6 @@ class ContactForm extends React.Component {
         </Form.Group>
         <Form.Group>
           {this.state.feedbackMessage && <p>{this.state.feedbackMessage}</p>}
-          <Form.Control type="hidden" name="bot-field" />
           <Form.Control type="hidden" name="form-name" value="contact" />
         </Form.Group>
         <Button type="submit" className="btn btn-lg" variant="outline-primary">
