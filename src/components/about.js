@@ -5,9 +5,9 @@ import scrollTo from "gatsby-plugin-smoothscroll"
 
 const About = () => {
   return (
-    <Container fluid className="about-wrapper py-8" id="about">
-      <Row className="d-flex justify-content-center">
-        <Col xl="8">
+    <Container fluid className="about-wrapper pt-md-4 pt-xl-8" id="about">
+      <Row className="justify-content-center">
+        <Col md={10} xl={8}>
           <Jumbotron>
             <h1 className="display-5">Elevated Experiential Learning</h1>
             <p className="lead text-justify mt-3">
@@ -33,7 +33,7 @@ const About = () => {
             <Button
               variant="outline-primary"
               onClick={() => scrollTo("#contact")}
-              className="btn btn-xxl mt-5 link-no-style"
+              className="btn btn-xxl d-none d-lg-block mt-5 link-no-style"
             >
               Partner with Elevate
             </Button>

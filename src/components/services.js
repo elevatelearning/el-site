@@ -57,11 +57,11 @@ const Services = () => {
   `)
 
   return (
-    <Container fluid className="services-wrapper py-8" id="services">
-      <h1 className="text-center pb-5">Our Services</h1>
+    <Container fluid className="services-wrapper py-5 py-xl-7" id="services">
+      <h1 className="text-center mb-3 mb-md-5">Our Services</h1>
       <Tab.Container defaultActiveKey="tab-1" id="service-items">
-        <Row className="d-flex justify-content-center">
-          <Col xl="8">
+        <Row className="justify-content-center">
+          <Col md={10} xl={8}>
             <Nav justify variant="pills" as="ul">
               <Nav.Item as="li" key="tab-1">
                 <Nav.Link eventKey="tab-1">
@@ -119,8 +119,8 @@ const Services = () => {
             </Nav>
           </Col>
         </Row>
-        <Row className="d-flex justify-content-center">
-          <Col xl="8">
+        <Row className="justify-content-center">
+          <Col md={10} xl={8}>
             <Tab.Content>
               <Tab.Pane eventKey="tab-1" key="tab-1" className="text-center">
                 <p>
@@ -221,7 +221,7 @@ const Services = () => {
           <Button
             variant="outline-primary"
             onClick={() => scrollTo("#about")}
-            className="btn btn-xl mt-5 link-no-style"
+            className="btn btn-xl d-none d-lg-inline-block mt-5 link-no-style"
           >
             About Us
           </Button>

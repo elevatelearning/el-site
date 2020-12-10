@@ -5,6 +5,13 @@ html {
   margin: 0;
 }
 
+:focus {
+  outline: none;
+}
+::-moz-focus-inner {
+  border: 0;
+}
+
 body:after {
   background: url(../images/elevate-bg-one.jpg) center center;
   -webkit-background-size: cover;
@@ -46,6 +53,7 @@ body:after {
 
 .btn {
   border-radius: 0 !important;
+  box-shadow: none !important;
   text-transform: uppercase;
 }
 
@@ -64,24 +72,16 @@ body:after {
 }
 
 .btn-outline-primary {
-  background-color: transparent;
-  background-image: none;
-  border-color: $evl-pink;
-  box-shadow: none;
-  color: $evl-white;
-
-  &:hover {
-    background-color: $evl-turquoise;
-    border-color: $evl-turquoise;
-    box-shadow: none;
-    color: $evl-white;
-  }
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: $evl-pink !important;
+  color: $evl-white !important;
 
   &:active,
-  &:focus,
-  &:link,
-  &:visited {
-    box-shadow: none;
+  &:hover {    
+    background-color: $evl-turquoise !important;
+    border-color: $evl-turquoise !important;
+    color: $evl-white !important;
   }
 }
 

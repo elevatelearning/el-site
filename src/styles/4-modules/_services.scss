@@ -4,12 +4,14 @@
   h1 {
     color: $evl-white;
     font-family: $font-family-sans-serif;
-    font-weight: 400;
+    font-size: 2rem;
+    font-weight: $font-weight-normal;
     text-transform: uppercase;
   }
 
   p {
-    color: $evl-turquoise;
+    color: $evl-turquoise !important;
+    font-size: 1rem;
   }
 
   blockquote {
@@ -22,8 +24,8 @@
       box-shadow: none;
       display: block;
       font-family: $headings-font-family;
-      font-size: 1.3rem;
-      font-weight: 600;
+      font-size: 1.2rem;
+      font-weight: $font-weight-heavy;
       margin-bottom: 10px;
 
       &:link,
@@ -53,6 +55,54 @@
   .tab-content {
     p {
       color: $evl-turquoise;
+    }
+  }
+
+  @include media-breakpoint-up(sm) {
+    h1 {
+      font-size: 2.2rem;
+    }
+
+    p {
+      font-size: 1.1rem;
+    }
+
+    ul.nav-pills {
+      a {
+        font-size: 1.4rem;
+      }
+    }
+  }
+
+  @include media-breakpoint-up(md) {
+    h1 {
+      font-size: 2.4rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+    }
+
+    ul.nav-pills {
+      a {
+        font-size: 1.5rem;
+      }
+    }
+  }
+
+  @include media-breakpoint-up(lg) {
+    h1 {
+      font-size: 2.6rem;
+    }
+
+    p {
+      font-size: 1.3rem;
+    }
+
+    ul.nav-pills {
+      a {
+        font-size: 1.6rem;
+      }
     }
   }
 }

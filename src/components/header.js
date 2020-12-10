@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 
 import { Navbar, Nav } from "react-bootstrap"
 import Scrollspy from "react-scrollspy"
@@ -6,10 +6,10 @@ import { graphql, useStaticQuery } from "gatsby"
 import Image from "gatsby-image"
 import scrollTo from "gatsby-plugin-smoothscroll"
 
-const Header = ({ pageInfo }) => {
+const Header = () => {
   const data = useStaticQuery(graphql`
     query HeaderQuery {
-      logoLarge: file(
+      desktopImage: file(
         absolutePath: { regex: "/elevate-logo-text-right.png/" }
       ) {
         childImageSharp {
@@ -18,7 +18,7 @@ const Header = ({ pageInfo }) => {
           }
         }
       }
-      logoSmall: file(
+      mobileImage: file(
         absolutePath: { regex: "/elevate-logo-text-right.png/" }
       ) {
         childImageSharp {
@@ -30,7 +30,15 @@ const Header = ({ pageInfo }) => {
     }
   `)
 
-  const [links] = React.useState([
+  const sources = [
+    data.mobileImage.childImageSharp.fixed,
+    {
+      ...data.desktopImage.childImageSharp.fixed,
+      media: `(min-width: 768px)`,
+    },
+  ]
+
+  const [links] = useState([
     { content: "Home", href: "home" },
     { content: "Services", href: "services" },
     { content: "About", href: "about" },
@@ -40,12 +48,9 @@ const Header = ({ pageInfo }) => {
 
   return (
     <header>
-      <Navbar expand="lg" fixed="top">
-        <Navbar.Brand as="span" onClick={() => scrollTo("#home")}>
-          <Image
-            fixed={data.logoLarge.childImageSharp.fixed}
-            alt="Elevate Learning"
-          />
+      <Navbar expand="lg" fixed="top" id="header-navbar">
+        <Navbar.Brand onClick={() => scrollTo("#home")}>
+          <Image fixed={sources} alt="Elevate Learning" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="header-navbar-nav" />
         <Navbar.Collapse id="header-navbar-nav">
@@ -56,21 +61,21 @@ const Header = ({ pageInfo }) => {
               offset={-300}
               className="navbar-nav"
             >
-              <Nav.Item as="li" className="mx-3">
+              <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link onClick={() => scrollTo("#home")}>Home</Nav.Link>
               </Nav.Item>
-              <Nav.Item as="li" className="mx-3">
+              <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link onClick={() => scrollTo("#services")}>
                   Services
                 </Nav.Link>
               </Nav.Item>
-              <Nav.Item as="li" className="mx-3">
+              <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link onClick={() => scrollTo("#about")}>About</Nav.Link>
               </Nav.Item>
-              {/* <Nav.Item as="li" className="mx-3">
+              {/* <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link href="/insights">Insights</Nav.Link>
               </Nav.Item> */}
-              <Nav.Item as="li" className="mx-3">
+              <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link onClick={() => scrollTo("#contact")}>
                   Contact
                 </Nav.Link>
