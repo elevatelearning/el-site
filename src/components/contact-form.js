@@ -129,7 +129,7 @@ class ContactForm extends React.Component {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
-          <ReCAPTCHA sitekey="{process.env.GATSBY_RECAPTCHA_KEY}" name="g-recaptcha-response" />
+          <ReCAPTCHA sitekey={process.env.GATSBY_RECAPTCHA_KEY} name="g-recaptcha-response" />
         </Form.Group>
         <Form.Group>
           {this.state.feedbackMessage && <p>{this.state.feedbackMessage}</p>}
