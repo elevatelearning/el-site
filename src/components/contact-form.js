@@ -3,6 +3,7 @@ import React, { createRef } from "react"
 import { Button, Form } from "react-bootstrap"
 import axios from "axios"
 import * as qs from "query-string"
+import ReCAPTCHA from "react-google-recaptcha"
 
 class ContactForm extends React.Component {
   constructor(props) {
@@ -23,6 +24,8 @@ class ContactForm extends React.Component {
       })
       return
     }
+
+    console.log(this.formRef.current)
 
     const formData = {}
     Object.keys(this.formRef.current)
@@ -126,7 +129,7 @@ class ContactForm extends React.Component {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
-          <div data-netlify-recaptcha="true"></div>
+          <ReCAPTCHA sitekey="{process.env.GATSBY_RECAPTCHA_KEY}" name="g-recaptcha-response" />
         </Form.Group>
         <Form.Group>
           {this.state.feedbackMessage && <p>{this.state.feedbackMessage}</p>}
