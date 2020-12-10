@@ -7,21 +7,21 @@
 
       &:link,
       &:visited {
-        color: $white !important;
+        color: $evl-white !important;
         border-bottom: 1px solid transparent !important;
       }
 
       &:active,
       &:focus,
       &:hover {
-        color: $white !important;
-        border-bottom: 1px solid $pink !important;
+        color: $evl-white !important;
+        border-bottom: 1px solid $evl-pink !important;
       }
     }
 
     .current {
       a {
-        border-bottom: 1px solid $pink !important;
+        border-bottom: 1px solid $evl-pink !important;
       }
     }
   }

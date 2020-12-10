@@ -1,15 +1,15 @@
 .services-wrapper {
-  background-color: $blue;
+  background-color: $evl-blue;
 
   h1 {
-    color: $white;
+    color: $evl-white;
     font-family: $font-family-sans-serif;
     font-weight: 400;
     text-transform: uppercase;
   }
 
   p {
-    color: $turquoise;
+    color: $evl-turquoise;
   }
 
   blockquote {
@@ -28,20 +28,20 @@
 
       &:link,
       &:visited {
-        background-color: $blue;
-        color: $turquoise !important;
+        background-color: $evl-blue;
+        color: $evl-turquoise !important;
       }
 
       &:active,
       &:focus,
       &:hover {
-        background-color: $blue;
-        color: $pink !important;
+        background-color: $evl-blue;
+        color: $evl-pink !important;
       }
 
       &.active {
-        background-color: $blue;
-        color: $pink !important;
+        background-color: $evl-blue;
+        color: $evl-pink !important;
       }
     }
 
@@ -52,7 +52,7 @@
   
   .tab-content {
     p {
-      color: $turquoise;
+      color: $evl-turquoise;
     }
   }
 }

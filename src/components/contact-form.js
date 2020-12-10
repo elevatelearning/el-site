@@ -25,7 +25,17 @@ class ContactForm extends React.Component {
       return
     }
 
-    console.log(this.formRef.current)
+    const recaptcha = Object.values(this.formRef.current).find(
+      control => control.name === "g-recaptcha-response"
+    )
+
+    if (!recaptcha.value) {
+      this.setState({
+        feedbackMessage: "reCAPTCHA must be completed.",
+        formValidated: true,
+      })
+      return
+    }
 
     const formData = {}
     Object.keys(this.formRef.current)
@@ -34,8 +44,6 @@ class ContactForm extends React.Component {
         const name = this.formRef.current[key].name
         return (formData[name] = this.formRef.current[key].value)
       })
-
-    console.log(qs.stringify(formData))
 
     const axiosOptions = {
       url: "/",
@@ -54,9 +62,7 @@ class ContactForm extends React.Component {
       })
       .catch(error =>
         this.setState({
-          feedbackMessage: `Message could not be sent. ${JSON.stringify(
-            error
-          )}`,
+          feedbackMessage: "Message could not be sent.",
           formValidated: false,
         })
       )
@@ -99,9 +105,6 @@ class ContactForm extends React.Component {
           <Form.Control.Feedback type="invalid">
             Please enter your email.
           </Form.Control.Feedback>
-          <Form.Text className="text-muted">
-            We'll never share your email with anyone else.
-          </Form.Text>
         </Form.Group>
         <Form.Group>
           <Form.Label>Contact Number</Form.Label>
@@ -111,9 +114,6 @@ class ContactForm extends React.Component {
             name="number"
             maxLength="20"
           />
-          <Form.Text className="text-muted">
-            We'll never share your contact number with anyone else.
-          </Form.Text>
         </Form.Group>
         <Form.Group>
           <Form.Label>Enquiry</Form.Label>
@@ -129,7 +129,15 @@ class ContactForm extends React.Component {
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
-          <ReCAPTCHA sitekey={process.env.GATSBY_RECAPTCHA_KEY} name="g-recaptcha-response" />
+          <Form.Text className="text-muted">
+            We'll never share your personal details or data with anyone else.
+          </Form.Text>
+        </Form.Group>
+        <Form.Group>
+          <ReCAPTCHA
+            sitekey={process.env.GATSBY_RECAPTCHA_KEY}
+            name="g-recaptcha-response"
+          />
         </Form.Group>
         <Form.Group>
           {this.state.feedbackMessage && <p>{this.state.feedbackMessage}</p>}

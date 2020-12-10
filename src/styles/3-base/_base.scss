@@ -21,17 +21,27 @@ body:after {
   z-index: -1;
 
   @media screen and (max-width: 768px) {
-      background-attachment: scroll;
+    background-attachment: scroll;
   }
 }
 
-.form-control {
-  border: 1px solid $white;
-  border-radius: 0;
+.form-label {
+  color: $evl-white;
 }
 
-.form-label {
-  color: $white;
+.form-control {
+  border: 1px solid $evl-white;
+  border-radius: 0;
+
+  &:focus {
+    border-color: $evl-pink;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset,
+      0px 0px 8px rgba(207, 94, 116, 0.8);
+  }
+}
+
+.text-muted {
+  color: $evl-grey !important;
 }
 
 .btn {
@@ -56,15 +66,15 @@ body:after {
 .btn-outline-primary {
   background-color: transparent;
   background-image: none;
-  border-color: $pink;
+  border-color: $evl-pink;
   box-shadow: none;
-  color: $white;
+  color: $evl-white;
 
   &:hover {
-    background-color: $turquoise;
-    border-color: $turquoise;
+    background-color: $evl-turquoise;
+    border-color: $evl-turquoise;
     box-shadow: none;
-    color: $white;
+    color: $evl-white;
   }
 
   &:active,
@@ -78,15 +88,15 @@ body:after {
 .was-validated {
   .form-control {
     &:valid {
-      border-color: $turquoise;
+      border-color: $evl-turquoise;
     }
 
     &:invalid {
-      border-color: $pink;
+      border-color: $evl-pink;
     }
   }
 }
 
 .invalid-feedback {
-  color: $pink;
+  color: $evl-pink;
 }

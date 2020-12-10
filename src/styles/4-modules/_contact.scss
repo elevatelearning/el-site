@@ -1,20 +1,20 @@
 .contact-wrapper {
-  background-color: $blue;
+  background-color: $evl-blue;
 
   h1 {
-    color: $white;
+    color: $evl-white;
     font-family: $font-family-sans-serif;
     font-weight: 400;
     text-transform: uppercase;
   }
 
   h3 {
-    color: $white;
+    color: $evl-white;
     font-size: 1.4rem;
   }
 
   p {
-    color: $turquoise;
+    color: $evl-turquoise;
   }
 
   blockquote {
@@ -29,20 +29,20 @@
   a {
     border-bottom: 1px solid transparent;
     box-shadow: none;
-    color: $white;
+    color: $evl-white;
     font-size: 1.4rem;
     margin-left: 5px;
     text-decoration: none;
 
     &:link,
     &:visited {
-      color: $white;
+      color: $evl-white;
     }
 
     &:active,
     &:focus,
     &:hover {
-      color: $pink;
+      color: $evl-pink;
     }
   }
 
