@@ -29,7 +29,7 @@ class ContactForm extends React.Component {
       .filter(key => this.formRef.current[key].value)
       .map(key => {
         const name = this.formRef.current[key].name
-        return formData[name] = this.formRef.current[key].value
+        return (formData[name] = this.formRef.current[key].value)
       })
 
     console.log(qs.stringify(formData))
@@ -65,6 +65,7 @@ class ContactForm extends React.Component {
         ref={this.formRef}
         name="contact"
         method="POST"
+        data-netlify-recaptcha="true"
         data-netlify="true"
         onSubmit={event => this.handleSubmit(event)}
         noValidate
@@ -72,14 +73,26 @@ class ContactForm extends React.Component {
       >
         <Form.Group>
           <Form.Label>Name</Form.Label>
-          <Form.Control type="text" placeholder="Enter name" maxLength="100" name="name" required />
+          <Form.Control
+            type="text"
+            placeholder="Enter name"
+            maxLength="100"
+            name="name"
+            required
+          />
           <Form.Control.Feedback type="invalid">
             Please enter your name.
           </Form.Control.Feedback>
         </Form.Group>
         <Form.Group>
           <Form.Label>Email Address</Form.Label>
-          <Form.Control type="email" placeholder="Enter email" maxLength="100" name="email" required />
+          <Form.Control
+            type="email"
+            placeholder="Enter email"
+            maxLength="100"
+            name="email"
+            required
+          />
           <Form.Control.Feedback type="invalid">
             Please enter your email.
           </Form.Control.Feedback>
@@ -89,17 +102,31 @@ class ContactForm extends React.Component {
         </Form.Group>
         <Form.Group>
           <Form.Label>Contact Number</Form.Label>
-          <Form.Control type="text" placeholder="Enter contact number" name="number" maxLength="20" />
+          <Form.Control
+            type="text"
+            placeholder="Enter contact number"
+            name="number"
+            maxLength="20"
+          />
           <Form.Text className="text-muted">
             We'll never share your contact number with anyone else.
           </Form.Text>
         </Form.Group>
         <Form.Group>
           <Form.Label>Enquiry</Form.Label>
-          <Form.Control as="textarea" rows="3" maxLength="400" name="message" required />
+          <Form.Control
+            as="textarea"
+            rows="3"
+            maxLength="400"
+            name="message"
+            required
+          />
           <Form.Control.Feedback type="invalid">
             Please enter a message.
           </Form.Control.Feedback>
+        </Form.Group>
+        <Form.Group>
+          <div data-netlify-recaptcha="true"></div>
         </Form.Group>
         <Form.Group>
           {this.state.feedbackMessage && <p>{this.state.feedbackMessage}</p>}
