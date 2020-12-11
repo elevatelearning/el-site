@@ -22,7 +22,7 @@ const Header = () => {
         absolutePath: { regex: "/elevate-logo-text-right.png/" }
       ) {
         childImageSharp {
-          fixed(width: 200, height: 70) {
+          fixed(width: 250, height: 100) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -52,7 +52,7 @@ const Header = () => {
         <Navbar.Brand onClick={() => scrollTo("#home")}>
           <Image fixed={sources} alt="Elevate Learning" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="header-navbar-nav" />
+        <Navbar.Toggle className="d-none custom-toggler" aria-controls="header-navbar-nav" />
         <Navbar.Collapse id="header-navbar-nav">
           <Nav className="ml-auto">
             <Scrollspy

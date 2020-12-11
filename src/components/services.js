@@ -57,19 +57,19 @@ const Services = () => {
   `)
 
   return (
-    <Container fluid className="services-wrapper py-5 py-xl-7" id="services">
-      <h1 className="text-center mb-3 mb-md-5">Our Services</h1>
+    <Container fluid className="services-wrapper py-4 py-lg-7" id="services">
+      <h1 className="text-center">Our Services</h1>
       <Tab.Container defaultActiveKey="tab-1" id="service-items">
-        <Row className="justify-content-center">
-          <Col md={10} xl={8}>
-            <Nav justify variant="pills" as="ul">
+        <Row className="justify-content-center pt-4">
+          <Col md={10} lg={8}>
+            <Nav justify as="ul">
               <Nav.Item as="li" key="tab-1">
                 <Nav.Link eventKey="tab-1">
                   <Image
                     fixed={data.digitalNeedsAnalysis.childImageSharp.fixed}
                     alt="Digital Needs Analysis"
                   />
-                  <span>Digital Needs Analysis</span>
+                  <div>Digital Needs Analysis</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-2">
@@ -80,7 +80,7 @@ const Services = () => {
                     }
                     alt="Learning & Development Strategy"
                   />
-                  <span>Learning & Development Strategy</span>
+                  <div>Learning & Development Strategy</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-3">
@@ -92,7 +92,7 @@ const Services = () => {
                     }
                     alt="Learning Design & Content Development"
                   />
-                  <span>Learning Design & Content Development</span>
+                  <div>Learning Design & Content Development</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-4">
@@ -101,7 +101,7 @@ const Services = () => {
                     fixed={data.digitalLearningSolutions.childImageSharp.fixed}
                     alt="Digital Learning Solutions"
                   />
-                  <span>Digital Learning Solutions</span>
+                  <div>Digital Learning Solutions</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-5">
@@ -113,14 +113,14 @@ const Services = () => {
                     }
                     alt="Learning Experience Design Training"
                   />
-                  <span>Learning Experience Design Training</span>
+                  <div>Learning Experience Design Training</div>
                 </Nav.Link>
               </Nav.Item>
             </Nav>
           </Col>
         </Row>
         <Row className="justify-content-center">
-          <Col md={10} xl={8}>
+          <Col md={10} lg={8}>
             <Tab.Content>
               <Tab.Pane eventKey="tab-1" key="tab-1" className="text-center">
                 <p>

@@ -9,14 +9,14 @@ import ContactForm from "../components/contact-form"
 
 const Contact = () => {
   return (
-    <Container fluid className="contact-wrapper py-5 py-xl-7" id="contact">
-      <h1 className="text-center mb-3 mb-md-5">Get In Touch</h1>
-      <Row className="justify-content-center">
-        <Col md={5} xl={4}>
+    <Container fluid className="contact-wrapper pt-4 pt-lg-7" id="contact">
+      <h1 className="text-center">Get In Touch</h1>
+      <Row className="justify-content-center pt-4">
+        <Col md={5} lg={4}>
           <ContactForm></ContactForm>
         </Col>
-        <Col md={5} xl={4}>
-          <blockquote className="blockquote text-center mt-5">
+        <Col md={5} lg={4}>
+          <blockquote className="blockquote text-center">
             <p className="mb-0">
               Our approach to creating effective, memorable learning experiences
               starts with you. If you're interested in elevating your learning,

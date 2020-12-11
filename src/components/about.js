@@ -5,10 +5,10 @@ import scrollTo from "gatsby-plugin-smoothscroll"
 
 const About = () => {
   return (
-    <Container fluid className="about-wrapper pt-md-4 pt-xl-8" id="about">
+    <Container fluid className="about-wrapper" id="about">
       <Row className="justify-content-center">
-        <Col md={10} xl={8}>
-          <Jumbotron>
+        <Col md={10} lg={8}>
+          <Jumbotron className="mt-2">
             <h1 className="display-5">Elevated Experiential Learning</h1>
             <p className="lead text-justify mt-3">
               When you partner with Elevate Learning, our curriculum and
