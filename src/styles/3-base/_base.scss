@@ -32,25 +32,6 @@ body:after {
   }
 }
 
-.form-label {
-  color: $evl-white;
-}
-
-.form-control {
-  border: 1px solid $evl-white;
-  border-radius: 0;
-
-  &:focus {
-    border-color: $evl-pink;
-    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset,
-      0px 0px 8px rgba(207, 94, 116, 0.8);
-  }
-}
-
-.text-muted {
-  color: $evl-grey !important;
-}
-
 .btn {
   border-radius: 0 !important;
   box-shadow: none !important;
@@ -83,20 +64,4 @@ body:after {
     border-color: $evl-turquoise !important;
     color: $evl-white !important;
   }
-}
-
-.was-validated {
-  .form-control {
-    &:valid {
-      border-color: $evl-turquoise;
-    }
-
-    &:invalid {
-      border-color: $evl-pink;
-    }
-  }
-}
-
-.invalid-feedback {
-  color: $evl-pink;
 }

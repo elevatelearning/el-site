@@ -9,17 +9,12 @@
   }
 
   a {
+    border-bottom: 1px solid transparent;
     box-shadow: none;
+    color: $evl-turquoise;
     text-decoration: none;
 
-    &:link,
-    &:visited {
-      border-bottom: 1px solid transparent;
-      color: $evl-turquoise;
-    }
-
     &:active,
-    &:focus,
     &:hover {
       color: $evl-pink;
     }

@@ -27,21 +27,16 @@
     }
 
     a {
+      background-color: $evl-blue;
       box-shadow: none;
+      color: $evl-turquoise !important;
       display: block;
       font-family: $headings-font-family;
       font-size: 1.2rem;
       font-weight: $font-weight-heavy;
       margin-bottom: 10px;
 
-      &:link,
-      &:visited {
-        background-color: $evl-blue;
-        color: $evl-turquoise !important;
-      }
-
       &:active,
-      &:focus,
       &:hover {
         background-color: $evl-blue;
         color: $evl-pink !important;

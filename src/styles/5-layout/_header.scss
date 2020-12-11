@@ -9,18 +9,13 @@
 
   ul.navbar-nav {
     a {
+      border-bottom: 1px solid transparent !important;
       box-shadow: none;
+      color: $evl-white !important;
       font-size: 1.4rem;
       text-transform: uppercase;
 
-      &:link,
-      &:visited {
-        color: $evl-white !important;
-        border-bottom: 1px solid transparent !important;
-      }
-
       &:active,
-      &:focus,
       &:hover {
         color: $evl-white !important;
         border-bottom: 1px solid $evl-pink !important;
