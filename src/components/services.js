@@ -124,7 +124,7 @@ const Services = () => {
             <Tab.Content>
               <Tab.Pane eventKey="tab-1" key="tab-1" className="text-center">
                 <p>
-                  Leading digital change is more than kist purchasing an online
+                  Leading digital change is more than just purchasing an online
                   learning platform or creating digital course content. It
                   requires leaders who have a vision of how to transform their
                   organisations to thrive in a digital world.
