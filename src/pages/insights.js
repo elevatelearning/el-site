@@ -14,7 +14,10 @@ const Insights = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
+      <h1>New Insights</h1>
+      <p>A collection of insights about our people, our capabilities, our research, and the ever-changing face of our firm.</p>
       <Bio />
+      
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (

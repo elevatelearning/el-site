@@ -42,7 +42,7 @@ const Header = () => {
     { content: "Home", href: "home" },
     { content: "Services", href: "services" },
     { content: "About", href: "about" },
-    // { content: "Insights", href: "insights" },
+    { content: "Insights", href: "insights" },
     { content: "Contact", href: "contact" },
   ])
 
@@ -72,9 +72,9 @@ const Header = () => {
               <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link onClick={() => scrollTo("#about")}>About</Nav.Link>
               </Nav.Item>
-              {/* <Nav.Item as="li" className="mx-lg-3">
+              <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link href="/insights">Insights</Nav.Link>
-              </Nav.Item> */}
+              </Nav.Item>
               <Nav.Item as="li" className="mx-lg-3">
                 <Nav.Link onClick={() => scrollTo("#contact")}>
                   Contact
