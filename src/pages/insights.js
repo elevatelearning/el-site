@@ -1,76 +1,21 @@
 import React from "react"
 
-import { Link, graphql } from "gatsby"
-
-import { rhythm } from "../utils/typography"
-import Bio from "../components/insights/bio"
+import Articles from "../components/insights/articles"
 import Layout from "../components/insights/layout"
 import SEO from "../components/insights/seo"
 
-const Insights = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
-
+const Insights = () => {
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout>
       <SEO title="All posts" />
       <h1>New Insights</h1>
-      <p>A collection of insights about our people, our capabilities, our research, and the ever-changing face of our firm.</p>
-      <Bio />
-      
-      {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
-        )
-      })}
+      <p>
+        A collection of insights about our people, our capabilities, our
+        research, and the ever-changing face of our firm.
+      </p>
+      <Articles />
     </Layout>
   )
 }
 
 export default Insights
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            description
-          }
-        }
-      }
-    }
-  }
-`

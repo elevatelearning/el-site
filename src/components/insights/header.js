@@ -5,7 +5,7 @@ import { Navbar, Nav } from "react-bootstrap"
 
 import Logo from "../../images/elevate-logo.png"
 
-const Header = ({ pageInfo }) => {
+const Header = () => {
   return (
     <header>
       <Navbar className="d-block d-lg-none" id="alt-site-navbar">

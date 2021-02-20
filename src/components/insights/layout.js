@@ -5,13 +5,13 @@ import { Col, Container, Row } from "react-bootstrap"
 import Header from "../header"
 import Footer from "../footer"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ children }) => {
   return (
     <main>
       <Header></Header>
-      <Container fluid className="insights-wrapper mt-7 mt-lg-8 py-6" id="blog">
+      <Container className="insights-wrapper mt-7 mt-lg-8 py-6" id="blog">
         <Row className="justify-content-center">
-          <Col md={10} lg={8}>
+          <Col>
             {children}
           </Col>
         </Row>
