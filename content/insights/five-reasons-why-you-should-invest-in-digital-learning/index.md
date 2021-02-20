@@ -1,7 +1,7 @@
 ---
 title: Five Reasons Why You Should Invest in Digital Learning
 date: "2020-07-26T10:59:59.169Z"
-description: We've just published our first article about the essence of what we do at Elevate Learning - Learning Experience Design.  Give it a read, share your thoughts in the comments and follow us for more insights into the world of digital learning and technology!
+description: With most organisations increasingly adapting their workplace strategies to encourage flexible working hours and work-from-home policies, trying to herd everyone into a physical classroom is not only challenging logistically, but will likely be met with some resistance on the part of the attendees.
 ---
 
 Or, how to motivate your boss, Board, or budget-holders to go digital.

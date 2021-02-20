@@ -1,7 +1,7 @@
 ---
 title: The Benefits of Microlearning to Achieve Learning Goals
 date: "2020-08-21T10:59:59.169Z"
-description: We've just published our first article about the essence of what we do at Elevate Learning - Learning Experience Design.  Give it a read, share your thoughts in the comments and follow us for more insights into the world of digital learning and technology!
+description: Today’s learners are pressed for time, easily distracted and crave learning experiences that are relevant, applicable and practical. Irrespective of age or context, modern learning are motivated by experiences that are not only goal-oriented and personalised, but also that take into account the fact that we don’t have long leisurely days to study, or even desire the prestige of a formal academic qualification.
 ---
 
 Chunking Your Learning Content for Maximum Retention and Engagement

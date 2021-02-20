@@ -1,7 +1,7 @@
 ---
 title: Using Gamification to Motivate Learning
 date: "2020-09-30T10:59:59.169Z"
-description: We've just published our first article about the essence of what we do at Elevate Learning - Learning Experience Design.  Give it a read, share your thoughts in the comments and follow us for more insights into the world of digital learning and technology!
+description: Modern adult learners are difficult customers to please. They’re strapped for time, digitally fatigued and are mostly uninterested in mandatory company training. Cutting through the noise and designing impactful digital and blended learning experiences means to understand their needs and motivations.
 ---
 
 Understanding gamification tactics to deliver impactful learning experiences.
@@ -12,29 +12,29 @@ Learners need to feel as though they are solving problems that are relevant and 
 
 ### There are two fundamental ‘types’ of motivation.
 
-**Extrinsic motivation** stems from factors  external to the learner and are typically related to pressures to  complete the learning programme. These might come from expectations of a boss, the promise of a reward or promotion or the fear of failure or  punishment. Extrinsic motivators might also include the potential for  public recognition or learning experiences that provide a sense of  instant gratification. These motivators, while seemingly effective in  the short term, do little to instill a love for learning, or a curiosity or desire to keep learning.
+**Extrinsic motivation** stems from factors external to the learner and are typically related to pressures to complete the learning programme. These might come from expectations of a boss, the promise of a reward or promotion or the fear of failure or punishment. Extrinsic motivators might also include the potential for public recognition or learning experiences that provide a sense of instant gratification. These motivators, while seemingly effective in the short term, do little to instill a love for learning, or a curiosity or desire to keep learning.
 
-**Intrinsic motivation** is made up of the  learner’s internal reasons for pursuing learning. These could include  personal goals and ambitions, genuine interest in a subject, a need to  prove something or even competition between peers. An intrinsically  motivated learner is attracted to the perceived status of having  knowledge and experience about a subject, and the ‘reward’ of mastering a topic or skill.
+**Intrinsic motivation** is made up of the learner’s internal reasons for pursuing learning. These could include personal goals and ambitions, genuine interest in a subject, a need to prove something or even competition between peers. An intrinsically motivated learner is attracted to the perceived status of having knowledge and experience about a subject, and the ‘reward’ of mastering a topic or skill.
 
 ## What is Gamification?
 
-Gamification has increasingly been thrown around as a cure-all for low motivation  and engagement levels in learning programmes. However, it’s important to distinguish between applying gamification tactics and creating  educational games, the latter referring to game-based scenarios or  commercial gaming experiences.
+Gamification has increasingly been thrown around as a cure-all for low motivation and engagement levels in learning programmes. However, it’s important to distinguish between applying gamification tactics and creating educational games, the latter referring to game-based scenarios or commercial gaming experiences.
 
-Gamification, however, is the use of game design elements to motivate and engage  participants of a learning experience. It is an approach to learning  experience design that uses tactics and principles of learning theory to extrinsically and intrinsically motivate participants to achieve  learning objectives. Gamification tactics draws on a learner’s natural  desire to achieve mastery, to compete and engage with others and to  solve challenges. It utilises aspects of behavioural economics and basic human psychology to tap into our desire to achieve status, to belong to a community of like-minded individuals to achieve and develop skills in a real-world or simulated environment.
+Gamification, however, is the use of game design elements to motivate and engage participants of a learning experience. It is an approach to learning experience design that uses tactics and principles of learning theory to extrinsically and intrinsically motivate participants to achieve learning objectives. Gamification tactics draws on a learner’s natural desire to achieve mastery, to compete and engage with others and to solve challenges. It utilises aspects of behavioural economics and basic human psychology to tap into our desire to achieve status, to belong to a community of like-minded individuals to achieve and develop skills in a real-world or simulated environment.
 
 ### Gamification is a delivery tactic
 
-In a previous article on the [LXD Process](https://medium.com/@elevatelearning/how-to-develop-a-learning-strategy-532da823ee21) one of the important steps in creating a course is to identify the  competencies, skills, knowledge or experience the learner should achieve upon completion of the learning programme. Gamification can be used as  an engaging and effective delivery tactic to achieve these learning  objectives.
+In a previous article on the [LXD Process](https://medium.com/@elevatelearning/how-to-develop-a-learning-strategy-532da823ee21) one of the important steps in creating a course is to identify the competencies, skills, knowledge or experience the learner should achieve upon completion of the learning programme. Gamification can be used as an engaging and effective delivery tactic to achieve these learning objectives.
 
 **Here are four ways you can use gamification tactics to improve learner motivation.**
 
 ### Appeal to our desire to know more
 
-When incorporating gamification tactics in a course or learning system, at  its simplest, you’re scaffolding and cascading information. This  information could be the content itself, unlocking new modules upon  completion of the other, sharing bonus content, or drip feeding  microlessons.
+When incorporating gamification tactics in a course or learning system, at its simplest, you’re scaffolding and cascading information. This information could be the content itself, unlocking new modules upon completion of the other, sharing bonus content, or drip feeding microlessons.
 
 ### Appeal to our desire to belong
 
-Creating community discussion boards, opportunities to share thoughts and  reflect on the experiences of the learning with peers helps to create a  sense of belonging among participants. This natural social pressure  motivates learners to contribute to the learning experience of others,  incentivising their own engagement throughout the course that creates a  compounding effect that continuously builds community.
+Creating community discussion boards, opportunities to share thoughts and reflect on the experiences of the learning with peers helps to create a sense of belonging among participants. This natural social pressure motivates learners to contribute to the learning experience of others, incentivising their own engagement throughout the course that creates a compounding effect that continuously builds community.
 
 ### Appeal to our desire to win
 

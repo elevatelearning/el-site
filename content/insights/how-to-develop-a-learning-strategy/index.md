@@ -1,7 +1,7 @@
 ---
 title: How to Develop a Learning Strategy
 date: "2020-08-06T10:59:59.169Z"
-description: We've just published our first article about the essence of what we do at Elevate Learning - Learning Experience Design.  Give it a read, share your thoughts in the comments and follow us for more insights into the world of digital learning and technology!
+description: Most learning and development teams are the first to feel the brunt of budget cuts, often cited as ‘nice-to-have’ rather than strategic enablers of your organisational strategy. There are plenty of reasons why learning teams have played in the shadows in the past.
 ---
 
 Using competence-based LXD to meet your strategic objectives.
