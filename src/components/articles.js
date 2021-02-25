@@ -1,7 +1,7 @@
 import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
 
-import { Card, CardDeck, Col, Container, Row } from "react-bootstrap"
+import { Card, CardDeck, Col, Row } from "react-bootstrap"
 
 const Articles = () => {
   const data = useStaticQuery(
@@ -34,7 +34,7 @@ const Articles = () => {
   const cards = data.allMarkdownRemark.edges.slice(1).map(({ node }) => {
     const title = node.frontmatter.title || node.fields.slug
     return (
-      <Card>
+      <Card key={title}>
         <Card.Img
           variant="top"
           src="https://codingyaar.com/wp-content/uploads/bootstrap-4-card-image-left-demo-image.jpg"
@@ -59,8 +59,6 @@ const Articles = () => {
   })
 
   const card = data.allMarkdownRemark.edges[0].node
-
-  console.group(card)
 
   return (
     <>

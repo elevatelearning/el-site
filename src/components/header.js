@@ -50,9 +50,12 @@ const Header = () => {
     <header>
       <Navbar expand="lg" fixed="top" id="header-navbar">
         <Navbar.Brand onClick={() => scrollTo("#home")}>
-          <Image fixed={sources} alt="Elevate Learning" />
+          <Image fixed={sources} alt="" />
         </Navbar.Brand>
-        <Navbar.Toggle className="d-none custom-toggler" aria-controls="header-navbar-nav" />
+        <Navbar.Toggle
+          className="d-none custom-toggler"
+          aria-controls="header-navbar-nav"
+        />
         <Navbar.Collapse id="header-navbar-nav">
           <Nav className="ml-auto">
             <Scrollspy
