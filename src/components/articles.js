@@ -31,10 +31,14 @@ const Articles = () => {
     `
   )
 
+  const limitStringLength = text => {
+    return text.replace(/(.{150})..+/, "$1…")
+  }
+
   const cards = data.allMarkdownRemark.edges.slice(1).map(({ node }) => {
     const title = node.frontmatter.title || node.fields.slug
     return (
-      <Card key={title}>
+      <Card key={title} className="mb-4">
         <Card.Img
           variant="top"
           src="https://codingyaar.com/wp-content/uploads/bootstrap-4-card-image-left-demo-image.jpg"
@@ -47,7 +51,9 @@ const Articles = () => {
           </Card.Title>
           <Card.Text
             dangerouslySetInnerHTML={{
-              __html: node.frontmatter.description || node.excerpt,
+              __html: limitStringLength(
+                node.frontmatter.description || node.excerpt
+              ),
             }}
           />
         </Card.Body>
@@ -64,11 +70,11 @@ const Articles = () => {
     <>
       <Row noGutters>
         <Col className="spotlight">
-          <Card className="mb-2">
+          <Card className="mb-4">
             <Row noGutters>
-              <Col md={3}>
+              <Col md={4}>
                 <Card.Img
-                  variant="bottom"
+                  variant="top"
                   src="https://codingyaar.com/wp-content/uploads/bootstrap-4-card-image-left-demo-image.jpg"
                 />
               </Col>

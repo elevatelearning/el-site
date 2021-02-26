@@ -2,42 +2,11 @@ import React, { useState } from "react"
 
 import { Navbar, Nav } from "react-bootstrap"
 import Scrollspy from "react-scrollspy"
-import { graphql, useStaticQuery } from "gatsby"
-import Image from "gatsby-image"
 import scrollTo from "gatsby-plugin-smoothscroll"
 
+import Image from "./image"
+
 const Header = () => {
-  const data = useStaticQuery(graphql`
-    query HeaderQuery {
-      desktopImage: file(
-        absolutePath: { regex: "/elevate-logo-text-right.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 300, height: 100) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      mobileImage: file(
-        absolutePath: { regex: "/elevate-logo-text-right.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 250, height: 100) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-    }
-  `)
-
-  const sources = [
-    data.mobileImage.childImageSharp.fixed,
-    {
-      ...data.desktopImage.childImageSharp.fixed,
-      media: `(min-width: 768px)`,
-    },
-  ]
-
   const [links] = useState([
     { content: "Home", href: "home" },
     { content: "Services", href: "services" },
@@ -50,7 +19,12 @@ const Header = () => {
     <header>
       <Navbar expand="lg" fixed="top" id="header-navbar">
         <Navbar.Brand onClick={() => scrollTo("#home")}>
-          <Image fixed={sources} alt="" />
+          <div style={{ width: "250px" }}>
+            <Image
+              alt="Elevate Learning"
+              filename="elevate-logo-text-right.png"
+            />
+          </div>
         </Navbar.Brand>
         <Navbar.Toggle
           className="d-none custom-toggler"
