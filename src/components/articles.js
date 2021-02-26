@@ -74,13 +74,13 @@ const Articles = () => {
             <Row noGutters>
               <Col md={4}>
                 <Card.Img
-                  variant="top"
-                  src="https://codingyaar.com/wp-content/uploads/bootstrap-4-card-image-left-demo-image.jpg"
+                  className="img-fluid"
+                  src="https://images.unsplash.com/photo-1497633762265-9d179a990aa6"
                 />
               </Col>
               <Col md={8}>
                 <Card.Body>
-                  <Card.Title>
+                  <Card.Title className="mt-4">
                     <Link style={{ boxShadow: `none` }} to={card.fields.slug}>
                       {card.frontmatter.title}
                     </Link>
@@ -91,11 +91,11 @@ const Articles = () => {
                     }}
                   />
                 </Card.Body>
-                <Card.Footer>
-                  <small className="text-muted">{card.frontmatter.date}</small>
-                </Card.Footer>
               </Col>
             </Row>
+            <Card.Footer>
+              <small className="text-muted">{card.frontmatter.date}</small>
+            </Card.Footer>
           </Card>
         </Col>
       </Row>
