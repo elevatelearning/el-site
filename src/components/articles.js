@@ -69,8 +69,8 @@ const Articles = () => {
   return (
     <>
       <Row noGutters>
-        <Col className="spotlight">
-          <Card className="mb-4">
+        <Col>
+          <Card className="card-horizontal mb-4">
             <Row noGutters>
               <Col md={4}>
                 <Card.Img

@@ -1,7 +1,9 @@
 import React from "react"
 
+import { faTwitter } from "@fortawesome/free-brands-svg-icons"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -37,7 +39,7 @@ const Bio = () => {
         <Image
           fixed={avatar}
           alt={author?.name || ``}
-          className="bio-avatar"
+          className="author"
           imgStyle={{
             borderRadius: `50%`,
           }}
@@ -50,9 +52,12 @@ const Bio = () => {
           {author?.summary || null}
           {` `}
           <br />
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
+          <strong>
+            <a href={`https://twitter.com/${social?.twitter || ``}`}>
+              <FontAwesomeIcon icon={faTwitter} size="1x" />
+              &nbsp;{social?.twitter || ``}
+            </a>
+          </strong>
         </p>
       )}
     </div>

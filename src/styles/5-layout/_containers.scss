@@ -47,25 +47,23 @@
   }
 }
 
-.spotlight {
-  .card {
-    align-items: center;
-    background-color: rgba(25, 52, 70, 0.7);
+.card-horizontal {
+  align-items: center;
+  background-color: rgba(25, 52, 70, 0.7);
 
-    img {
-      margin: 0;
-      padding: 0;
-    }
+  img {
+    margin: 0;
+    padding: 0;
+  }
 
-    .card-title {
-      color: $evl-turquoise;
-      font-family: $font-family-sans-serif;
-      font-size: 2rem;
-    }
+  .card-title {
+    color: $evl-turquoise;
+    font-family: $font-family-sans-serif;
+    font-size: 2rem;
+  }
 
-    .card-text {
-      font-size: 1.2rem;
-    }
+  .card-text {
+    font-size: 1.2rem;
   }
 }
 
