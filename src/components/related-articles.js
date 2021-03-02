@@ -4,10 +4,6 @@ import { Link } from "gatsby"
 import { Card, CardDeck, Col, Container, Row } from "react-bootstrap"
 
 const RelatedArticles = ({ previous, next }) => {
-  const limitStringLength = text => {
-    return text.replace(/(.{80})..+/, "$1…")
-  }
-
   const previousCard = () => {
     return (
       <Card key={previous.frontmatter.title} className="mb-4">
@@ -27,7 +23,7 @@ const RelatedArticles = ({ previous, next }) => {
               </Card.Title>
               <Card.Text
                 dangerouslySetInnerHTML={{
-                  __html: limitStringLength(previous.frontmatter.description),
+                  __html: previous.frontmatter.description,
                 }}
               />
             </Card.Body>
@@ -59,7 +55,7 @@ const RelatedArticles = ({ previous, next }) => {
               </Card.Title>
               <Card.Text
                 dangerouslySetInnerHTML={{
-                  __html: limitStringLength(next.frontmatter.description),
+                  __html: next.frontmatter.description,
                 }}
               />
             </Card.Body>

@@ -52,6 +52,13 @@
   background-color: rgba(25, 52, 70, 0.7);
   border-radius: 0;
 
+  p {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+  }
+
   .card-img {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
@@ -81,6 +88,13 @@
     align-items: center;
     background-color: rgba(25, 52, 70, 0.7);
     border-radius: 0;
+
+    p {
+      display: -webkit-box;
+      overflow: hidden;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 3;
+    }
 
     .card-img {
       border-top-left-radius: 0;

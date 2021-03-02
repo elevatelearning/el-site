@@ -38,10 +38,6 @@ const Articles = () => {
     `
   )
 
-  const limitStringLength = text => {
-    return text.replace(/(.{160})..+/, "$1…")
-  }
-
   const cards = data.allMarkdownRemark.edges.slice(1).map(({ node }) => {
     const title = node.frontmatter.title || node.fields.slug
     return (
@@ -58,9 +54,7 @@ const Articles = () => {
           </Card.Title>
           <Card.Text
             dangerouslySetInnerHTML={{
-              __html: limitStringLength(
-                node.frontmatter.description || node.excerpt
-              ),
+              __html: node.frontmatter.description || node.excerpt,
             }}
           />
         </Card.Body>
