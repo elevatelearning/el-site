@@ -1,6 +1,6 @@
 import React from "react"
-import { useStaticQuery, Link, graphql } from "gatsby"
 
+import { useStaticQuery, Link, graphql } from "gatsby"
 import { Card, CardDeck, Col, Row } from "react-bootstrap"
 
 const Articles = () => {

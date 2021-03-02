@@ -7,9 +7,13 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import RelatedArticles from "../components/related-articles"
 import SEO from "../components/seo"
+import ShareButtons from "../components/share-buttons"
 
-const InsightsPostTemplate = ({ data }) => {
+const ArticleTemplate = ({ data }) => {
+  const url = typeof window !== "undefined" ? window.location.href : ""
   const post = data.markdownRemark
+
+  console.log(url)
 
   return (
     <Layout>
@@ -30,6 +34,11 @@ const InsightsPostTemplate = ({ data }) => {
                   <h1 itemProp="headline">{post.frontmatter.title}</h1>
                   <p>{post.frontmatter.date}</p>
                 </header>
+                <ShareButtons
+                  url={url}
+                  title={post.frontmatter.title}
+                  description={post.frontmatter.description}
+                />
               </Jumbotron>
             </Col>
           </Row>
@@ -52,7 +61,7 @@ const InsightsPostTemplate = ({ data }) => {
   )
 }
 
-export default InsightsPostTemplate
+export default ArticleTemplate
 
 export const pageQuery = graphql`
   query ArticleBySlug(
