@@ -8,6 +8,8 @@ When it comes to designing learning experiences, whether it’s an academy, onli
 
 Here are 5 factors to consider in the design of your next learning experience that will help motivate your participants.
 
+![Relevance](./relevance.jpg)
+
 **1) Relevance**
 
 Andragogy is the process of designing adult learning experiences, and a central tenet is that adult learners need to know why they should learn something and how it is relevant to them. This is important when creating an obligatory course for employees, such as compliance training, onboarding or values and ethics training. Ensuring that the topics covered and the instructional design is relevant and specific to the needs of the participants will maximise retention, encourage active learning and the adoption of skills beyond the completion of the course.
@@ -16,13 +18,17 @@ Participants should also be encouraged to build levels of autonomy when it comes
 
 Creating this sense of autonomy and relevance is best achieved through flexible or semi-structured learning design, such as providing access to content for participants to engage with at their own pace, and then allowing for discussion or engagement with others around the content for them to reflect on their own and others’ experiences. This gives them the sense that they own their learning process, working it into their day and reflecting and engaging with the content and others as they are able to.
 
+![Progress Opportunities](./progress-opportunities.jpg)
+
 **2) Progress Opportunities**
 
-Growth, reward and opportunities, be they financial, career opportunities or the perception of improved status, are major motivating factors when it comes to adult learning. Many adults engage in learning opportunities only when they know that they will get something out of it, so ensuring that there is an [incentive for your participants](https://medium.com/@elevatelearning/using-gamification-to-motivate-learning-3b7ab4945248) to engage with the content and achieve maximum learning success is important when designing and developing impactful learning experiences.
+Growth, reward and opportunities, be they financial, career opportunities or the perception of improved status, are major motivating factors when it comes to adult learning. Many adults engage in learning opportunities only when they know that they will get something out of it, so ensuring that there is an <a href="/insights/using-gamification-to-motivate-learning" rel="noopener nofollow">incentive for your participants</a> to engage with the content and achieve maximum learning success is important when designing and developing impactful learning experiences.
 
 These incentives don’t have to necessarily be extrinsic or physical rewards, however, learning experience designers should make sure to outline why they will want to complete the training by explaining to the learner what they will gain, whether it’s earning continuous professional development points, developing a set of competencies aligned to a higher job grade or simply unlocking a badge, level or certificate.
 
 Examples of progress opportunities could be badges they can add to their social media and professional profiles such as LinkedIn, public acknowledgement at work or online, or opportunities for one-on-ones with high profile individuals, coaches or mentors.
+
+![Authority](./authority.jpg)
 
 **3) Authority**
 
@@ -34,6 +40,8 @@ Having a figure of authority as the face of your programme, for example, by talk
 
 Other ways of creating authority is through using case studies that tell the story of real or imagined relatable role models. When participants aspire to greater success, and the stories we tell incorporate examples of others who have achieved impact, then learning designers naturally create authority and an incentive for participants through the content they develop.
 
+![Interaction](./interaction.jpg)
+
 **4) Interaction**
 
 Opportunities for social learning, collaboration and interaction with peers, coworkers and other learners’ also significantly aids in the learning process, particularly in times where we’re seeing an increasing number of companies shift to more permanent work-from-home policies.
@@ -41,6 +49,8 @@ Opportunities for social learning, collaboration and interaction with peers, cow
 The perception that learning online is an inherently lonely experience is only perpetuated by a poor understanding and application of how people learn and network with others. Social learning plays a critical role in defining the identity of a group of people, employees or teams and creating opportunities for participants to learn from each other, reflect on the content with others and share their personal experiences. A simple way to facilitate this is through discussion forums. Posting content-related prompts and actively encouraging participants to share their perspectives in a public forum not only reinforces content and concepts, but also creates a sense of community among otherwise disparate learners.
 
 Not only will they solidify knowledge for themselves, but they are also exposed to the questions, perspectives and interpretation of their peers. They are able to share additional resources or content, effectively co-creating the learning experience and curriculum. Because learning is most impactful when it’s experiential, participants should be encouraged to become active members of the learning experience, for their own success in learning as well as the success of the entire class, cohort or team. In this way, an interactive, learning community enables experiential learning, irrespective of whether it’s delivered virtually or otherwise.
+
+![Investigation](./investigation.jpg)
 
 **5) Investigation**
 

@@ -35,6 +35,26 @@
   p {
     color: $evl-white;
   }
+
+  ol,
+  ul {
+    list-style-position: outside;
+    padding-left: 40px;
+
+    li {
+      color: $evl-white;
+    }
+  }
+
+  figure {
+    color: $evl-white;
+    font-size: 0.9rem !important;
+    text-align: center;
+
+    img {
+      margin-bottom: 10px;
+    }
+  }
 }
 
 .bio {

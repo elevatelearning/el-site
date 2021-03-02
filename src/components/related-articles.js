@@ -77,7 +77,7 @@ const RelatedArticles = ({ previous, next }) => {
   if (next) cards.push(nextCard())
 
   return (
-    <Container className="related-wrapper mt-5 mt-lg-6">
+    <Container className="related-wrapper mb-4 mb-lg-5">
       <Row className="justify-content-center">
         <Col>
           <CardDeck>{cards}</CardDeck>
