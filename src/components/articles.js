@@ -32,7 +32,7 @@ const Articles = () => {
   )
 
   const limitStringLength = text => {
-    return text.replace(/(.{150})..+/, "$1…")
+    return text.replace(/(.{160})..+/, "$1…")
   }
 
   const cards = data.allMarkdownRemark.edges.slice(1).map(({ node }) => {

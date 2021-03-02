@@ -22,7 +22,7 @@ const InsightsPostTemplate = ({ data }) => {
         itemScope
         itemType="http://schema.org/Article"
       >
-        <Container fluid className="my-5 my-lg-6">
+        <Container fluid className="my-5">
           <Row className="justify-content-center article-header">
             <Col md={10} lg={8}>
               <Jumbotron className="text-center mt-7 mt-lg-8">
