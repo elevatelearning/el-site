@@ -13,8 +13,6 @@ const ArticleTemplate = ({ data }) => {
   const url = typeof window !== "undefined" ? window.location.href : ""
   const post = data.markdownRemark
 
-  console.log(url)
-
   return (
     <Layout>
       <SEO
@@ -92,6 +90,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        thumbnail {
+          childImageSharp {
+            sizes(maxWidth: 600) {
+              ...GatsbyImageSharpSizes
+            }
+          }
+        }
       }
     }
     next: markdownRemark(id: { eq: $nextPostId }) {
@@ -102,6 +107,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        thumbnail {
+          childImageSharp {
+            sizes(maxWidth: 600) {
+              ...GatsbyImageSharpSizes
+            }
+          }
+        }
       }
     }
   }

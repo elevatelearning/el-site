@@ -1,4 +1,5 @@
 ---
+thumbnail: "../../assets/insights-cover-6.jpg"
 title: What Inspires the Generations to Learn
 date: "2020-11-13T10:59:59.169Z"
 description: There are many factors that influence the success of a learning experience. Motivation, attention span, personal contexts, competency level, prior knowledge, and many other factors all have an impact on a student’s learning experience.

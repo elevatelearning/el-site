@@ -20,9 +20,16 @@ const Articles = () => {
                 slug
               }
               frontmatter {
-                date(formatString: "MMMM DD, YYYY")
                 title
+                date(formatString: "MMMM DD, YYYY")
                 description
+                thumbnail {
+                  childImageSharp {
+                    sizes(maxWidth: 600) {
+                      ...GatsbyImageSharpSizes
+                    }
+                  }
+                }
               }
             }
           }
@@ -40,8 +47,8 @@ const Articles = () => {
     return (
       <Card key={title} className="mb-4">
         <Card.Img
-          variant="top"
-          src="https://codingyaar.com/wp-content/uploads/bootstrap-4-card-image-left-demo-image.jpg"
+          src={node.frontmatter.thumbnail.childImageSharp.sizes.src}
+          alt={title}
         />
         <Card.Body>
           <Card.Title>
@@ -74,13 +81,13 @@ const Articles = () => {
             <Row noGutters>
               <Col md={4}>
                 <Card.Img
-                  className="img-fluid"
-                  src="https://images.unsplash.com/photo-1497633762265-9d179a990aa6"
+                  src={card.frontmatter.thumbnail.childImageSharp.sizes.src}
+                  alt={card.frontmatter.title}
                 />
               </Col>
               <Col md={8}>
                 <Card.Body>
-                  <Card.Title className="mt-4">
+                  <Card.Title>
                     <Link style={{ boxShadow: `none` }} to={card.fields.slug}>
                       {card.frontmatter.title}
                     </Link>

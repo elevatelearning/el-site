@@ -5,7 +5,7 @@ import { Card, CardDeck, Col, Container, Row } from "react-bootstrap"
 
 const RelatedArticles = ({ previous, next }) => {
   const limitStringLength = text => {
-    return text.replace(/(.{160})..+/, "$1…")
+    return text.replace(/(.{80})..+/, "$1…")
   }
 
   const previousCard = () => {
@@ -14,8 +14,8 @@ const RelatedArticles = ({ previous, next }) => {
         <Row noGutters>
           <Col md={4}>
             <Card.Img
-              variant="top"
-              src="https://codingyaar.com/wp-content/uploads/bootstrap-4-card-image-left-demo-image.jpg"
+              src={previous.frontmatter.thumbnail.childImageSharp.sizes.src}
+              alt={previous.frontmatter.title}
             />
           </Col>
           <Col md={8}>
@@ -46,8 +46,8 @@ const RelatedArticles = ({ previous, next }) => {
         <Row noGutters>
           <Col md={4}>
             <Card.Img
-              variant="top"
-              src="https://codingyaar.com/wp-content/uploads/bootstrap-4-card-image-left-demo-image.jpg"
+              src={next.frontmatter.thumbnail.childImageSharp.sizes.src}
+              alt={next.frontmatter.title}
             />
           </Col>
           <Col md={8}>
@@ -77,9 +77,9 @@ const RelatedArticles = ({ previous, next }) => {
   if (next) cards.push(nextCard())
 
   return (
-    <Container className="related-wrapper mb-4">
+    <Container fluid className="related-wrapper mb-4">
       <Row className="justify-content-center">
-        <Col>
+        <Col md={10} lg={8}>
           <CardDeck>{cards}</CardDeck>
         </Col>
       </Row>
