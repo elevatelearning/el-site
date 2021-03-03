@@ -1,8 +1,9 @@
 import React, { useState } from "react"
 
+import { AnchorLink } from "gatsby-plugin-anchor-links"
+import scrollTo from "gatsby-plugin-smoothscroll"
 import { Navbar, Nav } from "react-bootstrap"
 import Scrollspy from "react-scrollspy"
-import scrollTo from "gatsby-plugin-smoothscroll"
 
 import Image from "./image"
 
@@ -39,23 +40,19 @@ const Header = () => {
               className="navbar-nav"
             >
               <Nav.Item as="li" className="mx-lg-3">
-                <Nav.Link onClick={() => scrollTo("#home")}>Home</Nav.Link>
+                <AnchorLink to="/#home" title="Home" />
               </Nav.Item>
               <Nav.Item as="li" className="mx-lg-3">
-                <Nav.Link onClick={() => scrollTo("#services")}>
-                  Services
-                </Nav.Link>
+                <AnchorLink to="/#services" title="Services" />
               </Nav.Item>
               <Nav.Item as="li" className="mx-lg-3">
-                <Nav.Link onClick={() => scrollTo("#about")}>About</Nav.Link>
+                <AnchorLink to="/#about" title="About" />
               </Nav.Item>
               <Nav.Item as="li" className="mx-lg-3">
-                <Nav.Link href="/insights">Insights</Nav.Link>
+                <AnchorLink to="/insights" title="Insights" />
               </Nav.Item>
               <Nav.Item as="li" className="mx-lg-3">
-                <Nav.Link onClick={() => scrollTo("#contact")}>
-                  Contact
-                </Nav.Link>
+                <AnchorLink to="/#contact" title="Contact" />
               </Nav.Item>
             </Scrollspy>
           </Nav>

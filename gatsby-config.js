@@ -12,6 +12,7 @@ module.exports = {
     },
   },
   plugins: [
+    `gatsby-plugin-anchor-links`,
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,

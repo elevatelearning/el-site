@@ -9,22 +9,23 @@
 
   ul.navbar-nav {
     a {
-      border-bottom: 1px solid transparent !important;
+      border-bottom: 1px solid transparent;
       box-shadow: none;
-      color: $evl-white !important;
+      color: $evl-white;
       font-size: 1.4rem;
       text-transform: uppercase;
 
       &:active,
       &:hover {
-        color: $evl-white !important;
-        border-bottom: 1px solid $evl-pink !important;
+        color: $evl-white;
+        border-bottom: 1px solid $evl-pink;
+        text-decoration: none;
       }
     }
 
-    .current {
+    li.current {
       a {
-        border-bottom: 1px solid $evl-pink !important;
+        border-bottom: 1px solid $evl-pink;
       }
     }
   }
