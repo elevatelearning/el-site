@@ -26,12 +26,14 @@ const RelatedArticles = ({ previous, next }) => {
                   __html: previous.frontmatter.description,
                 }}
               />
+              <Card.Footer>
+                <small className="text-muted">
+                  {previous.frontmatter.date}
+                </small>
+              </Card.Footer>
             </Card.Body>
           </Col>
         </Row>
-        <Card.Footer>
-          <small className="text-muted">{previous.frontmatter.date}</small>
-        </Card.Footer>
       </Card>
     )
   }
@@ -58,12 +60,12 @@ const RelatedArticles = ({ previous, next }) => {
                   __html: next.frontmatter.description,
                 }}
               />
+              <Card.Footer>
+                <small className="text-muted">{next.frontmatter.date}</small>
+              </Card.Footer>
             </Card.Body>
           </Col>
         </Row>
-        <Card.Footer>
-          <small className="text-muted">{next.frontmatter.date}</small>
-        </Card.Footer>
       </Card>
     )
   }
@@ -75,7 +77,7 @@ const RelatedArticles = ({ previous, next }) => {
   return (
     <Container fluid className="related-wrapper mb-4">
       <Row className="justify-content-center">
-        <Col md={10} lg={8}>
+        <Col>
           <CardDeck>{cards}</CardDeck>
         </Col>
       </Row>

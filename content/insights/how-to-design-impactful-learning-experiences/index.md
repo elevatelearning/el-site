@@ -1,5 +1,5 @@
 ---
-thumbnail: "../../assets/insights-cover-7.jpg"
+thumbnail: "../../assets/insights-cover-17.jpg"
 title: How to Design Impactful Learning Experiences
 date: "2020-12-10T10:59:59.169Z"
 description: When it comes to designing learning experiences, whether it’s an academy, online course or virtual workshop, it is imperative to consider learning experience design factors that will ensure learners are sufficiently engaged, motivated and encouraged to complete the training and practically apply and reflect on the new competencies they are expected to learn.
@@ -11,7 +11,7 @@ Here are 5 factors to consider in the design of your next learning experience th
 
 ![Relevance](./relevance.jpg)
 
-**1) Relevance**
+## 1) Relevance
 
 Andragogy is the process of designing adult learning experiences, and a central tenet is that adult learners need to know why they should learn something and how it is relevant to them. This is important when creating an obligatory course for employees, such as compliance training, onboarding or values and ethics training. Ensuring that the topics covered and the instructional design is relevant and specific to the needs of the participants will maximise retention, encourage active learning and the adoption of skills beyond the completion of the course.
 
@@ -21,7 +21,7 @@ Creating this sense of autonomy and relevance is best achieved through flexible 
 
 ![Progress Opportunities](./progress-opportunities.jpg)
 
-**2) Progress Opportunities**
+## 2) Progress Opportunities
 
 Growth, reward and opportunities, be they financial, career opportunities or the perception of improved status, are major motivating factors when it comes to adult learning. Many adults engage in learning opportunities only when they know that they will get something out of it, so ensuring that there is an <a href="/insights/using-gamification-to-motivate-learning" rel="noopener nofollow">incentive for your participants</a> to engage with the content and achieve maximum learning success is important when designing and developing impactful learning experiences.
 
@@ -31,11 +31,11 @@ Examples of progress opportunities could be badges they can add to their social 
 
 ![Authority](./authority.jpg)
 
-**3) Authority**
+## 3) Authority
 
 Reputable, experienced and knowledgable subject matter experts, programme managers or learning designers also help to create relevant and impactful learning experiences. If the participant feels that the source isn’t accomplished enough in their field, or doesn’t have the requisite experience or knowledge to be delivering the training, it will not be as successful in achieving the learning objectives that you design and aim to meet.
 
-> “If your CEO teaches a course on leadership, your employees will be inspired to take that course because of proximity and relevancy. Your CEO is known to every employee and the CEO’s leadership advice is relevant to the employees’ career advancement.” _—_ [_2020 LinkedIn Workplace Learning Report_](https://learning.linkedin.com/resources/workplace-learning-report)
+> If your CEO teaches a course on leadership, your employees will be inspired to take that course because of proximity and relevancy. Your CEO is known to every employee and the CEO’s leadership advice is relevant to the employees’ career advancement. _—_ [_2020 LinkedIn Workplace Learning Report_](https://learning.linkedin.com/resources/workplace-learning-report)
 
 Having a figure of authority as the face of your programme, for example, by talking through concepts, personal experiences or simply introducing the programme through video content, podcasts or as part of your course collateral, will assist with convincing adult learners that a course or training programme is worth their time and engagement.
 
@@ -43,7 +43,7 @@ Other ways of creating authority is through using case studies that tell the sto
 
 ![Interaction](./interaction.jpg)
 
-**4) Interaction**
+## 4) Interaction
 
 Opportunities for social learning, collaboration and interaction with peers, coworkers and other learners’ also significantly aids in the learning process, particularly in times where we’re seeing an increasing number of companies shift to more permanent work-from-home policies.
 
@@ -53,7 +53,7 @@ Not only will they solidify knowledge for themselves, but they are also exposed 
 
 ![Investigation](./investigation.jpg)
 
-**5) Investigation**
+## 5) Investigation
 
 Stemming from both the idea of autonomy and relevance as well as experiential learning, giving the learners an opportunity to discover the content themselves will result in maximum retention. Simply ‘dumping’ text-heavy documents onto the participant and expecting them to imbibe it is both impractical and unrealistic. If learning experience designers aim to create impactful and effective learning experiences, they need to continuously engage and prompt the learner to participate in the process.
 

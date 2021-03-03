@@ -21,10 +21,12 @@ const Header = () => {
       <Navbar expand="lg" fixed="top" id="header-navbar">
         <Navbar.Brand onClick={() => scrollTo("#home")}>
           <div style={{ width: "250px" }}>
-            <Image
-              alt="Elevate Learning"
-              filename="elevate-logo-text-right.png"
-            />
+            <AnchorLink to="/#home" title="Elevate Learning">
+              <Image
+                alt="Elevate Learning"
+                filename="elevate-logo-text-right.png"
+              />
+            </AnchorLink>
           </div>
         </Navbar.Brand>
         <Navbar.Toggle

@@ -66,7 +66,7 @@ This isn’t to say that there’s no longer a place for workshops or classroom-
 
 ## 4. Measurement
 
-How will success be measured?
+> How will success be measured?
 
 Finally, having decided at the beginning of the process what success looks like and why the training is important to achieving strategic organisational goals, the last step involves creating opportunities for the competencies to be developed, as well assessing whether the learning experience has been successful in developing those competencies. While over the long term you’ll be able to attribute achieving your organisational goals in part to your learning and development strategy, you’ll need short and medium term measures of success so that you can assess and evaluate what is or isn’t working, and how to improve on the experience.
 

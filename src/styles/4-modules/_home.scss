@@ -1,7 +1,53 @@
 .home-wrapper {
   height: 100%;
-}
-
-#home {
   height: 100vh;
+
+  .jumbotron {
+    background: transparent;
+
+    h1 {
+      color: $evl-white;
+      font-size: 1.6rem;
+    }
+
+    p {
+      color: $evl-white;
+      font-size: 1rem;
+      font-weight: $font-weight-light;
+    }
+
+    a {
+      box-shadow: none;
+    }
+
+    @include media-breakpoint-up(sm) {
+      h1 {
+        font-size: 1.8rem;
+      }
+
+      p {
+        font-size: 1rem;
+      }
+    }
+
+    @include media-breakpoint-up(md) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 1.2rem;
+      }
+    }
+
+    @include media-breakpoint-up(lg) {
+      h1 {
+        font-size: 2.2rem;
+      }
+
+      p {
+        font-size: 1.4rem;
+      }
+    }
+  }
 }

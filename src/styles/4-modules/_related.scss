@@ -1,29 +1,60 @@
 .related-wrapper {
-  h1,
-  h2,
-  h3,
-  h4 {
-    color: $evl-turquoise;
-  }
+  .card-deck {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 0;
 
-  a {
-    border-bottom: 1px solid transparent;
-    box-shadow: none;
-    color: $evl-turquoise;
-    text-decoration: none;
+    .card {
+      align-items: center;
+      background-color: rgba(25, 52, 70, 0.7);
+      border-radius: 0;
 
-    &:active,
-    &:hover {
-      color: $evl-pink;
+      p {
+        color: $evl-white;
+        display: -webkit-box;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+      }
+
+      a {
+        border-bottom: 1px solid transparent;
+        box-shadow: none;
+        color: $evl-turquoise;
+        text-decoration: none;
+
+        &:active,
+        &:hover {
+          color: $evl-pink;
+        }
+      }
+
+      small {
+        color: $evl-white;
+        font-weight: 600;
+      }
+
+      .card-img {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        margin: 0;
+        padding: 0;
+
+        width: 100%;
+        height: 15vw;
+        object-fit: cover;
+      }
+
+      .card-title {
+        color: $evl-turquoise;
+        font-family: $font-family-sans-serif;
+      }
+
+      .card-body {
+        padding-bottom: 0;
+      }
     }
-  }
-
-  small {
-    color: $evl-white;
-    font-weight: 600;
-  }
-
-  p {
-    color: $evl-white;
   }
 }

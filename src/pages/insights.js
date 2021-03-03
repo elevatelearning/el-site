@@ -15,12 +15,12 @@ const Insights = () => {
       <SEO title="Our Insights" />
       <Container fluid className="insights-wrapper" id="insights">
         <Row className="justify-content-center mb-1">
-          <Col md={10} lg={8}>
+          <Col>
             <Jumbotron className="text-center mt-7 mt-lg-8">
               <h1>Featured Insights</h1>
               <p className="lead text-center mt-3">
-                Our latest thinking on the issues that matter most in digital
-                learning experiences.
+                Our latest thinking, projects and insights into digital
+                learning.
               </p>
               <ShareButtons
                 url={url}

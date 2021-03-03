@@ -20,7 +20,7 @@ const Contact = () => {
             <p className="mb-0">
               Our approach to creating effective, memorable learning experiences
               starts with you. If you're interested in elevating your learning,
-              designing a curriculum, developing an e- learning strategy or
+              designing a curriculum, developing an e-learning strategy or
               online course, or implementing an online learning platform in your
               organisation, get in touch.
             </p>

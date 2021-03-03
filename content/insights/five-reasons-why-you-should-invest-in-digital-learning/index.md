@@ -56,7 +56,7 @@ In addition to being personalised in terms of content, audience and objectives, 
 
 ## 5) Digital is Sustainable
 
-> “The only thing that is constant is change.”
+> The only thing that is constant is change.
 
 The same can be said for learning interventions, company policies, organisational culture and digital trends. At any given point, you might need to change the style, the content, or the audience your learning and development initiatives are directed at. In a traditional learning and development setting, this means sending updated or reprinted materials, or worse, gathering everyone together again to ensure more complex concepts are taught and understood.
 

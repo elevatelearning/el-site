@@ -57,10 +57,10 @@ const Articles = () => {
               __html: node.frontmatter.description || node.excerpt,
             }}
           />
+          <Card.Footer>
+            <small className="text-muted">{node.frontmatter.date}</small>
+          </Card.Footer>
         </Card.Body>
-        <Card.Footer>
-          <small className="text-muted">{node.frontmatter.date}</small>
-        </Card.Footer>
       </Card>
     )
   })
@@ -91,12 +91,14 @@ const Articles = () => {
                       __html: card.frontmatter.description || card.excerpt,
                     }}
                   />
+                  <Card.Footer>
+                    <small className="text-muted">
+                      {card.frontmatter.date}
+                    </small>
+                  </Card.Footer>
                 </Card.Body>
               </Col>
             </Row>
-            <Card.Footer>
-              <small className="text-muted">{card.frontmatter.date}</small>
-            </Card.Footer>
           </Card>
         </Col>
       </Row>

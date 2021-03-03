@@ -190,10 +190,10 @@ const Services = () => {
                 </p>
                 <p>
                   We have extensive experience implementing different learning
-                  solutions, and can help you design and implement a learner
-                  management system and social learning tools that speaks to
-                  your organisational goals and needs, allowing you to
-                  continuously track and monitor engagement and performance, and
+                  solutions, and can help you design and implement a learning
+                  management system and social learning tools that speak to your
+                  organisational goals and needs, allowing you to continuously
+                  track and monitor engagement and performance, and
                   intentionally measure your return on investment.
                 </p>
               </Tab.Pane>

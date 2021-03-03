@@ -5,7 +5,7 @@ date: "2020-09-30T10:59:59.169Z"
 description: Modern adult learners are difficult customers to please. They’re strapped for time, digitally fatigued and are mostly uninterested in mandatory company training. Cutting through the noise and designing impactful digital and blended learning experiences means to understand their needs and motivations.
 ---
 
-**Understanding gamification tactics to deliver impactful learning experiences.**
+## Understanding gamification tactics to deliver impactful learning experiences.
 
 Modern adult learners are difficult customers to please. They’re strapped for time, digitally fatigued and are mostly uninterested in mandatory company training. Cutting through the noise and designing impactful digital and blended learning experiences means to understand their needs and motivations. Although most learning experience designers are not trained psychologists, we can lean on the psychology of human motivation and behaviour to consider what will encourage them to complete the course, keep them engaged throughout a webinar, submit optional assignments, or contribute to a learning community discussion forum.
 

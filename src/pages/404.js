@@ -1,30 +1,42 @@
 import React from "react"
 
-import { graphql } from "gatsby"
+import { AnchorLink } from "gatsby-plugin-anchor-links"
+import { Col, Container, Row } from "react-bootstrap"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const NotFoundPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-
+const NotFoundPage = () => {
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout>
       <SEO title="404: Not Found" />
-      <h1>Not Found</h1>
-      <p>You just hit a route that doesn&#39t exist... the sadness.</p>
+      <Container
+        className="not-found d-flex justify-content-center align-items-center"
+        id="not-found"
+      >
+        <Row className="text-center">
+          <Col>
+            <h1>404 page not found</h1>
+            <p className="mt-3">
+              The page you are looking for might have been moved or renamed.
+            </p>
+            <p>
+              We apologize for any inconvenience. Please double-check the URL or
+              try the following:
+            </p>
+            <p>
+              Visit our <AnchorLink to="/#home" title="Home" /> page or use the
+              navigation menu to find what you need.
+            </p>
+            <p>
+              <AnchorLink to="/#contact" title="Contact" /> us if you're still
+              having a problem.
+            </p>
+          </Col>
+        </Row>
+      </Container>
     </Layout>
   )
 }
 
 export default NotFoundPage
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

@@ -5,13 +5,11 @@ date: "2020-08-21T10:59:59.169Z"
 description: Today’s learners are pressed for time, easily distracted and crave learning experiences that are relevant, applicable and practical. Irrespective of age or context, modern learning are motivated by experiences that are not only goal-oriented and personalised, but also that take into account the fact that we don’t have long leisurely days to study, or even desire the prestige of a formal academic qualification.
 ---
 
-**Chunking Your Learning Content for Maximum Retention and Engagement**
+## Chunking Your Learning Content for Maximum Retention and Engagement
 
 Today’s learners are pressed for time, easily distracted and crave learning experiences that are relevant, applicable and practical. Irrespective of age or context, modern learning are motivated by experiences that are not only goal-oriented and personalised, but also that take into account the fact that we don’t have long leisurely days to study, or even desire the prestige of a formal academic qualification.
 
 Microlearning aims to solve these modern-day learning challenges by offering a way to deliver content and experiences that are bite-sized, manageable and sticky.
-
-![What Is Microlearning?](./what-is-microlearning.jpg)
 
 ## What is microlearning?
 
