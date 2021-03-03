@@ -8,10 +8,11 @@ module.exports = {
     description: `Elevate Learning is a full-service learning design consultancy. We partner with you to design and implement online and blended learning experiences.`,
     siteUrl: `https://www.elevatelearning.org/`,
     social: {
-      twitter: `elevatelearning`,
+      twitter: `elevatelearnhq`,
     },
   },
   plugins: [
+    `gatsby-plugin-anchor-links`,
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -27,6 +28,17 @@ module.exports = {
     },
     `gatsby-plugin-fontawesome-css`,
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: "gatsby-plugin-page-progress",
+      options: {
+        includePaths: [{ regex: "^/insights/" }],
+        excludePaths: ["/"],
+        height: 5,
+        prependToBody: true,
+        color: `#a9d8dd`,
+        footerHeight: 500,
+      },
+    },
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -70,7 +82,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 630,
             },
           },
           {
@@ -85,6 +97,11 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`    
+    {
+      resolve: `gatsby-transformer-sharp`,
+      options: {
+        checkSupportedExtensions: false,
+      },
+    },
   ],
 }

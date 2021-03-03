@@ -1,0 +1,96 @@
+.article-header {
+  h1 {
+    font-family: $font-family-sans-serif;
+    font-size: 2.4rem !important;
+  }
+}
+
+.article-content {
+  background-color: rgba(25, 52, 70, 0.7);
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $evl-turquoise;
+  }
+
+  a {
+    border-bottom: 1px solid transparent;
+    box-shadow: none;
+    color: $evl-turquoise;
+    text-decoration: none;
+
+    &:active,
+    &:hover {
+      color: $evl-pink;
+    }
+  }
+
+  small {
+    color: $evl-white;
+    font-weight: 600;
+  }
+
+  p {
+    color: $evl-white;
+  }
+
+  ol,
+  ul {
+    list-style-position: outside;
+    padding-left: 40px;
+
+    li {
+      color: $evl-white;
+    }
+  }
+
+  figure {
+    color: $evl-white;
+    font-size: 0.9rem !important;
+    text-align: center;
+
+    img {
+      margin-bottom: 10px;
+    }
+  }
+
+  blockquote {
+    background: #193446;
+    border-left: 10px solid $evl-pink;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+  }
+
+  blockquote:before {
+    color: $evl-white;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+  }
+
+  blockquote p {
+    display: inline;
+  }
+}
+
+.bio {
+  .author {
+    a {
+      border-bottom: 1px solid transparent;
+      box-shadow: none;
+      color: $evl-turquoise;
+      font-weight: bold !important;
+      text-decoration: none;
+
+      &:active,
+      &:hover {
+        color: $evl-pink;
+      }
+    }
+  }
+}

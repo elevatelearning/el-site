@@ -67,7 +67,7 @@ const Services = () => {
                 <Nav.Link eventKey="tab-1">
                   <Image
                     fixed={data.digitalNeedsAnalysis.childImageSharp.fixed}
-                    alt="Digital Needs Analysis"
+                    alt=""
                   />
                   <div>Digital Needs Analysis</div>
                 </Nav.Link>
@@ -78,7 +78,7 @@ const Services = () => {
                     fixed={
                       data.learningDevelopmentStrategy.childImageSharp.fixed
                     }
-                    alt="Learning & Development Strategy"
+                    alt=""
                   />
                   <div>Learning & Development Strategy</div>
                 </Nav.Link>
@@ -90,7 +90,7 @@ const Services = () => {
                       data.learningDesignContentDevelopment.childImageSharp
                         .fixed
                     }
-                    alt="Learning Design & Content Development"
+                    alt=""
                   />
                   <div>Learning Design & Content Development</div>
                 </Nav.Link>
@@ -99,7 +99,7 @@ const Services = () => {
                 <Nav.Link eventKey="tab-4">
                   <Image
                     fixed={data.digitalLearningSolutions.childImageSharp.fixed}
-                    alt="Digital Learning Solutions"
+                    alt=""
                   />
                   <div>Digital Learning Solutions</div>
                 </Nav.Link>
@@ -111,7 +111,7 @@ const Services = () => {
                       data.learningExperienceDesignTraining.childImageSharp
                         .fixed
                     }
-                    alt="Learning Experience Design Training"
+                    alt=""
                   />
                   <div>Learning Experience Design Training</div>
                 </Nav.Link>

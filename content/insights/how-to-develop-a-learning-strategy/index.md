@@ -1,20 +1,29 @@
 ---
+thumbnail: "../../assets/insights-cover-3.jpg"
 title: How to Develop a Learning Strategy
 date: "2020-08-06T10:59:59.169Z"
-description: We've just published our first article about the essence of what we do at Elevate Learning - Learning Experience Design.  Give it a read, share your thoughts in the comments and follow us for more insights into the world of digital learning and technology!
+description: Most learning and development teams are the first to feel the brunt of budget cuts, often cited as ‘nice-to-have’ rather than strategic enablers of your organisational strategy. There are plenty of reasons why learning teams have played in the shadows in the past.
 ---
 
-Using competence-based LXD to meet your strategic objectives.
+**Using competence-based LXD to meet your strategic objectives.**
+
+![How To Develop A Learning Strategy](./develop-a-learning-strategy-workflow.jpeg)
 
 Most learning and development teams are the first to feel the brunt of budget cuts, often cited as ‘nice-to-have’ rather than strategic enablers of your organisational strategy. There are plenty of reasons why learning teams have played in the shadows in the past. Sometimes it’s because there isn’t always a tangible link between the training and an organisation’s bottom line, or there are insufficient data points to measure the learning ROI. Or it’s because we’re more focused on measuring the effectiveness of a facilitator than the impact of the learning interventions, and post-workshop feedback forms get lost almost as soon as the last of the snacks has been cleared.
 
-As you may have read in our previous article on why to take your training online, you’ll know that digital as a mode of delivery allows you to better track and measure the success of your learning experience. Additionally, the Learning Experience Design process allows you to create interventions that are aligned to personal, professional and organisational goals.
+As you may have read in our previous article on <a href="/insights/five-reasons-why-you-should-invest-in-digital-learning" rel="noopener nofollow">why to take your training online</a>, you’ll know that digital as a mode of delivery allows you to better track and measure the success of your learning experience. Additionally, the <a href="/insights/what-is-learning-experience-design" rel="noopener nofollow">Learning Experience Design</a> process allows you to create interventions that are aligned to personal, professional and organisational goals.
 
-At Elevate we use a 4-phase approach to designing and developing learning strategies that incorporates LXD to design and develop content, digital and blended delivery methods, and a variety of assessment tools to measure success. In this article, we’ll explore this approach to aligning process and delivery to ensure your learning and development strategy meets your organisational objectives.
+At Elevate we use a 4-phase approach to designing and developing learning strategies that incorporates LXD to design and develop content, digital and blended delivery methods, and a variety of assessment tools to measure success.
+
+![4-Phase Approach To Designing And Developing Learning Strategies](./four-phase-approach-to-designing-learning-strategies.jpg)
+
+In this article, we’ll explore this approach to aligning process and delivery to ensure your learning and development strategy meets your organisational objectives.
+
+![Strategy](./strategy.png)
 
 ## 1. Strategy
 
-What are your organisational, personal or professional goals?
+> What are your organisational, personal or professional goals?
 
 The first step in designing learning experiences that align to your organisational strategy is to identify the strategic goals and gaps that exist in your team’s knowledge, abilities, skills, behaviour or attitude that are preventing them from achieving those strategic goals.
 
@@ -22,9 +31,11 @@ One of the key characteristics of the Learning Experience Design process is that
 
 The LXD process is cyclical in nature, made up of a continuous loop of design, iteration and measurement. It requires an agile, flexible approach to curriculum and programme design that starts with deciding what the educational experience aims to provide. By starting with the end in mind, your learning and development strategy becomes a living, breathing enabler of your overarching organisational strategy, regardless of the delivery mechanism.
 
+![Competencies](./competencies.png)
+
 ## 2. Competencies
 
-What are the key competencies needed to achieve your personal, professional and organisational goals?
+> What are the key competencies needed to achieve your personal, professional and organisational goals?
 
 Competence-based learning design is a relatively new approach to developing learning experiences. It centres on developing core skills or abilities that result in tangible outcomes and metrics for determining the success of a learning intervention. Once you’ve established the organisational goals and the key skills, knowledge or abilities needed to achieve those goals, you can design learning interventions that seek to develop those needs. Through competence-based design, these skills could include complex or abstract concepts such as problem-solving, critical thinking or emotional intelligence, or they could cover more technical or practical expertise such as coaching or management skills, compliance training or sales techniques.
 
@@ -32,21 +43,26 @@ The increasing popularity of designing competence-based learning experiences is 
 
 By using competence-based design, learners are able to set their own pace based on personal mastery and demonstration of the skills developed, ensuring the learning experience remains both personalised and aligned to the needs of the organisation.
 
+![Delivery](./delivery.png)
+
 ## 3. Delivery
 
-How will the learning be experienced?
+> How will the learning be experienced?
 
 Once you’ve established your organisational and developmental goals, needs and gaps, you’ll need to determine how best to deliver the learning experience. This phase merges the art and science of the LXD process to create an educational product or user experience. It is here that learning experience designers blend concepts and subject matter expertise, graphic design and multimedia, learning science and technology platforms and systems to build learning experiences that are engaging, promotes personalised learning, and which sufficiently balance intrinsic and extrinsic motivation factors.
 
 There are two ways of approaching delivery in the LXD process:
 
-Content, themes and topics
-Platforms, systems and facilitation
+1. Content, themes and topics
+2. Platforms, systems and facilitation
+
 When learning designers consider content, they determine how best to curate, create and deliver content, combining subject matter expertise with experiential learning and gamification techniques, and creating opportunities to build community through social learning. When deciding on the information architecture, the thing to keep in mind is whether or not what the content and experiences will help the learner to develop the required competencies.
 
-As the learning experience is being architected, it is also important to decide how best to deliver the experience and which platforms will best support this. As we covered in our previous article on why you should take your training online, digital platforms and systems are one way to deliver learning experiences that ensure scalability and sustainability.
+As the learning experience is being architected, it is also important to decide how best to deliver the experience and which platforms will best support this. As we covered in our <a href="/insights/five-reasons-why-you-should-invest-in-digital-learning" rel="noopener nofollow">previous article</a> on why you should take your training online, digital platforms and systems are one way to deliver learning experiences that ensure scalability and sustainability.
 
 This isn’t to say that there’s no longer a place for workshops or classroom-based learning; rather the emphasis is on creating the opportunities for practical application, engagement and reflection, using various communication platforms and learning systems. In other words, systems don’t define learning design; they’re a conduit for delivering a learning experience that aims to develop competencies aligned to goals.
+
+![Measurement](./measurement.png)
 
 ## 4. Measurement
 

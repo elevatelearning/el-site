@@ -1,16 +1,19 @@
 ---
+thumbnail: "../../assets/insights-cover-2.jpg"
 title: Five Reasons Why You Should Invest in Digital Learning
 date: "2020-07-26T10:59:59.169Z"
-description: We've just published our first article about the essence of what we do at Elevate Learning - Learning Experience Design.  Give it a read, share your thoughts in the comments and follow us for more insights into the world of digital learning and technology!
+description: With most organisations increasingly adapting their workplace strategies to encourage flexible working hours and work-from-home policies, trying to herd everyone into a physical classroom is not only challenging logistically, but will likely be met with some resistance on the part of the attendees.
 ---
 
-Or, how to motivate your boss, Board, or budget-holders to go digital.
+**Or, how to motivate your boss, Board, or budget-holders to go digital.**
 
 With most organisations increasingly adapting their workplace strategies to encourage flexible working hours and work-from-home policies, trying to herd everyone into a physical classroom is not only challenging logistically, but will likely be met with some resistance on the part of the attendees. It goes without saying that in our current climate, embedding digital learning experiences into your current training agenda is a necessity, rather than an option.
 
 Digital doesn't mean simply delivering the same face-to-face workshop virtually; it is about redesigning the learning experiences altogether. If you’ve read our previous article, “What is LXD?”, you’ll know that the modern-day learner is most effectively engaged when learning experiences are personalised, goal-oriented and design-focused. Blended and digital modes of learning are ideal conduits for delivering LXD-based learning interventions because they seamlessly embed these key elements as part of the learning experience.
 
 Here are five reasons why you should create Digital Learning Experiences as you plan your next orientation, training manual, course, or virtual masterclass, or if you’re already onboard, how to convince your Board, Finance Team or other stakeholders hesitant to ‘go online’.
+
+![Five Reasons Why You Should Create Digital Learning Experiences](./five-reasons-why-you-should-create.png)
 
 ## 1) Digital is Scalable
 
@@ -19,6 +22,13 @@ The annual wearesocial and Hootsuite study of global digital trends shows that a
 This level of access is important because it highlights how the internet offers reach beyond the physical limitations of a classroom. Creating learning experiences that cross technological and geographical borders, means your content is accessible far more easily than if you were training in person. Additionally, you’re not restricted to the physical capacity of a room or a trainer’s ability to facilitate a certain number of attendees, which means more effectively training individuals and fewer budgetary constraints.
 
 Because digital learning can withstand growing numbers without the accompanying growing budget, you can reach more people more easily. Coupled with increasing accessibility to mobile-friendly online lessons and interactive content, whether your learners are on the road, working remotely or even internationally, you can be assured of the consistency of training at scale.
+
+<figure>
+  <img src="./annual-digital-trends-report.png" alt="Digital 2020 Global Overview Report">
+  <figcaption>
+    wearesocial and Hootsuite release an <a href="https://datareportal.com/reports/digital-2020-global-digital-overview" rel="noopener nofollow">annual digital trends report</a> which provides insightful global digital trends data and statistics.
+  </figcaption>
+</figure>
 
 ## 2) Digital is Measurable
 
@@ -34,6 +44,8 @@ The aim of digital LXD is to create resource-efficient learning experiences that
 
 In the same global digital trends, daily time spent online puts South Africa in second place at 9 hours and 22 minutes per day — almost 2½ hours above the global average. Meeting learners where they are is a critical aspect of the learning experience design process, and if they’re online, then your resources, energy and budget should ideally mirror that orientation.
 
+![Time Per Day Spent Using The Internet](./time-per-day-spent-using-the-internet.png)
+
 Digital solves both time and financial constraints that traditional learning and development interventions pose, whilst also encouraging self-paced, personalised learning. In merging your learners’ online and offline worlds through interactive and meaningful learning experiences, you’ll create unique opportunities to capitalise on your development interventions, saving you both time and money.
 
 ## 4) Digital is Personalised
@@ -44,7 +56,7 @@ In addition to being personalised in terms of content, audience and objectives, 
 
 ## 5) Digital is Sustainable
 
-“The only thing that is constant is change.”
+> “The only thing that is constant is change.”
 
 The same can be said for learning interventions, company policies, organisational culture and digital trends. At any given point, you might need to change the style, the content, or the audience your learning and development initiatives are directed at. In a traditional learning and development setting, this means sending updated or reprinted materials, or worse, gathering everyone together again to ensure more complex concepts are taught and understood.
 

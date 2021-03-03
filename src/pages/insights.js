@@ -1,73 +1,39 @@
 import React from "react"
 
-import { Link, graphql } from "gatsby"
+import { Col, Container, Jumbotron, Row } from "react-bootstrap"
 
-import { rhythm } from "../utils/typography"
-import Bio from "../components/insights/bio"
-import Layout from "../components/insights/layout"
-import SEO from "../components/insights/seo"
+import Articles from "../components/articles"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import ShareButtons from "../components/share-buttons"
 
-const Insights = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+const Insights = () => {
+  const url = typeof window !== "undefined" ? window.location.href : ""
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
-      <Bio />
-      {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
+    <Layout>
+      <SEO title="Our Insights" />
+      <Container fluid className="insights-wrapper" id="insights">
+        <Row className="justify-content-center mb-1">
+          <Col md={10} lg={8}>
+            <Jumbotron className="text-center mt-7 mt-lg-8">
+              <h1>Featured Insights</h1>
+              <p className="lead text-center mt-3">
+                Our latest thinking on the issues that matter most in digital
+                learning experiences.
+              </p>
+              <ShareButtons
+                url={url}
+                title="Elevate Learning Insights"
+                description="Our latest thinking on the issues that matter most in digital learning experiences."
               />
-            </section>
-          </article>
-        )
-      })}
+            </Jumbotron>
+            <Articles />
+          </Col>
+        </Row>
+      </Container>
     </Layout>
   )
 }
 
 export default Insights
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            description
-          }
-        }
-      }
-    }
-  }
-`

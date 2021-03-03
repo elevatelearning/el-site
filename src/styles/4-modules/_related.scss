@@ -1,0 +1,29 @@
+.related-wrapper {
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: $evl-turquoise;
+  }
+
+  a {
+    border-bottom: 1px solid transparent;
+    box-shadow: none;
+    color: $evl-turquoise;
+    text-decoration: none;
+
+    &:active,
+    &:hover {
+      color: $evl-pink;
+    }
+  }
+
+  small {
+    color: $evl-white;
+    font-weight: 600;
+  }
+
+  p {
+    color: $evl-white;
+  }
+}
