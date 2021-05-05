@@ -5,6 +5,8 @@ date: "2021-05-04T10:59:59.169Z"
 description: Most organisations have realised the importance of developing a learning culture — a philosophy and espousing of values that puts employee growth and development at the centre of an employee-centric value proposition and company culture."
 ---
 
+![Introduction](./introduction.png)
+
 Most organisations have realised the importance of developing a learning culture — a philosophy and espousing of values that puts employee growth and development at the centre of an employee-centric value proposition and company culture. It’s an approach to learning that encourages individuals to take ownership of their personal and professional development, to learn informally, in the flow of work, and to enrol for as many online courses as they feel is necessary to improve their productivity and performance, without the fear of a clock-watching micromanager limiting their learning time for fear of lost hours.
 
 It sounds idyllic (utopian even), but the reality is that creating a culture of learning is possible, provided leaders understand what it truly means to shift the culture, taking an incremental approach to change management and adopting and modelling the practices and behaviour of a lifelong learner themselves.
@@ -15,6 +17,8 @@ It sounds idyllic (utopian even), but the reality is that creating a culture of 
 2. Create continuous opportunities to learn.
 3. Build in feedback loops and space for reflection.
 
+![Develop Processes That Support Self Regulated Learning](./support-self-regulated-learning.png)
+
 Self-regulation is so important to the formation of a culture of informal workplace learning, particularly as remote and dispersed teams become the norm. Why? Because self-regulation helps employees be proactive and self-led in their learning. They are more aware of their skill gaps and better able to plan how they will go about developing these skills. This is particularly necessary for remote workers, as many lack the opportunities for organic, face-to-face learning from senior leaders in the business and other colleagues that may occur in an office, and instead need to set their own work and learning rhythms to ensure they keep growing professionally.
 
 The concept of self-regulation was developed by Albert Bandura, who proposed that motivation or intention isn’t enough to drive action and that people need to develop the skill of self-regulation so that they can control and direct their motivation and behaviours towards the intended outcome, be it related to their work, education, hobbies, relationships or otherwise.
@@ -23,7 +27,11 @@ The concept of self-regulation was developed by Albert Bandura, who proposed tha
 
 Self-reflection is thus key to self-regulation because it helps individuals develop the self-awareness to identify the actions or behaviours that need changing or the competencies needed to reach their goals. Barry Zimmerman, an educational psychologist, focused on self-regulation as it applies to learning. Zimmerman’s model indicates three key phases for self-regulated learning that emphasises planning, performing and reflecting.
 
+![Zimmermans 3 Phase Model For Self Regulated Learning](./zimmermans-model-for-self-regulated-learning.jpg)
+
 Creating the processes and opportunities for employees to intentionally plan and reflect on their performance, development and goals will assist in creating a team of self-regulated learners. Once self-regulated behaviours become habitual, creating a learning culture is much more attainable, whether your team is based in an office or working remotely.
+
+![Create Continuous Opportunities To Learn](./create-continuous-opportunities-to-learn.png)
 
 [IBM research](https://www.ibm.com/training/pdfs/IBMTraining-TheValueofTraining.pdf) shows that 84% of employees and companies in the Best Performing Organisations category receive professional training. An important step to creating a culture of learning is to create continuous opportunities to learn. This can be through online programmes, accredited courses, mentorships, forums or communities of practice or feedback loops.
 
@@ -43,14 +51,25 @@ Additionally, designing learning and development opportunities that intrinsicall
 
 When an individual can see how a learning experience will benefit them, they are likely to be more engaged in the learning experience. Whether the learning is formal or informal, encourage employees to reflect on their learning and, where possible, provide them opportunities to implement their learning within the workplace. This will encourage the transfer of new skills and thinking into your organisation, and strengthen your learning culture.
 
+![Build In Feedback Loops And Space For Reflection](./feedback-loops-and-space-for-reflection.png)
+
 Constructive, in-the-moment-feedback is key to learning, and opportunities for giving feedback shouldn’t be limited to formal training programmes alone. There are multiple opportunities in the work day to acknowledge impressive performance or suggest how performance can be improved. However, if the focus of the feedback is on scrutinising someone’s error without finding the lessons in it, the learning will not be successful or effective.
 
 ###Here are a few ways to give constructive feedback:
 
-- Use positive reinforcement to recognise employees’ successes. This not only contributes to motivating the employee, but creates a positive workplace culture and sets a standard for other employees to learn from and emulate.
-- When providing feedback on an error or poor performance, rather than focusing on the person’s character or personality, focus on the incident itself and practical steps to either rectify the issue or to mitigate against future incidents.
-- Remember that learning often comes through mistakes and making sure we are able to understand where and why we went wrong. Encourage the employee to recognise their error and explain from their perspective what went wrong, and what can be done in future to improve. This will show how they have learned from their error.
-- Along with receiving external feedback, learners also need to develop self-awareness to recognise their own limitations in performance and skill gaps, which are realised through self-reflection, so continue to encourage your employees to hone the skill of self-reflection and dedicate time to this practice. Linking core competencies, skills or training required for a particular role and making those opportunities to learn readily available will also show employees that you value career development and will make those opportunities available to individuals with a specific development plan.
+![Publicly Recognize Employees Successes](publicly-recognize-employees-successes.jpg)
+
+Use positive reinforcement to recognise employees’ successes. This not only contributes to motivating the employee, but creates a positive workplace culture and sets a standard for other employees to learn from and emulate.
+
+![Provide Incident Focused Feedback](provide-incident-focused-feedback.jpg)
+
+When providing feedback on an error or poor performance, rather than focusing on the person’s character or personality, focus on the incident itself and practical steps to either rectify the issue or to mitigate against future incidents.
+
+![Allow Error Recognition And Self Explanation](allow-error-recognition-and-self-explanation.jpg)
+
+Remember that learning often comes through mistakes and making sure we are able to understand where and why we went wrong. Encourage the employee to recognise their error and explain from their perspective what went wrong, and what can be done in future to improve. This will show how they have learned from their error.
+
+Along with receiving external feedback, learners also need to develop self-awareness to recognise their own limitations in performance and skill gaps, which are realised through self-reflection, so continue to encourage your employees to hone the skill of self-reflection and dedicate time to this practice. Linking core competencies, skills or training required for a particular role and making those opportunities to learn readily available will also show employees that you value career development and will make those opportunities available to individuals with a specific development plan.
 
 ##What happens after learning?
 
