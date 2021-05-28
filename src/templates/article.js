@@ -48,7 +48,7 @@ const ArticleTemplate = ({ data }) => {
               />
               <hr />
               <footer>
-                <Bio />
+                <Bio selected={post.frontmatter.author} />
               </footer>
             </Col>
           </Row>
@@ -80,6 +80,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        author
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
@@ -90,6 +91,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        author
         thumbnail {
           childImageSharp {
             sizes(maxWidth: 600) {
@@ -107,6 +109,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        author
         thumbnail {
           childImageSharp {
             sizes(maxWidth: 600) {

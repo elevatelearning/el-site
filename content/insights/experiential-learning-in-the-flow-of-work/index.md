@@ -3,6 +3,7 @@ thumbnail: "../../assets/insights-cover-10.jpg"
 title: Experiential Learning in the Flow of Work
 date: "2021-02-19T10:59:59.169Z"
 description: Experiential learning has become a catch-all phrase for any type of learning that is practical in nature (or in theory). In this article, we explore Kolb's experiential learning cycle as it relates to learning experience design and learning in the flow of work. "The key to learning in the flow of work is personalised microlearning, and easy access to just-in-time information, knowledge and learning experiences, delivered via adaptive and intuitive learning experience platforms and continuous feedback loops."
+author: Kira Koopman
 ---
 
 Josh Bersin, renowned learning and development and global HR leader, coined the phrase [‘learning in the flow of work’](https://joshbersin.com/2018/06/a-new-paradigm-for-corporate-training-learning-in-the-flow-of-work/) as a consequence of trends in corporate learning that called for less time in the classroom (virtual or otherwise), and more time applying new tools, skills and knowledge to actual work, a concept not dissimilar to David Kolb’s 1984 research on experiential learning. Kolb, an American psychologist and educational theorist, expanded on the work of Dewey, Piaget and Lewin, who all spent much of their research efforts across the decades understanding human behaviour, cognitive development and learning.

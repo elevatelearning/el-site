@@ -1,10 +1,16 @@
 module.exports = {
   siteMetadata: {
     title: `Elevate Learning`,
-    author: {
-      name: `Kira Koopman`,
-      summary: `Founder at Elevate Learning | Digital Learning Solutions Specialist`,
-    },
+    authors: [
+      {
+        name: `Kira Koopman`,
+        summary: `Founder at Elevate Learning | Digital Learning Solutions Specialist`,
+      },
+      {
+        name: `Pasqua Lawrenson`,
+        summary: `Learning Experience Design Specialist`,
+      },
+    ],
     description: `Elevate Learning is a full-service learning design consultancy. We partner with you to design and implement online and blended learning experiences.`,
     siteUrl: `https://www.elevatelearning.org/`,
     social: {
@@ -82,6 +88,7 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map(node => {
                 return Object.assign({}, node.frontmatter, {
+                  author: node.frontmatter.author,
                   description: node.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.fields.slug,

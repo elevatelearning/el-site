@@ -5,19 +5,25 @@ import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
-const Bio = () => {
+const Bio = ({ selected }) => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
-        childImageSharp {
-          fixed(width: 50, height: 50, quality: 95) {
-            ...GatsbyImageSharpFixed
+      images: allFile {
+        edges {
+          node {
+            relativePath
+            name
+            childImageSharp {
+              fixed(width: 50, height: 50, quality: 95) {
+                ...GatsbyImageSharpFixed
+              }
+            }
           }
         }
       }
       site {
         siteMetadata {
-          author {
+          authors {
             name
             summary
           }
@@ -29,17 +35,23 @@ const Bio = () => {
     }
   `)
 
-  const author = data.site.siteMetadata?.author
+  const authors = data.site.siteMetadata?.authors
+  const author = authors.find(author => author.name.includes(selected))
+
   const social = data.site.siteMetadata?.social
-  const avatar = data?.avatar?.childImageSharp?.fixed
+  const avatar = data.images?.edges.find(n => {
+    return n.node.relativePath.includes(
+      author.name.replace(/\s+/g, "-").toLowerCase()
+    )
+  })
 
   return (
     <div className="bio">
       {avatar && (
         <Image
-          fixed={avatar}
+          fixed={avatar.node.childImageSharp.fixed}
           alt={author?.name || ``}
-          className="author"
+          className="avatar"
           imgStyle={{
             borderRadius: `50%`,
           }}

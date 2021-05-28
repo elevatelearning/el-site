@@ -71,7 +71,7 @@ exports.createSchemaCustomization = ({ actions }) => {
 
   createTypes(`
     type SiteSiteMetadata {
-      author: Author
+      authors: [Author]
       siteUrl: String
       social: Social
     }
@@ -93,6 +93,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     type Frontmatter {
       title: String
       description: String
+      author: String
       date: Date @dateformat
     }
 
