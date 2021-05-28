@@ -124,18 +124,24 @@
 }
 
 .bio {
-  .author {
-    a {
-      border-bottom: 1px solid transparent;
-      box-shadow: none;
-      color: $evl-turquoise;
-      font-weight: bold !important;
-      text-decoration: none;
+  color: $evl-turquoise;
+  font-family: $font-family-sans-serif;
+  font-size: 0.9rem;
 
-      &:active,
-      &:hover {
-        color: $evl-pink;
-      }
+  a {
+    margin-left: 70px;
+  }
+
+  .avatar {
+    float: left;
+    margin-right: 20px;
+  }
+
+  @include media-breakpoint-up(sm) {
+    font-size: 1rem;
+
+    a {
+      margin-left: 0;
     }
   }
 }

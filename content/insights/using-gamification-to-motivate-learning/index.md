@@ -3,6 +3,7 @@ thumbnail: "../../assets/insights-cover-5.jpg"
 title: Using Gamification to Motivate Learning
 date: "2020-09-30T10:59:59.169Z"
 description: Modern adult learners are difficult customers to please. They’re strapped for time, digitally fatigued and are mostly uninterested in mandatory company training. Cutting through the noise and designing impactful digital and blended learning experiences means to understand their needs and motivations.
+author: Kira Koopman
 ---
 
 ## Understanding gamification tactics to deliver impactful learning experiences.

@@ -3,6 +3,7 @@ thumbnail: "../../assets/insights-cover-4.jpg"
 title: The Benefits of Microlearning to Achieve Learning Goals
 date: "2020-08-21T10:59:59.169Z"
 description: Today’s learners are pressed for time, easily distracted and crave learning experiences that are relevant, applicable and practical. Irrespective of age or context, modern learning are motivated by experiences that are not only goal-oriented and personalised, but also that take into account the fact that we don’t have long leisurely days to study, or even desire the prestige of a formal academic qualification.
+author: Kira Koopman
 ---
 
 ## Chunking Your Learning Content for Maximum Retention and Engagement

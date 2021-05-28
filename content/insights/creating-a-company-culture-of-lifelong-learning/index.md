@@ -2,7 +2,8 @@
 thumbnail: "../../assets/insights-cover-11.jpg"
 title: Creating a Company Culture of Lifelong Learning
 date: "2021-05-04T10:59:59.169Z"
-description: Most organisations have realised the importance of developing a learning culture — a philosophy and espousing of values that puts employee growth and development at the centre of an employee-centric value proposition and company culture."
+description: Most organisations have realised the importance of developing a learning culture — a philosophy and espousing of values that puts employee growth and development at the centre of an employee-centric value proposition and company culture.
+author: Kira Koopman
 ---
 
 ![Introduction](./introduction.png)
