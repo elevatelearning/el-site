@@ -6,11 +6,15 @@ description: Have you ever intended to learn something new for personal or profe
 author: Pasqua Lawrenson
 ---
 
+![how-to-become-a-better-learner](./how-to-become-a-better-learner.png)
+
 Have you ever intended to learn something new for personal or professional reasons and signed up for a free online short course only to make it halfway through? Or subscribed to newsletters from industry leaders, only to have multiple left unopened in your inbox? There can be a range of reasons as to why you weren’t able to follow through with your learning. Perhaps you had limited time in between other responsibilities, you got distracted or you had screen fatigue. The intention for professional development and learning might be there, but without the focus, necessary time set aside and most importantly knowing how to learn as an adult, this will only remain a good intention.
 
 ## Luckily, the skill of becoming a better learner can be developed over time.
 
 There are several approaches to help you to become a better learner and which will prepare you to continually grow in your career, some of which include metacognition, self-reflection, flow theory and deep work. Let’s explore each of these in more detail.
+
+![metacognition-self-reflection](./metacognition-self-reflection.png)
 
 ## Metacognition and Self-Reflection
 
@@ -33,13 +37,21 @@ Step 5: Evaluate and adjust your plan if needed
 
 John Dewey, philosopher, psychologist and educational reformer, also made the case for reflection being a key part of effective learning experiences. Dewey defined reflection as an active process in which one recalls an experience and reflects on what the experience entailed, why things happened the way they did and what could be done differently in future. Similarly to Dewey’s research, Graham Gibbs’ six steps of reflective practice indicated in Gibbs reflective cycle below will assist you to better reflect on your experiences and turn them into learning opportunities.
 
+![gibbs-cycle](./gibbs-cycle.png)
+
 Having identified how you learn, let’s look at how to approach learning without distraction. This is where flow theory comes in.
+
+![flow-theory](./flow-theory.png)
 
 ## Flow Theory
 
 Flow theory, founded by psychologist Mihaly Csíkszentmihályi, focuses on the factors that make for a genuinely fulfilling experience, be it an activity, project or initiative. This led Csíkszentmihályi to coin the phrase ‘Flow’ - a cognitive state in which you are fully immersed in the respective experience, without distraction. Importantly, this uninterrupted immersion in the experience leads to you having heightened productivity. Csíkszentmihályi defined flow as follows:
 
+![csikszentmihalyi-quote](./csikszentmihalyi-quote.png)
+
 As shown in the following image, your flow state is the fine balance between boredom and anxiety when completing a task. If the task is too much of a jump from your existing skill-set and proves very challenging, you are likely to experience anxiety and if the task is too simple or you’ve already mastered the skill, you may experience boredom. Both boredom and anxiety detract from your flow state.
+
+![flow-theory-chart](./flow-theory-chart.png)
 
 Consider avid gamers who can play computer games for hours on end. They’ve reached their flow state. We can take lessons from computer games when it comes to being better learners ourselves, particularly how they captivate players in the experience, set achievable goals and incrementally add to the level of challenge as the player’s mastery improves.
 
@@ -56,6 +68,8 @@ Aim to fully focus your attention on the activity you’re completing and become
 Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
 
 Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
+
+![deep-work](./deep-work.png)
 
 ## Deep Work
 
