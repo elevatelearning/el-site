@@ -29,11 +29,12 @@ Metacognitive regulation helps you to be proactive in your learning and take the
 Metacognition is an important aspect of self-regulated learning, and a key characteristic of being a lifelong learner.
 
 Here’s how to improve metacognition by self-regulating your learning experience:
-Step 1: Understand what your learning task involves
-Step 2: Recognise your personal strengths and weaknesses related to this task
-Step 3: Create a plan for completing the task
-Step 4: Monitor the effectiveness of your plan
-Step 5: Evaluate and adjust your plan if needed
+
+1. Understand what your learning task involves
+2. Recognise your personal strengths and weaknesses related to this task
+3. Create a plan for completing the task
+4. Monitor the effectiveness of your plan
+5. Evaluate and adjust your plan if needed
 
 John Dewey, philosopher, psychologist and educational reformer, also made the case for reflection being a key part of effective learning experiences. Dewey defined reflection as an active process in which one recalls an experience and reflects on what the experience entailed, why things happened the way they did and what could be done differently in future. Similarly to Dewey’s research, Graham Gibbs’ six steps of reflective practice indicated in Gibbs reflective cycle below will assist you to better reflect on your experiences and turn them into learning opportunities.
 
@@ -59,15 +60,16 @@ Reaching your flow state will help you to have focused and satisfying learning e
 
 These five steps will help you to achieve your flow state while learning:
 
-Make sure you are aware of and understand the learning experience’s goals and seek in-the-moment feedback as you learn, as and when is possible. This will help you keep on track and motivated to stay engaged in the learning experience.
+1. Make sure you are aware of and understand the learning experience’s goals and seek in-the-moment feedback as you learn, as and when is possible. This will help you keep on track and motivated to stay engaged in the learning experience.
 
-Fully immerse yourself in the learning experience. Ensure there are minimal distractions when you learn and that you have sufficient time to complete the learning activity. Rather return to an activity when you have the time than rush through it and miss its value.
+2. Fully immerse yourself in the learning experience. Ensure there are minimal distractions when you learn and that you have sufficient time to complete the learning activity. Rather return to an activity when you have the time than rush through it and miss its value.
 
-Aim to fully focus your attention on the activity you’re completing and become aware of the actions you’re taking or behaviours you’re demonstrating as you complete this. This will help you stay immersed in the learning experience.
+3. Aim to fully focus your attention on the activity you’re completing and become aware of the actions you’re taking or behaviours you’re demonstrating as you complete this. This will help you stay immersed in the learning experience.
 
-Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
+4. Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
 
-Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
+5. Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
+
 
 ![deep-work](./deep-work.png)
 
