@@ -60,16 +60,25 @@ Reaching your flow state will help you to have focused and satisfying learning e
 
 These five steps will help you to achieve your flow state while learning:
 
-1. Make sure you are aware of and understand the learning experience’s goals and seek in-the-moment feedback as you learn, as and when is possible. This will help you keep on track and motivated to stay engaged in the learning experience.
+## Step 1
 
-2. Fully immerse yourself in the learning experience. Ensure there are minimal distractions when you learn and that you have sufficient time to complete the learning activity. Rather return to an activity when you have the time than rush through it and miss its value.
+Make sure you are aware of and understand the learning experience’s goals and seek in-the-moment feedback as you learn, as and when is possible. This will help you keep on track and motivated to stay engaged in the learning experience.
 
-3. Aim to fully focus your attention on the activity you’re completing and become aware of the actions you’re taking or behaviours you’re demonstrating as you complete this. This will help you stay immersed in the learning experience.
+## Step 2
 
-4. Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
+Fully immerse yourself in the learning experience. Ensure there are minimal distractions when you learn and that you have sufficient time to complete the learning activity. Rather return to an activity when you have the time than rush through it and miss its value.
 
-5. Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
+## Step 3
 
+Aim to fully focus your attention on the activity you’re completing and become aware of the actions you’re taking or behaviours you’re demonstrating as you complete this. This will help you stay immersed in the learning experience.
+
+## Step 4
+
+Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
+
+## Step 5
+
+Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
 
 ![deep-work](./deep-work.png)
 
@@ -77,7 +86,7 @@ These five steps will help you to achieve your flow state while learning:
 
 Deep work is another approach to concentrating on complex tasks without distraction. Computer Science Professor, Cal Newport, introduced this as a state in which one is able to dedicate sufficient time to cognitive tasks, uninterrupted by technologies such as email or social media. The opposite of deep work is shallow work, which is a series of minor tasks that fill up your work day. Shallow work can look like draft emails, several open tabs all while receiving and making phone calls throughout the day. Very few of these tasks, let alone your more complex tasks, actually get done.
 
-Calport explains that the skill of being able to focus on cognitively-taxing tasks is one of the most valuable, as it helps people grasp complex concepts quickly and improve efficiency in performance generally. However, it is a rare skill in the modern workplace.
+Newport explains that the skill of being able to focus on cognitively-taxing tasks is one of the most valuable, as it helps people grasp complex concepts quickly and improve efficiency in performance generally. However, it is a rare skill in the modern workplace.
 
 The following steps will help you develop the skill of deep work, which will ensure you gain the most value from your learning experiences:
 
@@ -98,3 +107,13 @@ Identify small challenges within the learning experience that align with your ov
 Once ready for a break from the learning experience, track how much time you spent in deep concentration. Aim to improve and extend this period over time to prolong your state of deep work.
 
 While there are likely always going to be distractions and obstacles to learning as an adult, the approaches mentioned above should better guide you the next time you enrol in a short course or embark on a new learning journey. Good luck!
+
+###References
+
+_Csíkszentmihályi, M. 2013. Flow: The psychology of happiness. Ebury Digital._
+
+_Gibbs, G. 1988. Learning by Doing: A Guide to Teaching and Learning Methods. Oxford: Oxford Further Education Unit._
+
+_Mahdavi, M. 2014. “An overview: Metacognition in education”. International Journal of Multidisciplinary and Current Research, Vol.2, (20 May 2014), p.529-533 Available: [https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1085.650&rep=rep1&type=pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1085.650&rep=rep1&type=pdf)_
+
+_Newport, C. 2016. Deep work: Rules for focused success in a distracted world. Grand Central Publishing._
