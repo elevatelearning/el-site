@@ -1,18 +1,20 @@
 ---
 thumbnail: "../../assets/insights-cover-13.jpg"
 title: How to Become a Better Learning Designer
-date: "2021-05-28T10:59:59.169Z"
+date: "2021-06-24T10:59:59.169Z"
 description: The outbreak of the Covid-19 pandemic led to an urgent shift to online learning. Many organisations faced the challenge of transitioning their formerly offline training overnight, while those within the online learning industry needed to adapt their processes quickly to address the demand.
 author: Pasqua Lawrenson
 ---
 
-The outbreak of the Covid-19 pandemic led to an urgent shift to online learning. Many organisations faced the challenge of transitioning their formerly offline training overnight, while those within the online learning industry needed to adapt their processes quickly to address the demand. The pressure led to many organisations prioritising simply putting their training online, rather than thinking about _how_ to optimise the learning experience for their learners.
+The outbreak of the Covid-19 pandemic led to an urgent shift to online learning. Many organisations faced the challenge of transitioning their formerly offline training overnight, while those within the online learning industry needed to adapt their processes quickly to address the demand. The pressure led to many organisations prioritising simply putting their training online, rather than thinking about how to optimise the learning experience for their learners.
 
 Whether you are a seasoned learning designer who found yourself stretched to meet the challenges posed by the pandemic or you are just beginning your career, designing with flow theory in mind is one way to create impactful online learning experiences. This will help you become a better learning designer in the current world of work - where quality online learning is paramount.
 
 ## What is Flow Theory?
 
-Flow theory was founded by Psychologist Mihaly Csíkszentmihályi. His research focused on the factors that made for a _genuinely fulfilling experience_, be it an activity, project or initiative. This led him to coin the phrase ‘Flow’ - a cognitive state in which you are fully immersed in the respective experience. Importantly, this immersion in the experience leads to heightened productivity. Csíkszentmihályi defined flow as follows:
+Flow theory was founded by Psychologist Mihaly Csíkszentmihályi. His research focused on the factors that made for a genuinely fulfilling experience, be it an activity, project or initiative. This led him to coin the phrase ‘Flow’ - a cognitive state in which you are fully immersed in the respective experience. Importantly, this immersion in the experience leads to heightened productivity. Csíkszentmihályi defined flow as follows:
+
+![Mihaly Csíkszentmihályi's Flow Theory quote](./mihaly-csíkszentmihályi-quote.png)
 
 ## Tips for Designing Learning Experiences that Elicit Flow
 
@@ -20,21 +22,31 @@ Effective learning design draws on psychologist Mihaly Csíkszentmihályi's Flow
 
 Here are five steps to help you design learning experiences that ensure your learners achieve their flow state:
 
+![communicated-clearly](./communicate-clearly.png?align=left&height=300&width=250&caption=My%20awesome%20picture%20caption "The outcomes or goals of the learning experience should be communicated clearly.")
+
 ## The outcomes or goals of the learning experience should be communicated clearly.
 
 Learners should also receive in-the-moment input through knowledge checks or activity feedback as often as possible, and you should provide a summary of the competencies they’ve developed and the learning outcomes achieved. This will help keep learners on track and motivated to stay engaged in the learning experience because they’ll be able to track their achievement towards the outcomes of the learning.
 
+![immersed-in-the-activity](./immersed-in-the-activity.png)
+
 ## Learners should be fully immersed in the activity.
 
-Ensure there are minimal distractions and that you’ve provided a realistic guide for the amount of time they will likely spend going through the content or completing an activity or assignment. Remember, distractions can include those within the learner’s environment, but also those within the learning experience itself. For example, challenging or very academic language as well distracting graphics that don’t serve a purpose could put your learners off from completing the lesson.
+Ensure there are minimal distractions and that you’ve provided a realistic guide for the amount of time they will likely spend going through the content or completing an activity or assignment. Remember, distractions can include those within the learner’s environment, but also those within the learning experience itself. For example, challenging or very academic language as well as distracting graphics that don’t serve a purpose could put your learners off from completing the lesson.
+
+![aware-of-actions](./aware-of-actions.png)
 
 ## The learning experience should make the learners aware of the actions they’re taking.
 
 Include opportunities for reflection and application of the content to their experiences. This helps to fully focus their attention on the lesson or activity because they can practically translate the learning experience to their daily lives. For example, including opportunities for learners to pause and reflect, to consider how they have experienced something before or how they can apply a concept or skill practically will help develop a sense of self-awareness throughout the learning experience.
 
+![informative-and-memorable](./informative-and-memorable.png)
+
 ## Design learning experiences that are enjoyable, informative and memorable.
 
-Learners should able to enjoy the learning experience and be fully present in the content, free of self-focused thoughts related to fear of failure, ambition to succeed or being distracted by what might be coming up next. This will help to bring their creativity to the fore. Using encouraging and personalised language, gamifying the experience or providing interesting and relatable examples or case studies will help participants to see the relevance and applicability of the experience.
+Learners should be able to enjoy the learning experience and be fully present in the content, free of self-focused thoughts related to fear of failure, ambition to succeed or being distracted by what might be coming up next. This will help to bring their creativity to the fore. Using encouraging and personalised language, gamifying the experience or providing interesting and relatable examples or case studies will help participants to see the relevance and applicability of the experience.
+
+![balanced-with-learners-skillset](./balanced-with-learners-skillset.png)
 
 ## Ensure that the level of difficulty is effectively balanced with the learners’ existing skillset.
 
