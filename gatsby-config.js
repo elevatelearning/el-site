@@ -46,7 +46,13 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              backgroundColor: `transparent`,
+            },
+          },
+          {
+            resolve: `gatsby-remark-extract-image-attributes`,
+            options: {
+              properties: ["caption", "filesize", "format"],
             },
           },
           {
