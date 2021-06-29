@@ -1,61 +1,10 @@
 import React from "react"
 
 import { Button, Col, Container, Nav, Row, Tab } from "react-bootstrap"
-import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
 import scrollTo from "gatsby-plugin-smoothscroll"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Services = () => {
-  const data = useStaticQuery(graphql`
-    query ServicesQuery {
-      digitalNeedsAnalysis: file(
-        absolutePath: { regex: "/digital-needs-analysis.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 150, height: 150) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      learningDevelopmentStrategy: file(
-        absolutePath: { regex: "/learning-development-strategy.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 150, height: 150) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      learningDesignContentDevelopment: file(
-        absolutePath: { regex: "/learning-design-content-development.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 150, height: 150) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      digitalLearningSolutions: file(
-        absolutePath: { regex: "/digital-learning-solutions.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 150, height: 150) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      learningExperienceDesignTraining: file(
-        absolutePath: { regex: "/communication-change-management.png/" }
-      ) {
-        childImageSharp {
-          fixed(width: 150, height: 150) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-    }
-  `)
-
   return (
     <Container fluid className="services-wrapper py-4 py-lg-7" id="services">
       <h1 className="text-center">Our Services</h1>
@@ -65,53 +14,65 @@ const Services = () => {
             <Nav justify as="ul">
               <Nav.Item as="li" key="tab-1">
                 <Nav.Link eventKey="tab-1">
-                  <Image
-                    fixed={data.digitalNeedsAnalysis.childImageSharp.fixed}
-                    alt=""
+                  <StaticImage
+                    src="../images/digital-needs-analysis.png"
+                    alt="Digital Needs Analysis"
+                    placeholder="blurred"
+                    layout="fixed"
+                    width={180}
+                    height={180}
                   />
                   <div>Digital Needs Analysis</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-2">
                 <Nav.Link eventKey="tab-2">
-                  <Image
-                    fixed={
-                      data.learningDevelopmentStrategy.childImageSharp.fixed
-                    }
-                    alt=""
+                  <StaticImage
+                    src="../images/learning-development-strategy.png"
+                    alt="Learning & Development Strategy"
+                    placeholder="blurred"
+                    layout="fixed"
+                    width={180}
+                    height={180}
                   />
                   <div>Learning & Development Strategy</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-3">
                 <Nav.Link eventKey="tab-3">
-                  <Image
-                    fixed={
-                      data.learningDesignContentDevelopment.childImageSharp
-                        .fixed
-                    }
-                    alt=""
+                  <StaticImage
+                    src="../images/learning-design-content-development.png"
+                    alt="Learning Design & Content Development"
+                    placeholder="blurred"
+                    layout="fixed"
+                    width={180}
+                    height={180}
                   />
                   <div>Learning Design & Content Development</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-4">
                 <Nav.Link eventKey="tab-4">
-                  <Image
-                    fixed={data.digitalLearningSolutions.childImageSharp.fixed}
-                    alt=""
+                  <StaticImage
+                    src="../images/digital-learning-solutions.png"
+                    alt="Digital Learning Solutions"
+                    placeholder="blurred"
+                    layout="fixed"
+                    width={180}
+                    height={180}
                   />
                   <div>Digital Learning Solutions</div>
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-5">
                 <Nav.Link eventKey="tab-5">
-                  <Image
-                    fixed={
-                      data.learningExperienceDesignTraining.childImageSharp
-                        .fixed
-                    }
-                    alt=""
+                  <StaticImage
+                    src="../images/communication-change-management.png"
+                    alt="Learning Experience Design Training"
+                    placeholder="blurred"
+                    layout="fixed"
+                    width={180}
+                    height={180}
                   />
                   <div>Learning Experience Design Training</div>
                 </Nav.Link>

@@ -4,7 +4,7 @@ import { Col, Container, Jumbotron, Row } from "react-bootstrap"
 
 import Articles from "../components/articles"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import ShareButtons from "../components/share-buttons"
 
 const Insights = () => {
@@ -12,7 +12,7 @@ const Insights = () => {
 
   return (
     <Layout>
-      <SEO title="Our Insights" />
+      <Seo title="Our Insights" />
       <Container fluid className="insights-wrapper" id="insights">
         <Row className="justify-content-center mb-1">
           <Col>

@@ -24,6 +24,12 @@
 
     .nav-link {
       padding: 0 !important;
+      text-align: center;
+
+      .gatsby-image-wrapper {
+        margin-left: auto;
+        margin-right: auto;
+      }
     }
 
     a {
@@ -48,7 +54,7 @@
       }
     }
   }
-  
+
   .tab-content {
     p {
       color: $evl-turquoise;

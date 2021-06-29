@@ -1,22 +1,30 @@
 import React from "react"
 
-import { faTwitter } from "@fortawesome/free-brands-svg-icons"
-import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faTwitter } from "@fortawesome/free-brands-svg-icons"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { useStaticQuery, graphql } from "gatsby"
 
 const Bio = ({ selected }) => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      images: allFile {
+      images: allFile(
+        filter: {
+          extension: { regex: "/(jpg)|(jpeg)|(png)/" }
+          sourceInstanceName: { eq: "assets" }
+        }
+      ) {
         edges {
           node {
             relativePath
             name
             childImageSharp {
-              fixed(width: 50, height: 50, quality: 95) {
-                ...GatsbyImageSharpFixed
-              }
+              gatsbyImageData(
+                layout: FIXED
+                width: 50
+                placeholder: BLURRED
+                formats: [AUTO, WEBP, AVIF]
+              )
             }
           }
         }
@@ -39,24 +47,23 @@ const Bio = ({ selected }) => {
   const author = authors.find(author => author.name.includes(selected))
 
   const social = data.site.siteMetadata?.social
-  const avatar = data.images?.edges.find(n => {
+  const file = data.images?.edges.find(n => {
     return n.node.relativePath.includes(
       author.name.replace(/\s+/g, "-").toLowerCase()
     )
   })
+  const photo = getImage(file.node.childImageSharp)
 
   return (
     <div className="bio">
-      {avatar && (
-        <Image
-          fixed={avatar.node.childImageSharp.fixed}
-          alt={author?.name || ``}
-          className="avatar"
-          imgStyle={{
-            borderRadius: `50%`,
-          }}
-        />
-      )}
+      <GatsbyImage
+        className="avatar"
+        imgStyle={{
+          borderRadius: `50%`,
+        }}
+        image={photo}
+        alt={author?.name || ``}
+      />
       {author?.name && (
         <p>
           Written by <strong>{author.name}</strong>
