@@ -12,7 +12,7 @@ Most organisations have realised the importance of developing a learning culture
 
 It sounds idyllic (utopian even), but the reality is that creating a culture of learning is possible, provided leaders understand what it truly means to shift the culture, taking an incremental approach to change management and adopting and modelling the practices and behaviour of a lifelong learner themselves.
 
-###Here are three ways you can create an organisational learning culture:
+### Here are three ways you can create an organisational learning culture:
 
 1. Develop processes that support self-regulated learning.
 2. Create continuous opportunities to learn.
@@ -56,7 +56,7 @@ When an individual can see how a learning experience will benefit them, they are
 
 Constructive, in-the-moment-feedback is key to learning, and opportunities for giving feedback shouldn’t be limited to formal training programmes alone. There are multiple opportunities in the work day to acknowledge impressive performance or suggest how performance can be improved. However, if the focus of the feedback is on scrutinising someone’s error without finding the lessons in it, the learning will not be successful or effective.
 
-###Here are a few ways to give constructive feedback:
+### Here are a few ways to give constructive feedback:
 
 ![Publicly Recognize Employees Successes](publicly-recognize-employees-successes.jpg)
 
@@ -72,11 +72,11 @@ Remember that learning often comes through mistakes and making sure we are able 
 
 Along with receiving external feedback, learners also need to develop self-awareness to recognise their own limitations in performance and skill gaps, which are realised through self-reflection, so continue to encourage your employees to hone the skill of self-reflection and dedicate time to this practice. Linking core competencies, skills or training required for a particular role and making those opportunities to learn readily available will also show employees that you value career development and will make those opportunities available to individuals with a specific development plan.
 
-##What happens after learning?
+## What happens after learning?
 
 While beneficial, learning itself isn’t the main goal; the main goal is what comes after learning — skills, capabilities and improved outputs. Encourage your employees to attain these outcomes and you’ll see your organisation grow, adapt and excel. In order for this to happen, there needs to be a space for employees to implement their learnings at work. A company that encourages learning but restricts change is one that misses the rewards of a culture of learning. Having learners self-reflect regularly, developing the metacognition to take accountability for their personal development, and providing engaging, self-directed, informal opportunities to learn, collaborate and share is key to enabling a culture of self-regulated, lifelong learning in your organisation.
 
-###References
+### References
 
 _Bandura, A. (1991). Social cognitive theory of self-regulation. Organizational Behavior and Human Decision Processes, 50(2), 248–287._
 

@@ -8,7 +8,7 @@ const About = () => {
     <Container fluid className="about-wrapper" id="about">
       <Row className="justify-content-center">
         <Col md={10} lg={8}>
-          <Jumbotron className="mt-2">
+          <Jumbotron className="mt-sm-2 mt-md-6">
             <h1 className="display-5">Elevated Experiential Learning</h1>
             <p className="lead text-justify mt-3">
               When you partner with Elevate Learning, our curriculum and
