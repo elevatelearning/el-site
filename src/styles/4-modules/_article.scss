@@ -57,6 +57,7 @@
   h2,
   h3,
   h4 {
+    clear: both;
     color: $evl-turquoise;
   }
 
@@ -120,6 +121,38 @@
 
   blockquote p {
     display: inline;
+  }
+
+  @media only screen and (min-width: 641px) {
+    [data-align="right"] {
+      float: right;
+      margin: 6px 0 10px 40px !important;
+    }
+
+    [data-align="left"] {
+      float: left;
+      margin: 6px 40px 10px 0 !important;
+    }
+
+    figure[data-align] {
+      margin-bottom: 60px !important;
+    }
+  }
+
+  hr {
+    clear: both;
+  }
+
+  @media only screen and (max-width: 640px) {
+    .gatsby-resp-image-wrapper {
+      width: unset !important;
+      height: unset !important;
+    }
+
+    .gatsby-resp-image-figure {
+      width: unset !important;
+      height: unset !important;
+    }
   }
 }
 

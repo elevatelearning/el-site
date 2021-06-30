@@ -4,12 +4,12 @@ import { AnchorLink } from "gatsby-plugin-anchor-links"
 import { Col, Container, Row } from "react-bootstrap"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const NotFoundPage = () => {
   return (
     <Layout>
-      <SEO title="404: Not Found" />
+      <Seo title="404: Not Found" />
       <Container
         className="not-found d-flex justify-content-center align-items-center"
         id="not-found"

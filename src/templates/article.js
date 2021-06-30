@@ -6,7 +6,7 @@ import { Col, Container, Jumbotron, Row } from "react-bootstrap"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import RelatedArticles from "../components/related-articles"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import ShareButtons from "../components/share-buttons"
 
 const ArticleTemplate = ({ data }) => {
@@ -15,7 +15,7 @@ const ArticleTemplate = ({ data }) => {
 
   return (
     <Layout>
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
@@ -94,9 +94,12 @@ export const pageQuery = graphql`
         author
         thumbnail {
           childImageSharp {
-            sizes(maxWidth: 600) {
-              ...GatsbyImageSharpSizes
-            }
+            gatsbyImageData(
+              layout: FIXED
+              width: 600
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
           }
         }
       }
@@ -112,9 +115,12 @@ export const pageQuery = graphql`
         author
         thumbnail {
           childImageSharp {
-            sizes(maxWidth: 600) {
-              ...GatsbyImageSharpSizes
-            }
+            gatsbyImageData(
+              layout: FIXED
+              width: 600
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
           }
         }
       }

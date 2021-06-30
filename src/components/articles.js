@@ -1,7 +1,8 @@
 import React from "react"
 
-import { useStaticQuery, Link, graphql } from "gatsby"
 import { Card, CardDeck, Col, Row } from "react-bootstrap"
+import { getSrc } from "gatsby-plugin-image"
+import { useStaticQuery, Link, graphql } from "gatsby"
 
 const Articles = () => {
   const data = useStaticQuery(
@@ -25,9 +26,12 @@ const Articles = () => {
                 description
                 thumbnail {
                   childImageSharp {
-                    sizes(maxWidth: 600) {
-                      ...GatsbyImageSharpSizes
-                    }
+                    gatsbyImageData(
+                      layout: FIXED
+                      width: 600
+                      placeholder: BLURRED
+                      formats: [AUTO, WEBP, AVIF]
+                    )
                   }
                 }
               }
@@ -42,10 +46,7 @@ const Articles = () => {
     const title = node.frontmatter.title || node.fields.slug
     return (
       <Card key={title} className="mb-4">
-        <Card.Img
-          src={node.frontmatter.thumbnail.childImageSharp.sizes.src}
-          alt={title}
-        />
+        <Card.Img src={getSrc(node.frontmatter.thumbnail)} alt={title} />
         <Card.Body>
           <Card.Title>
             <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
@@ -75,7 +76,7 @@ const Articles = () => {
             <Row noGutters>
               <Col md={4}>
                 <Card.Img
-                  src={card.frontmatter.thumbnail.childImageSharp.sizes.src}
+                  src={getSrc(card.frontmatter.thumbnail)}
                   alt={card.frontmatter.title}
                 />
               </Col>

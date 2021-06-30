@@ -1,7 +1,8 @@
 import React from "react"
 
-import { Link } from "gatsby"
 import { Card, CardDeck, Col, Container, Row } from "react-bootstrap"
+import { getSrc } from "gatsby-plugin-image"
+import { Link } from "gatsby"
 
 const RelatedArticles = ({ previous, next }) => {
   const previousCard = () => {
@@ -10,7 +11,7 @@ const RelatedArticles = ({ previous, next }) => {
         <Row noGutters>
           <Col md={4}>
             <Card.Img
-              src={previous.frontmatter.thumbnail.childImageSharp.sizes.src}
+              src={getSrc(previous.frontmatter.thumbnail)}
               alt={previous.frontmatter.title}
             />
           </Col>
@@ -44,7 +45,7 @@ const RelatedArticles = ({ previous, next }) => {
         <Row noGutters>
           <Col md={4}>
             <Card.Img
-              src={next.frontmatter.thumbnail.childImageSharp.sizes.src}
+              src={getSrc(next.frontmatter.thumbnail)}
               alt={next.frontmatter.title}
             />
           </Col>

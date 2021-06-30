@@ -1,11 +1,10 @@
 import React, { useState } from "react"
 
 import { AnchorLink } from "gatsby-plugin-anchor-links"
-import scrollTo from "gatsby-plugin-smoothscroll"
 import { Navbar, Nav } from "react-bootstrap"
 import Scrollspy from "react-scrollspy"
-
-import Image from "./image"
+import scrollTo from "gatsby-plugin-smoothscroll"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Header = () => {
   const [links] = useState([
@@ -22,9 +21,13 @@ const Header = () => {
         <Navbar.Brand onClick={() => scrollTo("#home")}>
           <div style={{ width: "250px" }}>
             <AnchorLink to="/#home" title="Elevate Learning">
-              <Image
-                alt="Elevate Learning"
-                filename="elevate-logo-text-right.png"
+              <StaticImage
+                src="../images/elevate-logo-text-right.png"
+                alt="Digital Needs Analysis"
+                placeholder="blurred"
+                layout="fixed"
+                width={300}
+                height={100}
               />
             </AnchorLink>
           </div>

@@ -39,22 +39,21 @@ module.exports = {
         name: `images`,
       },
     },
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-extract-image-attributes`,
           {
             resolve: `gatsby-remark-images`,
             options: {
               backgroundColor: `transparent`,
             },
           },
-          {
-            resolve: `gatsby-remark-extract-image-attributes`,
-            options: {
-              properties: ["caption", "filesize", "format"],
-            },
-          },
+          `gatsby-remark-images-insert-wrapper-attributes`,
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
@@ -67,13 +66,6 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-transformer-sharp`,
-      options: {
-        checkSupportedExtensions: false,
-      },
-    },
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
