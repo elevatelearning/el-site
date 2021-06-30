@@ -16,7 +16,7 @@ Here are five reasons why you should create Digital Learning Experiences as you 
 
 ![Five Reasons Why You Should Create Digital Learning Experiences](./five-reasons-why-you-should-create.png)
 
-## 1) Digital is Scalable
+### 1) Digital is Scalable
 
 The annual wearesocial and Hootsuite study of global digital trends shows that at the start of 2020, more than 4.5 billion people had access to the internet. Understandably, not all 4.5 billion of these internet users are exclusively engaged in online learning, however, Forbes predicts the Edtech industry will reach $252 billion in 2020, a sure indication of the scale and opportunities that online learning offers organisations and businesses alike.
 
@@ -31,7 +31,7 @@ Because digital learning can withstand growing numbers without the accompanying 
   </figcaption>
 </figure>
 
-## 2) Digital is Measurable
+### 2) Digital is Measurable
 
 Knowing that going online is scalable is only effective insofar as you can equally measure its impact. With advancements in the merging of the worlds of technology and learning sciences merge, we’re better able to capture data, preferences, insights and progression in real-time, compared with traditional modes of teacher-led classroom-based learning, followed by a restricted, time-based assessment or exam.
 
@@ -39,7 +39,7 @@ While not everything that is managed can be measured, or what is measured should
 
 Learning analytics allows you to adapt your learning content to specific cohorts and contexts, adapting to their and your organisational needs, allowing you to continuously track and monitor engagement and performance. In future articles we’ll look at different ways of evaluating the effectiveness of your digital learning interventions, but knowing that data is being captured throughout the learning experience means you’ll have a rich and detailed story to tell about each individual and their personal development.
 
-## 3) Digital is Cost-Effective
+### 3) Digital is Cost-Effective
 
 The aim of digital LXD is to create resource-efficient learning experiences that most effectively embeds skills, knowledge and behaviour. In cutting content that is either unnecessary or irrelevant to certain groups or individuals, audiences are more likely to retain the right information and practically apply the relevant skills. Digital learning also doesn’t require everyone to learn at the same time or in the same place, overcoming the logistical challenges (read: costs) that come with in-person training, saving time most individuals in the knowledge economy need to produce high quality work.
 
@@ -49,13 +49,13 @@ In the same global digital trends, daily time spent online puts South Africa in 
 
 Digital solves both time and financial constraints that traditional learning and development interventions pose, whilst also encouraging self-paced, personalised learning. In merging your learners’ online and offline worlds through interactive and meaningful learning experiences, you’ll create unique opportunities to capitalise on your development interventions, saving you both time and money.
 
-## 4) Digital is Personalised
+### 4) Digital is Personalised
 
 When it comes to creating digital learning experiences, the LXD process is based on three central concepts — the learner, the goals and the design. With this focus in mind, programme design is based on personal and professional needs, competence gaps and desired skills and knowledge. The learning designer uncovers the core competencies that the learning experience seeks to develop and uses a backwards-mapping process to create the best content, delivery methods, assessments and experiences to achieve these objectives, keeping the audience’s prior knowledge, ability, interests, experiences, and motivation in mind.
 
 In addition to being personalised in terms of content, audience and objectives, digital learning extends to building unique and individualised communities. Digital allows for inclusive social learning opportunities, collaboration, peer-learning and peer-reviewing. These communities build on the success of the learning content by being both individually focused and comprised of learners with the same needs and goals, providing a bridge between formal and informal learning spaces and contexts.
 
-## 5) Digital is Sustainable
+### 5) Digital is Sustainable
 
 > The only thing that is constant is change.
 

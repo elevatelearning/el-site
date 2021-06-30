@@ -19,8 +19,8 @@ const Services = () => {
                     alt="Digital Needs Analysis"
                     placeholder="blurred"
                     layout="fixed"
-                    width={160}
-                    height={160}
+                    width={150}
+                    height={150}
                   />
                   <div>Digital Needs Analysis</div>
                 </Nav.Link>
@@ -32,8 +32,8 @@ const Services = () => {
                     alt="Learning & Development Strategy"
                     placeholder="blurred"
                     layout="fixed"
-                    width={160}
-                    height={160}
+                    width={150}
+                    height={150}
                   />
                   <div>Learning & Development Strategy</div>
                 </Nav.Link>
@@ -45,8 +45,8 @@ const Services = () => {
                     alt="Learning Design & Content Development"
                     placeholder="blurred"
                     layout="fixed"
-                    width={160}
-                    height={160}
+                    width={150}
+                    height={150}
                   />
                   <div>Learning Design & Content Development</div>
                 </Nav.Link>
@@ -58,8 +58,8 @@ const Services = () => {
                     alt="Digital Learning Solutions"
                     placeholder="blurred"
                     layout="fixed"
-                    width={160}
-                    height={160}
+                    width={150}
+                    height={150}
                   />
                   <div>Digital Learning Solutions</div>
                 </Nav.Link>
@@ -71,8 +71,8 @@ const Services = () => {
                     alt="Learning Experience Design Training"
                     placeholder="blurred"
                     layout="fixed"
-                    width={160}
-                    height={160}
+                    width={150}
+                    height={150}
                   />
                   <div>Learning Experience Design Training</div>
                 </Nav.Link>

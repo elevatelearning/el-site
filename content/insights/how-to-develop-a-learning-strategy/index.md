@@ -22,7 +22,7 @@ In this article, we’ll explore this approach to aligning process and delivery 
 
 ![Strategy](./strategy.png)
 
-## 1. Strategy
+### 1. Strategy
 
 > What are your organisational, personal or professional goals?
 
@@ -34,7 +34,7 @@ The LXD process is cyclical in nature, made up of a continuous loop of design, i
 
 ![Competencies](./competencies.png)
 
-## 2. Competencies
+### 2. Competencies
 
 > What are the key competencies needed to achieve your personal, professional and organisational goals?
 
@@ -46,7 +46,7 @@ By using competence-based design, learners are able to set their own pace based 
 
 ![Delivery](./delivery.png)
 
-## 3. Delivery
+### 3. Delivery
 
 > How will the learning be experienced?
 
@@ -65,7 +65,7 @@ This isn’t to say that there’s no longer a place for workshops or classroom-
 
 ![Measurement](./measurement.png)
 
-## 4. Measurement
+### 4. Measurement
 
 > How will success be measured?
 
