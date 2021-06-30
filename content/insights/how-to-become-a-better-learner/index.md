@@ -6,7 +6,7 @@ description: Have you ever intended to learn something new for personal or profe
 author: Pasqua Lawrenson
 ---
 
-![how-to-become-a-better-learner](./how-to-become-a-better-learner.png)
+![How to Become a Better Learner](./how-to-become-a-better-learner.png?height=250&width=600)
 
 Have you ever intended to learn something new for personal or professional reasons and signed up for a free online short course only to make it halfway through? Or subscribed to newsletters from industry leaders, only to have multiple left unopened in your inbox? There can be a range of reasons as to why you weren’t able to follow through with your learning. Perhaps you had limited time in between other responsibilities, you got distracted or you had screen fatigue. The intention for professional development and learning might be there, but without the focus, necessary time set aside and most importantly knowing how to learn as an adult, this will only remain a good intention.
 
@@ -14,7 +14,7 @@ Have you ever intended to learn something new for personal or professional reaso
 
 There are several approaches to help you to become a better learner and which will prepare you to continually grow in your career, some of which include metacognition, self-reflection, flow theory and deep work. Let’s explore each of these in more detail.
 
-![metacognition-self-reflection](./metacognition-self-reflection.png)
+![Metacognition and Self-Reflection](./metacognition-self-reflection.png?height=250&width=450)
 
 ## Metacognition and Self-Reflection
 
@@ -38,21 +38,21 @@ Here’s how to improve metacognition by self-regulating your learning experienc
 
 John Dewey, philosopher, psychologist and educational reformer, also made the case for reflection being a key part of effective learning experiences. Dewey defined reflection as an active process in which one recalls an experience and reflects on what the experience entailed, why things happened the way they did and what could be done differently in future. Similarly to Dewey’s research, Graham Gibbs’ six steps of reflective practice indicated in Gibbs reflective cycle below will assist you to better reflect on your experiences and turn them into learning opportunities.
 
-![gibbs-cycle](./gibbs-cycle.png)
+![gibbs-cycle](./gibbs-cycle.png?height=600&width=600)
 
 Having identified how you learn, let’s look at how to approach learning without distraction. This is where flow theory comes in.
 
-![flow-theory](./flow-theory.png)
+![flow-theory](./flow-theory.png?height=250&width=450)
 
 ## Flow Theory
 
 Flow theory, founded by psychologist Mihaly Csíkszentmihályi, focuses on the factors that make for a genuinely fulfilling experience, be it an activity, project or initiative. This led Csíkszentmihályi to coin the phrase ‘Flow’ - a cognitive state in which you are fully immersed in the respective experience, without distraction. Importantly, this uninterrupted immersion in the experience leads to you having heightened productivity. Csíkszentmihályi defined flow as follows:
 
-![csikszentmihalyi-quote](./csikszentmihalyi-quote.png)
+![csikszentmihalyi-quote](./csikszentmihalyi-quote.png?height=390&width=450)
 
 As shown in the following image, your flow state is the fine balance between boredom and anxiety when completing a task. If the task is too much of a jump from your existing skill-set and proves very challenging, you are likely to experience anxiety and if the task is too simple or you’ve already mastered the skill, you may experience boredom. Both boredom and anxiety detract from your flow state.
 
-![flow-theory-chart](./flow-theory-chart.png)
+![flow-theory-chart](./flow-theory-chart.png?height=300&width=600)
 
 Consider avid gamers who can play computer games for hours on end. They’ve reached their flow state. We can take lessons from computer games when it comes to being better learners ourselves, particularly how they captivate players in the experience, set achievable goals and incrementally add to the level of challenge as the player’s mastery improves.
 
@@ -62,21 +62,31 @@ These five steps will help you to achieve your flow state while learning:
 
 ## Step 1
 
+![Flow State Step One](./flow-state-step-one.png?align=left&height=100&width=110)
+
 Make sure you are aware of and understand the learning experience’s goals and seek in-the-moment feedback as you learn, as and when is possible. This will help you keep on track and motivated to stay engaged in the learning experience.
 
 ## Step 2
+
+![Flow State Step Two](./flow-state-step-two.png?align=left&height=100&width=110)
 
 Fully immerse yourself in the learning experience. Ensure there are minimal distractions when you learn and that you have sufficient time to complete the learning activity. Rather return to an activity when you have the time than rush through it and miss its value.
 
 ## Step 3
 
+![Flow State Step Three](./flow-state-step-three.png?align=left&height=100&width=110)
+
 Aim to fully focus your attention on the activity you’re completing and become aware of the actions you’re taking or behaviours you’re demonstrating as you complete this. This will help you stay immersed in the learning experience.
 
 ## Step 4
 
+![Flow State Step Four](./flow-state-step-four.png?align=left&height=100&width=110)
+
 Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
 
 ## Step 5
+
+![Flow State Step Five](./flow-state-step-five.png?align=left&height=100&width=110)
 
 Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
 
@@ -92,23 +102,31 @@ The following steps will help you develop the skill of deep work, which will ens
 
 ## Step 1: Prepare
 
+![Deep Work Step One](./deep-work-step-one.png?align=left&height=100&width=110)
+
 Identify when you are most productive in the day and set a routine or set of habits at this time to signal to your brain that you’re entering a period of deep work. For example, prepare a cup of coffee, leave your phone out of sight and open only the necessary tabs on your browser to complete the day’s learning tasks.
 
 ## Step 2: Clarify
+
+![Deep Work Step Two](./deep-work-step-two.png?align=left&height=100&width=110)
 
 Set a goal for your period of deep work, clarifying how it will benefit you and your organisation. It can help to reframe your learning experience in a way that solves a workplace challenge, as this gives purpose to the learning and motivates you to stay committed to your deep work.
 
 ## Step 3: Stretch
 
+![Deep Work Step Three](./deep-work-step-three.png?align=left&height=100&width=110)
+
 Identify small challenges within the learning experience that align with your overarching goal set in Step 2 and that will stretch you out of your comfort zone. This will help you stay on track and feel rewarded when you successfully overcome the challenges during your period of deep work.
 
 ## Step 4: Obsess
+
+![Deep Work Step Four](./deep-work-step-four.png?align=left&height=100&width=110)
 
 Once ready for a break from the learning experience, track how much time you spent in deep concentration. Aim to improve and extend this period over time to prolong your state of deep work.
 
 While there are likely always going to be distractions and obstacles to learning as an adult, the approaches mentioned above should better guide you the next time you enrol in a short course or embark on a new learning journey. Good luck!
 
-###References
+### References
 
 _Csíkszentmihályi, M. 2013. Flow: The psychology of happiness. Ebury Digital._
 
