@@ -6,7 +6,7 @@ description: If we want employees or learners to thrive in a constantly changing
 author: Kira Koopman
 ---
 
-![top-banner](./top-banner.png)
+![top-banner](./top-banner.png?height=400&width=600)
 
 Digital Learning hasn’t evolved to keep up with the modern and fast-paced world of work. To meet the needs of many L&D professionals, academics, entrepreneurs, course creators and digital learning enthusiasts, we have collaborated with visual production company, [Studio Zafari], and various local and global industry experts, to create Learning Experience Design Essentials. This online course is packed with research-rich insights based on neuroscience, behavioural science and other cutting-edge learning trends. It promises to support you in developing a learning mindset and improve the way you design your learning experiences.
 
@@ -14,19 +14,19 @@ Learning Experience Design is an approach to designing learning experiences that
 
 ## Learner-centered
 
-![learner-centered](./learner-centered.jpg)
+![learner-centered](./learner-centered.jpg?align=left&height=150&width=150)
 
 This means that learning experiences prioritise learners’ interests, needs and contexts. Importantly, we live in an agile world where learners are pressed for time, so taking courses that are poorly designed and not centered around their learning needs will never be their top priority.
 
 ## Goal-Oriented
 
-![goal-orientated](./goal-orientated.jpg)
+![goal-orientated](./goal-orientated.jpg?align=left&height=150&width=150)
 
 Learning experiences should be well-defined and have attainable competence-based learning goals that align with your organisation’s objectives.
 
 ## Design-Focused
 
-![design-focused](./design-focused.jpg)
+![design-focused](./design-focused.jpg?align=left&height=150&width=150)
 
 Learning experiences should be accessible to a range of learners and created according to best practices in multimedia and visual design.
 
@@ -47,4 +47,4 @@ By enrolling in LXD Essentials, you will have the opportunity to:
 
 [Enroll today.]
 
-![bottom-banner](./bottom-banner.png)
+![bottom-banner](./bottom-banner.png?height=200&width=600)

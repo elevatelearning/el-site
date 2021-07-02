@@ -181,11 +181,13 @@
   @media only screen and (min-width: 641px) {
     [data-align="right"] {
       float: right;
+      margin-bottom: 10px !important;
       margin-left: 10px !important;
     }
 
     [data-align="left"] {
       float: left;
+      margin-bottom: 10px !important;
       margin-right: 10px !important;
     }
 
