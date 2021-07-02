@@ -6,75 +6,70 @@ import { StaticImage } from "gatsby-plugin-image"
 
 const Services = () => {
   return (
-    <Container fluid className="services-wrapper py-4 py-lg-7" id="services">
+    <Container
+      fluid
+      className="services-wrapper py-4 py-md-5 py-lg-7"
+      id="services"
+    >
       <h1 className="text-center">Our Services</h1>
       <Tab.Container defaultActiveKey="tab-1" id="service-items">
         <Row className="justify-content-center pt-4">
           <Col md={10} lg={8}>
             <Nav justify as="ul">
               <Nav.Item as="li" key="tab-1">
-                <Nav.Link eventKey="tab-1">
-                  <StaticImage
-                    src="../images/digital-needs-analysis.png"
-                    alt="Digital Needs Analysis"
-                    placeholder="blurred"
-                    layout="fixed"
-                    width={150}
-                    height={150}
-                  />
-                  <div>Digital Needs Analysis</div>
-                </Nav.Link>
+                <StaticImage
+                  src="../images/digital-needs-analysis.png"
+                  alt="Digital Needs Analysis"
+                  layout="fixed"
+                  placeholder="blurred"
+                  width={150}
+                />
+                <Nav.Link eventKey="tab-1">Digital Needs Analysis</Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-2">
+                <StaticImage
+                  src="../images/learning-development-strategy.png"
+                  alt="Learning & Development Strategy"
+                  layout="fixed"
+                  placeholder="blurred"
+                  width={150}
+                />
                 <Nav.Link eventKey="tab-2">
-                  <StaticImage
-                    src="../images/learning-development-strategy.png"
-                    alt="Learning & Development Strategy"
-                    placeholder="blurred"
-                    layout="fixed"
-                    width={150}
-                    height={150}
-                  />
-                  <div>Learning & Development Strategy</div>
+                  Learning & Development Strategy
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-3">
+                <StaticImage
+                  src="../images/learning-design-content-development.png"
+                  alt="Learning Design & Content Development"
+                  layout="fixed"
+                  placeholder="blurred"
+                  width={150}
+                />
                 <Nav.Link eventKey="tab-3">
-                  <StaticImage
-                    src="../images/learning-design-content-development.png"
-                    alt="Learning Design & Content Development"
-                    placeholder="blurred"
-                    layout="fixed"
-                    width={150}
-                    height={150}
-                  />
-                  <div>Learning Design & Content Development</div>
+                  Learning Design & Content Development
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-4">
-                <Nav.Link eventKey="tab-4">
-                  <StaticImage
-                    src="../images/digital-learning-solutions.png"
-                    alt="Digital Learning Solutions"
-                    placeholder="blurred"
-                    layout="fixed"
-                    width={150}
-                    height={150}
-                  />
-                  <div>Digital Learning Solutions</div>
-                </Nav.Link>
+                <StaticImage
+                  src="../images/digital-learning-solutions.png"
+                  alt="Digital Learning Solutions"
+                  layout="fixed"
+                  placeholder="blurred"
+                  width={150}
+                />
+                <Nav.Link eventKey="tab-4">Digital Learning Solutions</Nav.Link>
               </Nav.Item>
               <Nav.Item as="li" key="tab-5">
+                <StaticImage
+                  src="../images/communication-change-management.png"
+                  alt="Learning Experience Design Training"
+                  layout="fixed"
+                  placeholder="blurred"
+                  width={150}
+                />
                 <Nav.Link eventKey="tab-5">
-                  <StaticImage
-                    src="../images/communication-change-management.png"
-                    alt="Learning Experience Design Training"
-                    placeholder="blurred"
-                    layout="fixed"
-                    width={150}
-                    height={150}
-                  />
-                  <div>Learning Experience Design Training</div>
+                  Learning Experience Design Training
                 </Nav.Link>
               </Nav.Item>
             </Nav>

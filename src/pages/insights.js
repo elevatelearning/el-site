@@ -14,9 +14,9 @@ const Insights = () => {
     <Layout>
       <Seo title="Our Insights" />
       <Container fluid className="insights-wrapper" id="insights">
-        <Row className="justify-content-center mb-1">
+        <Row className="justify-content-center">
           <Col>
-            <Jumbotron className="text-center mt-7 mt-lg-8">
+            <Jumbotron className="text-center py-4 py-md-5 py-lg-7 my-1">
               <h1>Featured Insights</h1>
               <p className="lead text-center mt-3">
                 Our latest thinking, projects and insights into digital

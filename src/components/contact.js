@@ -9,13 +9,17 @@ import ContactForm from "../components/contact-form"
 
 const Contact = () => {
   return (
-    <Container fluid className="contact-wrapper pt-4 pt-lg-7" id="contact">
+    <Container
+      fluid
+      className="contact-wrapper pt-4 pt-md-5 pt-lg-7"
+      id="contact"
+    >
       <h1 className="text-center">Get In Touch</h1>
       <Row className="justify-content-center pt-4">
-        <Col md={5} lg={4}>
+        <Col md={10} lg={4}>
           <ContactForm></ContactForm>
         </Col>
-        <Col md={5} lg={4}>
+        <Col lg={4}>
           <blockquote className="blockquote text-center">
             <p className="mb-0">
               Our approach to creating effective, memorable learning experiences

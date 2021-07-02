@@ -20,27 +20,13 @@
   }
 
   ul.nav {
-    margin: 0;
-
-    .nav-link {
-      padding: 0 !important;
-      text-align: center;
-
-      .gatsby-image-wrapper {
-        margin-left: auto;
-        margin-right: auto;
-      }
-    }
-
-    a {
+    a.nav-link {
       background-color: $evl-blue;
       box-shadow: none;
       color: $evl-turquoise !important;
-      display: block;
       font-family: $headings-font-family;
       font-size: 1.2rem;
       font-weight: $font-weight-heavy;
-      margin-bottom: 10px;
 
       &:active,
       &:hover {
@@ -53,6 +39,11 @@
         color: $evl-pink !important;
       }
     }
+
+    .gatsby-image-wrapper {
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 
   .tab-content {
@@ -61,49 +52,33 @@
     }
   }
 
-  @include media-breakpoint-up(sm) {
-    h1 {
-      font-size: 1.8rem;
-    }
-
-    p {
-      font-size: 1rem;
-    }
-
-    ul.nav-pills {
-      a {
-        font-size: 1.2rem;
-      }
-    }
-  }
-
   @include media-breakpoint-up(md) {
     h1 {
-      font-size: 2rem;
+      font-size: 1.8rem;
     }
 
     p {
       font-size: 1.1rem;
     }
 
-    ul.nav-pills {
-      a {
-        font-size: 1.3rem;
+    ul.nav {
+      a.nav-link {
+        font-size: 1.2rem;
       }
     }
   }
 
   @include media-breakpoint-up(lg) {
     h1 {
-      font-size: 2.2rem;
+      font-size: 2rem;
     }
 
     p {
       font-size: 1.2rem;
     }
 
-    ul.nav-pills {
-      a {
+    ul.nav {
+      a.nav-link {
         font-size: 1.4rem;
       }
     }
