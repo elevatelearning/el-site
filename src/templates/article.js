@@ -20,14 +20,14 @@ const ArticleTemplate = ({ data }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <article
-        className="article"
+        className="article mb-5"
         itemScope
         itemType="http://schema.org/Article"
       >
-        <Container fluid className="my-5">
+        <Container fluid>
           <Row className="justify-content-center article-header">
             <Col md={10} lg={8}>
-              <Jumbotron className="text-center mt-7 mt-lg-8">
+              <Jumbotron className="text-center py-4 py-md-5 py-lg-7 my-1">
                 <header>
                   <h1 itemProp="headline">{post.frontmatter.title}</h1>
                   <p>{post.frontmatter.date}</p>
@@ -40,7 +40,7 @@ const ArticleTemplate = ({ data }) => {
               </Jumbotron>
             </Col>
           </Row>
-          <Row className="justify-content-center article-content pt-5 pb-4">
+          <Row className="justify-content-center article-content py-3 py-md-5">
             <Col md={10} lg={8}>
               <section
                 dangerouslySetInnerHTML={{ __html: post.html }}
