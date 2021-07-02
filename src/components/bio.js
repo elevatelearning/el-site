@@ -21,7 +21,7 @@ const Bio = ({ selected }) => {
             childImageSharp {
               gatsbyImageData(
                 layout: FIXED
-                width: 50
+                width: 90
                 placeholder: BLURRED
                 formats: [AUTO, WEBP, AVIF]
               )

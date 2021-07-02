@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 
 import { AnchorLink } from "gatsby-plugin-anchor-links"
+import Headroom from "react-headroom"
 import { Navbar, Nav } from "react-bootstrap"
 import Scrollspy from "react-scrollspy"
 import scrollTo from "gatsby-plugin-smoothscroll"
@@ -16,27 +17,23 @@ const Header = () => {
   ])
 
   return (
-    <header>
-      <Navbar expand="lg" fixed="top" id="header-navbar">
+    <Headroom>
+      <Navbar collapseOnSelect expand="lg">
         <Navbar.Brand onClick={() => scrollTo("#home")}>
-          <div style={{ width: "250px" }}>
-            <AnchorLink to="/#home" title="Elevate Learning">
-              <StaticImage
-                src="../images/elevate-logo-text-right.png"
-                alt="Digital Needs Analysis"
-                placeholder="blurred"
-                layout="fixed"
-                width={300}
-                height={100}
-              />
-            </AnchorLink>
-          </div>
+          <AnchorLink to="/#home" title="Elevate Learning">
+            <StaticImage
+              src="../images/elevate-logo-text-right.png"
+              alt="Digital Needs Analysis"
+              placeholder="blurred"
+              width={250}
+            />
+          </AnchorLink>
         </Navbar.Brand>
         <Navbar.Toggle
-          className="d-none custom-toggler"
-          aria-controls="header-navbar-nav"
+          className="custom-toggler"
+          aria-controls="Headroom-navbar-nav"
         />
-        <Navbar.Collapse id="header-navbar-nav">
+        <Navbar.Collapse id="Headroom-navbar-nav">
           <Nav className="ml-auto">
             <Scrollspy
               items={links.map(s => s.href)}
@@ -63,7 +60,7 @@ const Header = () => {
           </Nav>
         </Navbar.Collapse>
       </Navbar>
-    </header>
+    </Headroom>
   )
 }
 

@@ -20,19 +20,9 @@
       box-shadow: none;
     }
 
-    @include media-breakpoint-up(sm) {
-      h1 {
-        font-size: 1.8rem;
-      }
-
-      p {
-        font-size: 1rem;
-      }
-    }
-
     @include media-breakpoint-up(md) {
       h1 {
-        font-size: 2rem;
+        font-size: 1.8rem;
       }
 
       p {
@@ -42,7 +32,7 @@
 
     @include media-breakpoint-up(lg) {
       h1 {
-        font-size: 2.2rem;
+        font-size: 2rem;
       }
 
       p {
