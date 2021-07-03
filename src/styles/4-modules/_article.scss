@@ -112,6 +112,7 @@
   blockquote {
     background: #193446;
     border-left: 10px solid $evl-pink;
+    clear: both;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
     quotes: "\201C""\201D";
@@ -189,6 +190,34 @@
       float: left;
       margin-bottom: 10px !important;
       margin-right: 10px !important;
+    }
+
+    [data-align="right-30"] {
+      float: right;
+      margin-bottom: 30px !important;
+      margin-left: 10px !important;
+    }
+
+    [data-align="left-30"] {
+      float: left;
+      margin-bottom: 30px !important;
+      margin-right: 10px !important;
+    }
+
+    [data-align="right-60"] {
+      float: right;
+      margin-bottom: 60px !important;
+      margin-left: 10px !important;
+    }
+
+    [data-align="left-60"] {
+      float: left;
+      margin-bottom: 60px !important;
+      margin-right: 10px !important;
+    }
+
+    [data-align="center"] {
+      margin-bottom: 60px !important;
     }
 
     figure[data-align] {
