@@ -10,10 +10,7 @@ const NotFoundPage = () => {
   return (
     <Layout>
       <Seo title="404: Not Found" />
-      <Container
-        className="not-found d-flex justify-content-center align-items-center"
-        id="not-found"
-      >
+      <Container className="not-found pt-6 pt-md-7" id="not-found">
         <Row className="text-center">
           <Col>
             <h1>404 page not found</h1>
