@@ -6215,6 +6215,14 @@ gatsby-plugin-manifest@^3.8.0:
     semver "^7.3.5"
     sharp "^0.28.1"
 
+gatsby-plugin-nprogress@^3.8.0:
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-nprogress/-/gatsby-plugin-nprogress-3.8.0.tgz#119bd2e2a670856c2b84ef90b989eb330d20b554"
+  integrity sha512-Zf3TombX5wOQPtiCNfZ5Ik1EczpYmoziWI6EEE6yxvMmAMnY4HewZ1SNSLhkUF0J3KCjPEunvFAMlA4yM3edrw==
+  dependencies:
+    "@babel/runtime" "^7.14.0"
+    nprogress "^0.2.0"
+
 gatsby-plugin-offline@^4.8.0:
   version "4.8.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-4.8.0.tgz#153edc53d35e15543db0d3010f084f93d5afb74e"
@@ -10041,6 +10049,11 @@ npmlog@^4.0.0, npmlog@^4.0.1, npmlog@^4.1.2:
     console-control-strings "~1.1.0"
     gauge "~2.7.3"
     set-blocking "~2.0.0"
+
+nprogress@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/nprogress/-/nprogress-0.2.0.tgz#cb8f34c53213d895723fcbab907e9422adbcafb1"
+  integrity sha1-y480xTIT2JVyP8urkH6UIq28r7E=
 
 nth-check@^1.0.2:
   version "1.0.2"

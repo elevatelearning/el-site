@@ -159,5 +159,12 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
     `gatsby-plugin-smoothscroll`,
+    {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        color: `tomato`,
+        showSpinner: false,
+      },
+    },
   ],
 }
