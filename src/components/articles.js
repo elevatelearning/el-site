@@ -1,7 +1,7 @@
 import React from "react"
 
-import { Card, CardDeck, Col, Row } from "react-bootstrap"
 import { getSrc } from "gatsby-plugin-image"
+import { Card, CardDeck, Col, Row } from "react-bootstrap"
 import { useStaticQuery, Link, graphql } from "gatsby"
 
 const Articles = () => {

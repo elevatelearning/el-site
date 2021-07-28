@@ -131,8 +131,36 @@
     display: inline;
   }
 
+  section {
+    margin-bottom: 50px;
+  }
+
   hr {
     clear: both;
+  }
+
+  footer {
+    margin-bottom: 30px;
+    margin-top: 30px;
+  }
+
+  .bio {
+    color: $evl-turquoise;
+    font-family: $font-family-sans-serif;
+    font-size: 0.9rem;
+  
+    .avatar {
+      float: left;
+      margin: 10px 20px 10px 10px;
+    }
+  
+    @include media-breakpoint-up(md) {
+      font-size: 1.1rem;
+    }
+  
+    @include media-breakpoint-up(lg) {
+      font-size: 1.2rem;
+    }
   }
 
   @include media-breakpoint-up(md) {
@@ -235,24 +263,5 @@
       width: unset !important;
       height: unset !important;
     }
-  }
-}
-
-.bio {
-  color: $evl-turquoise;
-  font-family: $font-family-sans-serif;
-  font-size: 1rem;
-
-  .avatar {
-    float: left;
-    margin-right: 20px;
-  }
-
-  @include media-breakpoint-up(md) {
-    font-size: 1.1rem;
-  }
-
-  @include media-breakpoint-up(lg) {
-    font-size: 1.2rem;
   }
 }
