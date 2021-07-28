@@ -53,7 +53,7 @@ class ContactForm extends React.Component {
     }
 
     axios(axiosOptions)
-      .then(response => {
+      .then(() => {
         this.setState({
           feedbackMessage: "Message sent successfully!",
           formValidated: false,

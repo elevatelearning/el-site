@@ -4,6 +4,9 @@ title: Gamification Tactics for Online Learning Experiences
 date: "2021-07-19T10:59:59.169Z"
 description: Gamification tactics can help to increase anyone’s level of motivation and engagement with online learning experiences.
 author: Kira Koopman
+infographic: "../../assets/gamification-tactics-infographic-preview.png"
+attachments:
+  - "./Gamification Tactics for Online Learning Experiences.pdf"
 ---
 
 No one is too old for gamified online learning experiences! We’re not talking about gimmicky or cliché gamification, but rather tactics that enhance learners’ intrinsic and extrinsic motivation and improve their engagement with your learning experiences. Gamification tactics can help to increase anyone’s level of motivation and engagement with online learning experiences.

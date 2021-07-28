@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import { Col, Container, Jumbotron, Row } from "react-bootstrap"
 
 import Bio from "../components/bio"
+import DownloadInfographic from "../components/download-infographic"
 import Layout from "../components/layout"
 import RelatedArticles from "../components/related-articles"
 import Seo from "../components/seo"
@@ -54,6 +55,7 @@ const ArticleTemplate = ({ data }) => {
           </Row>
         </Container>
       </article>
+      <DownloadInfographic attachments={post.frontmatter.attachments} infographic={post.frontmatter.infographic} />
       <RelatedArticles previous={data.previous} next={data.next} />
     </Layout>
   )
@@ -81,6 +83,20 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         author
+        infographic {
+          childImageSharp {
+            gatsbyImageData(
+              width: 250
+              quality: 80
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
+        attachments {
+          publicURL
+          name
+        }
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

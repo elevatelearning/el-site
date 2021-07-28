@@ -1,15 +1,18 @@
 import React from "react"
 
-import Header from "./header"
 import Footer from "./footer"
+import FlashMessage from "./flash-message"
+import Header from "./header"
+import { MessageContextProvider } from "../contexts/message-context"
 
 const Layout = ({ children }) => {
   return (
-    <>
-      <Header></Header>
+    <MessageContextProvider>
+      <FlashMessage />
+      <Header />
       <main>{children}</main>
-      <Footer></Footer>
-    </>
+      <Footer />
+    </MessageContextProvider>
   )
 }
 
