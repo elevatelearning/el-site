@@ -1,9 +1,9 @@
 ---
-thumbnail: "../../assets/insights-cover-18.jpg"
+thumbnail: "../../assets/insights-cover-19.jpg"
 title: How to measure the effectiveness of your learning experiences
 date: "2021-08-18T10:59:59.169Z"
 description: Companies investing in online learning often don’t have the tools or practices to effectively evaluate their learning experiences. They tend to focus on shallow metrics such as course completion or number of questions answered correctly in activities. While students may complete a course, there’s no telling if there’s behaviour change, which should be the goal of the learning experience, and without the full picture of the impact of the learning experience, there’s no knowing its return on investment.
-author: Kira Koopman
+author: Pasqua Lawrenson
 ---
 
 Companies investing in online learning often don’t have the tools or practices to effectively evaluate their learning experiences. They tend to focus on shallow metrics such as course completion or number of questions answered correctly in activities. While students may complete a course, there’s no telling if there’s behaviour change, which should be the goal of the learning experience, and without the full picture of the impact of the learning experience, there’s no knowing its return on investment.
@@ -18,19 +18,23 @@ This is where we can draw on the principles of monitoring and evaluation and a f
 
 Monitoring and Evaluation is an approach predominantly used to measure the effectiveness of programmes or initiatives in the development sector with the intention of having maximum impact. The principles of this approach can also be translated to measuring online learning experiences:
 
-- Set clear objectives and goals for what success looks like, and which criteria to measure the programme’s progress from beginning to end.
+![Clear Objectives and Go](./clear-objectives-and-goals.png?align=left&height=100&width=110) Set clear objectives and goals for what success looks like, and which criteria to measure the programme’s progress from beginning to end.
 
-- Collect and analyse data at the beginning of the programme to serve as your baseline. \* From then, regularly collect data relevant to the programme’s goals and that indicate the level of its effectiveness.
+![Collect and Analyse Data](./collect-and-analyse-data.png?align=left&height=100&width=110) Collect and analyse data at the beginning of the programme to serve as your baseline. From then, regularly collect data relevant to the programme’s goals and that indicate the level of its effectiveness.
 
-- Upon analysis of the data, make changes and iterate throughout the programme implementation to improve the programme’s impact.
+![Make Changes](./make-changes.png?align=left&height=100&width=110) Upon analysis of the data, make changes and iterate throughout the programme implementation to improve the programme’s impact.
 
-- At the end of the programme, compare your findings with the data collected at the beginning of the programme to determine whether there is a change in behaviour or competences and what can be improved going forward.
+![Compare Findings](./compare-findings.png?align=left&height=100&width=110) At the end of the programme, compare your findings with the data collected at the beginning of the programme to determine whether there is a change in behaviour or competences and what can be improved going forward.
 
 With a monitoring and evaluation mindset, you’ll be able to more effectively implement and design criteria for evaluating learning effectiveness.
 
 ## What are learning evaluations?
 
+![Kirkpatrick's Model](./kirkpatricks-model.png?height=400&width=600)
+
 Learning evaluations are the criteria you will analyse to determine the success of your learning experiences. There are a few theorists who have developed different learning evaluation models, which suggest key evaluation criteria relating to the micro-level (the learning experience itself) as well as the macro-level (its impact on your business and even society). For example, Kirkpatrick’s Model founded by training expert, Donald Kirkpatrick, indicates that a learning experience should be evaluated across the following four levels:
+
+![Kaufman's Five Levels](./kaufmans-five-levels.png?height=400&width=600)
 
 Roger Kaufman, an expert in evaluation and needs assessment, expanded upon Kirkpatrick’s model to include an evaluation of a learning experiences’ societal impact in what is termed Kaufman’s Five Levels of Evaluation.
 
@@ -42,18 +46,18 @@ Knowing your general evaluation criteria introduced above is a good start, but y
 
 Begin with tracking the achievement of the learning objectives. At the start of the learning design process, you should have decided on objectives and competences that learners would attain through the learning experience. These not only help to clarify the learning and motivate the learner towards specific goals, but are also useful for measuring whether the learning experience achieved the objectives or not. For tips on how to create a strategy for your online learning experience and set learning objectives, [have a look at this article](https://www.elevatelearning.org/insights/how-to-develop-a-learning-strategy/).
 
+![Other Metrics For Evaluation](./other-metrics-for-evaluation.png?height=250&width=600)
+
 Other metrics for evaluation include:
 
-- CONDUCT ASSESSMENTS: Assess your employees’ capabilities and competencies before and after the training through simple baseline surveys and knowledge checks to determine whether there has been any development.
+![Conduct Assessments](./conduct-assessments.png?align=left&height=110&width=120) **CONDUCT ASSESSMENTS:** Assess your employees’ capabilities and competencies before and after the training through simple baseline surveys and knowledge checks to determine whether there has been any development.
 
-- TRACK ENGAGEMENT: Tracking course completion and the grades achieved on individual assessments as well as the course as a whole, as well as learner’s engagement on the course through clicks, time spent, contribution to discussion forums and liking or sharing of content will help determine the success of your course.
+![Track Engagement](./track-engagement.png?align=left&height=110&width=120) **TRACK ENGAGEMENT:** Tracking course completion and the grades achieved on individual assessments as well as the course as a whole, as well as learner’s engagement on the course through clicks, time spent, contribution to discussion forums and liking or sharing of content will help determine the success of your course.
 
-- MEASURE RESULTS: Observing an increase or decrease in grades and determining what prompted this change will assist in understanding whether content and your learner’s experience of the content has been impactful, whether there are knowledge gaps based on their understanding or on the course design.
+![Measure Results](./measure-results.png?align=left&height=110&width=120) **MEASURE RESULTS:** Observing an increase or decrease in grades and determining what prompted this change will assist in understanding whether content and your learner’s experience of the content has been impactful, whether there are knowledge gaps based on their understanding or on the course design.
 
-- ANALYSE DATA: Analysing data from the leaderboards as well as course levels, badges and rewards achieved in gamified learning experiences also contributes to the measurement of impact of a course.
+![Analysing Data](./analysing-data.png?align=left&height=110&width=120) **ANALYSE DATA:** Analysing data from the leaderboards as well as course levels, badges and rewards achieved in gamified learning experiences also contributes to the measurement of impact of a course.
 
 Using digital data, through xAPI, is also a good indicator to note how learners interact with your course and other online platforms in your organisation. xAPI, or Experience Application Programme Interface, allows you to track and view how learners use your course, what they click, how much time is spent on which activities or content, what was revisited, and so forth. This data is invaluable when analysing the success of individual components of your course. In the case of informal workplace learning where employees are largely self-led in their learning, xAPI can also track engagement with different browser tabs and applications, giving you a sense of the employee’s commitment to continual learning.
 
-Having an understanding of the various learning evaluation models and identifying useful metrics are the first step toward effective evaluation of your online learning experiences. You will then need to couple this with understanding your learning analytics to track your return on investment.
-
-Ultimately
+Ultimately, having an understanding of the various learning evaluation models and identifying useful metrics are the first step toward effective evaluation of your online learning experiences. Coupling this with understanding your learning analytics will result in more enhanced and accurate learning return on investment and more improved learning experiences for your learners.

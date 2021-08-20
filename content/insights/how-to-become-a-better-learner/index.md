@@ -62,33 +62,23 @@ These five steps will help you to achieve your flow state while learning:
 
 ### Step 1: Goals
 
-![Flow State Step One](./flow-state-step-one.png?align=left&height=100&width=110)
-
-Make sure you are aware of and understand the learning experience’s goals and seek in-the-moment feedback as you learn, as and when is possible. This will help you keep on track and motivated to stay engaged in the learning experience.
+![Flow State Step One](./flow-state-step-one.png?align=left&height=100&width=110) Make sure you are aware of and understand the learning experience’s goals and seek in-the-moment feedback as you learn, as and when is possible. This will help you keep on track and motivated to stay engaged in the learning experience.
 
 ### Step 2: Time
 
-![Flow State Step Two](./flow-state-step-two.png?align=left&height=100&width=110)
-
-Fully immerse yourself in the learning experience. Ensure there are minimal distractions when you learn and that you have sufficient time to complete the learning activity. Rather return to an activity when you have the time than rush through it and miss its value.
+![Flow State Step Two](./flow-state-step-two.png?align=left&height=100&width=110) Fully immerse yourself in the learning experience. Ensure there are minimal distractions when you learn and that you have sufficient time to complete the learning activity. Rather return to an activity when you have the time than rush through it and miss its value.
 
 ### Step 3: Aware
 
-![Flow State Step Three](./flow-state-step-three.png?align=left&height=100&width=110)
-
-Aim to fully focus your attention on the activity you’re completing and become aware of the actions you’re taking or behaviours you’re demonstrating as you complete this. This will help you stay immersed in the learning experience.
+![Flow State Step Three](./flow-state-step-three.png?align=left&height=100&width=110) Aim to fully focus your attention on the activity you’re completing and become aware of the actions you’re taking or behaviours you’re demonstrating as you complete this. This will help you stay immersed in the learning experience.
 
 ### Step 4: Enjoy
 
-![Flow State Step Four](./flow-state-step-four.png?align=left&height=100&width=110)
-
-Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
+![Flow State Step Four](./flow-state-step-four.png?align=left&height=100&width=110) Ensure that you are able to enjoy and be present in the immediate experience, undistracted by thoughts related to fear of failure, ambition to succeed or wondering what might be coming up next. This will also help to bring your creativity to the fore.
 
 ### Step 5: Achieve
 
-![Flow State Step Five](./flow-state-step-five.png?align=left&height=100&width=110)
-
-Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
+![Flow State Step Five](./flow-state-step-five.png?align=left&height=100&width=110) Ensure that your existing skill set is effectively balanced with the level of challenge, so you are able to achieve the learning goals. If the learning experience is too simple, seek something more challenging. If it’s too challenging, seek other learning experiences that scaffold the concepts and better prepare you for more challenging learning experiences.
 
 ![deep-work](./deep-work.png?height=300&width=550)
 
@@ -102,27 +92,19 @@ The following steps will help you develop the skill of deep work, which will ens
 
 ### Step 1: Prepare
 
-![Deep Work Step One](./deep-work-step-one.png?align=left&height=100&width=110)
-
-Identify when you are most productive in the day and set a routine or set of habits at this time to signal to your brain that you’re entering a period of deep work. For example, prepare a cup of coffee, leave your phone out of sight and open only the necessary tabs on your browser to complete the day’s learning tasks.
+![Deep Work Step One](./deep-work-step-one.png?align=left&height=100&width=110) Identify when you are most productive in the day and set a routine or set of habits at this time to signal to your brain that you’re entering a period of deep work. For example, prepare a cup of coffee, leave your phone out of sight and open only the necessary tabs on your browser to complete the day’s learning tasks.
 
 ### Step 2: Clarify
 
-![Deep Work Step Two](./deep-work-step-two.png?align=left&height=100&width=110)
-
-Set a goal for your period of deep work, clarifying how it will benefit you and your organisation. It can help to reframe your learning experience in a way that solves a workplace challenge, as this gives purpose to the learning and motivates you to stay committed to your deep work.
+![Deep Work Step Two](./deep-work-step-two.png?align=left&height=100&width=110) Set a goal for your period of deep work, clarifying how it will benefit you and your organisation. It can help to reframe your learning experience in a way that solves a workplace challenge, as this gives purpose to the learning and motivates you to stay committed to your deep work.
 
 ### Step 3: Stretch
 
-![Deep Work Step Three](./deep-work-step-three.png?align=left&height=100&width=110)
-
-Identify small challenges within the learning experience that align with your overarching goal set in Step 2 and that will stretch you out of your comfort zone. This will help you stay on track and feel rewarded when you successfully overcome the challenges during your period of deep work.
+![Deep Work Step Three](./deep-work-step-three.png?align=left&height=100&width=110) Identify small challenges within the learning experience that align with your overarching goal set in Step 2 and that will stretch you out of your comfort zone. This will help you stay on track and feel rewarded when you successfully overcome the challenges during your period of deep work.
 
 ### Step 4: Obsess
 
-![Deep Work Step Four](./deep-work-step-four.png?align=left&height=100&width=110)
-
-Once ready for a break from the learning experience, track how much time you spent in deep concentration. Aim to improve and extend this period over time to prolong your state of deep work.
+![Deep Work Step Four](./deep-work-step-four.png?align=left&height=100&width=110) Once ready for a break from the learning experience, track how much time you spent in deep concentration. Aim to improve and extend this period over time to prolong your state of deep work.
 
 While there are likely always going to be distractions and obstacles to learning as an adult, the approaches mentioned above should better guide you the next time you enrol in a short course or embark on a new learning journey. Good luck!
 

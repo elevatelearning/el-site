@@ -31,9 +31,9 @@ const Header = () => {
         </Navbar.Brand>
         <Navbar.Toggle
           className="custom-toggler"
-          aria-controls="Headroom-navbar-nav"
+          aria-controls="header-navbar-nav"
         />
-        <Navbar.Collapse id="Headroom-navbar-nav">
+        <Navbar.Collapse id="header-navbar-nav">
           <Nav className="ml-auto">
             <Scrollspy
               items={links.map(s => s.href)}

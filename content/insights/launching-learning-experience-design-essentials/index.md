@@ -16,21 +16,15 @@ Learning Experience Design is an approach to designing learning experiences that
 
 ## Learner-centered
 
-![learner-centered](./learner-centered.jpg?align=right&height=150&width=150)
-
-This means that learning experiences prioritise learners’ interests, needs and contexts. Importantly, we live in an agile world where learners are pressed for time, so taking courses that are poorly designed and not centered around their learning needs will never be their top priority.
+![learner-centered](./learner-centered.jpg?align=right&height=150&width=150) This means that learning experiences prioritise learners’ interests, needs and contexts. Importantly, we live in an agile world where learners are pressed for time, so taking courses that are poorly designed and not centered around their learning needs will never be their top priority.
 
 ## Goal-Oriented
 
-![goal-orientated](./goal-orientated.jpg?align=right&height=150&width=150)
-
-Learning experiences should be well-defined and have attainable competence-based learning goals that align with your organisation’s objectives.
+![goal-orientated](./goal-orientated.jpg?align=right&height=150&width=150) Learning experiences should be well-defined and have attainable competence-based learning goals that align with your organisation’s objectives.
 
 ## Design-Focused
 
-![design-focused](./design-focused.jpg?align=right-60&height=150&width=150)
-
-Learning experiences should be accessible to a range of learners and created according to best practices in multimedia and visual design.
+![design-focused](./design-focused.jpg?align=right-60&height=150&width=150) Learning experiences should be accessible to a range of learners and created according to best practices in multimedia and visual design.
 
 > **Elaborating on the importance of impactful visual design, Marli Mckellar, co-founder of Studio Zafari says,** In an era of Netflix, Youtube and TikTok we can't keep expecting our learners to sit through two hour-long webinars or these boring Zoom classes. But creating good online learning content can be difficult. It's hard to know if you're doing it right or even just where to begin. The LXD essentials course cuts through the noise and looks at the latest best practice in learning science. LXD isn't about copy-pasting your classroom online, it's about creating learning experiences that really matter.
 
