@@ -14,7 +14,7 @@ Digital doesn't mean simply delivering the same face-to-face workshop virtually;
 
 Here are five reasons why you should create Digital Learning Experiences as you plan your next orientation, training manual, course, or virtual masterclass, or if you’re already onboard, how to convince your Board, Finance Team or other stakeholders hesitant to ‘go online’.
 
-![Five Reasons Why You Should Create Digital Learning Experiences](./five-reasons-why-you-should-create.png)
+![Five Reasons Why You Should Create Digital Learning Experiences](./five-reasons-why-you-should-create.png?height=400&width=600)
 
 ### 1) Digital is Scalable
 
@@ -24,12 +24,9 @@ This level of access is important because it highlights how the internet offers 
 
 Because digital learning can withstand growing numbers without the accompanying growing budget, you can reach more people more easily. Coupled with increasing accessibility to mobile-friendly online lessons and interactive content, whether your learners are on the road, working remotely or even internationally, you can be assured of the consistency of training at scale.
 
-<figure>
-  <img src="./annual-digital-trends-report.png" alt="Digital 2020 Global Overview Report">
-  <figcaption>
-    wearesocial and Hootsuite release an <a href="https://datareportal.com/reports/digital-2020-global-digital-overview" rel="noopener nofollow">annual digital trends report</a> which provides insightful global digital trends data and statistics.
-  </figcaption>
-</figure>
+![Digital 2020 Global Overview Report](./annual-digital-trends-report.png?height=350&width=600)
+
+> wearesocial and Hootsuite release an <a href="https://datareportal.com/reports/digital-2020-global-digital-overview" rel="noopener nofollow">annual digital trends report</a> which provides insightful global digital trends data and statistics.
 
 ### 2) Digital is Measurable
 
@@ -45,7 +42,7 @@ The aim of digital LXD is to create resource-efficient learning experiences that
 
 In the same global digital trends, daily time spent online puts South Africa in second place at 9 hours and 22 minutes per day — almost 2½ hours above the global average. Meeting learners where they are is a critical aspect of the learning experience design process, and if they’re online, then your resources, energy and budget should ideally mirror that orientation.
 
-![Time Per Day Spent Using The Internet](./time-per-day-spent-using-the-internet.png)
+![Time Per Day Spent Using The Internet](./time-per-day-spent-using-the-internet.png?height=350&width=600)
 
 Digital solves both time and financial constraints that traditional learning and development interventions pose, whilst also encouraging self-paced, personalised learning. In merging your learners’ online and offline worlds through interactive and meaningful learning experiences, you’ll create unique opportunities to capitalise on your development interventions, saving you both time and money.
 

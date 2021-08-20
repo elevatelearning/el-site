@@ -18,7 +18,7 @@ Microlearning is an approach to learning experience design that sees content bei
 
 The science behind impactful and engaging learning experiences is that short, spaced, repetitive learning experiences are more effective for retention of new information. Managing for this cognitive learning load means the content and experience is scaffolded, allowing learners to slowly and incrementally build their skills and knowledge. When the content and experience is structured with microlearning in mind, information becomes easier to comprehend and retain over the long term.
 
-![Four Principles Of Adult Learning Theory](./four-principles-of-adult-learning-theory.jpg)
+![Four Principles Of Adult Learning Theory](./four-principles-of-adult-learning-theory.jpg?height=450&width=600)
 
 ## The benefits of microlearning
 

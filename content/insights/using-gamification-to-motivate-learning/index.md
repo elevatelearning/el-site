@@ -14,13 +14,13 @@ Learners need to feel as though they are solving problems that are relevant and 
 
 ### There are two fundamental ‘types’ of motivation.
 
-![Two Fundamental Types Of Motivation](./two-fundamental-types-of-motivation.jpg)
+![Two Fundamental Types Of Motivation](./two-fundamental-types-of-motivation.jpg?height=300&width=500)
 
 **Extrinsic motivation** stems from factors external to the learner and are typically related to pressures to complete the learning programme. These might come from expectations of a boss, the promise of a reward or promotion or the fear of failure or punishment. Extrinsic motivators might also include the potential for public recognition or learning experiences that provide a sense of instant gratification. These motivators, while seemingly effective in the short term, do little to instill a love for learning, or a curiosity or desire to keep learning.
 
 **Intrinsic motivation** is made up of the learner’s internal reasons for pursuing learning. These could include personal goals and ambitions, genuine interest in a subject, a need to prove something or even competition between peers. An intrinsically motivated learner is attracted to the perceived status of having knowledge and experience about a subject, and the ‘reward’ of mastering a topic or skill.
 
-![What is Gamification?](./what-is-gamification.jpg)
+![What is Gamification?](./what-is-gamification.jpg?height=200&width=550)
 
 ## What is Gamification?
 
@@ -34,25 +34,25 @@ In a previous article on the <a href="/insights/how-to-develop-a-learning-strate
 
 **Here are four ways you can use gamification tactics to improve learner motivation.**
 
-![Appeal To Our Desire To Know More](./desire-to-know-more.jpg)
+![Appeal To Our Desire To Know More](./desire-to-know-more.jpg?height=300&width=550)
 
 ### Appeal to our desire to know more
 
 When incorporating gamification tactics in a course or learning system, at its simplest, you’re scaffolding and cascading information. This information could be the content itself, unlocking new modules upon completion of the other, sharing bonus content, or drip feeding microlessons.
 
-![Appeal To Our Desire To Belong](./desire-to-belong.jpg)
+![Appeal To Our Desire To Belong](./desire-to-belong.jpg?height=300&width=550)
 
 ### Appeal to our desire to belong
 
 Creating community discussion boards, opportunities to share thoughts and reflect on the experiences of the learning with peers helps to create a sense of belonging among participants. This natural social pressure motivates learners to contribute to the learning experience of others, incentivising their own engagement throughout the course that creates a compounding effect that continuously builds community.
 
-![Appeal To Our Desire To Win](./desire-to-win.jpg)
+![Appeal To Our Desire To Win](./desire-to-win.jpg?height=300&width=550)
 
 ### Appeal to our desire to win
 
 Gamification tactics such as creating opportunities for participants to level up, earn points or rank on a leaderboard, or offering rewards or incentives for their accomplishments, creates natural competition, particularly for those with a strong internal locus of control (put simply, those who believe they make their own luck). By creating a virtual currency or point system, learning designers can appeal to a participant’s natural competitiveness and drive for status as a motivating factor to learn and master skills.
 
-![Appeal To Our Desire To Play](./desire-to-play.jpg)
+![Appeal To Our Desire To Play](./desire-to-play.jpg?height=300&width=550)
 
 ### Appeal to our desire to play
 
