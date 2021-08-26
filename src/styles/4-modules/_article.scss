@@ -149,6 +149,10 @@
     color: $evl-turquoise;
     font-family: $font-family-sans-serif;
     font-size: 0.9rem;
+
+    p {
+      clear: none;
+    }
   
     .avatar {
       float: left;
