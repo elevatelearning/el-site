@@ -40,12 +40,16 @@
 
     .card-img {
       border-radius: 0;
-      height: 500px;
-      margin: 0;
-      padding: 0;
-      object-fit: cover;
-      object-position: top;
+      position: absolute;
+      top: 0;
+      left: 0;
       width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
     }
 
     @include media-breakpoint-up(md) {
