@@ -10,6 +10,10 @@ module.exports = {
         name: `Pasqua Lawrenson`,
         summary: `Learning Experience Design Specialist`,
       },
+      {
+        name: `Kelsey Groenmeyer`,
+        summary: `Learning Experience Design Specialist`,
+      },
     ],
     description: `Elevate Learning is a full-service learning design consultancy. We partner with you to design and implement online and blended learning experiences.`,
     siteUrl: `https://www.elevatelearning.org/`,
@@ -121,6 +125,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Elevate Learning Insights RSS Feed",
           },
         ],
       },
