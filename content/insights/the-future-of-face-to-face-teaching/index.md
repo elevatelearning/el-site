@@ -1,10 +1,12 @@
 ---
-thumbnail: "../../assets/insights-cover-18.jpg"
+thumbnail: "../../assets/insights-cover-21.jpg"
 title: The Future of Face-to-Face Teaching.
 date: "2021-10-22T10:59:59.169Z"
 description:  A year and a half into the Covid-19 pandemic and we are still hopping on- and offline without a clear plan of which mode of delivery is around the corner. It’s safe to say that this hybrid way of teaching is commonplace and here to stay. So how does this affect learning? Is this the future of teaching?
-author: Kira Koopman
+author: Kelsey Groenmeyer
 ---
+
+![The Future Of Face To Face Teaching](./the-future-of-face-to-face-teaching.png?align=centre&height=300&width=600)
 
 A year and a half into the Covid-19 pandemic and we are still hopping on- and offline without a clear plan of which mode of delivery is around the corner. It’s safe to say that this hybrid way of teaching is commonplace and here to stay. So how does this affect learning? Is this the future of teaching?
 
@@ -18,15 +20,21 @@ So what do our learners need and want? I think our learners want learning that i
 
 Here are four predictions for the future of teaching:
 
+![The Future Of Teaching Is Prsonalised Learning](./the-future-of-teaching-is-personalised-learning.png?height=300&width=600)
+
 One big thing that experts in learning are talking about is the move to more personalised learning. In the school system, this is challenging and it’s something that we need to keep exploring. A part of personalised learning is creating more learner autonomy and providing the individual learner with the ability to choose their next step.
 
 A small way you could start to implement more personalised learning in your classroom is by allowing the learners to give you feedback about their learning in your subject for you to implement where you can. You could also look for topics or sections of the curriculum where they could work at their own pace, or in their own order of preference. Additionally, including contextually relevant examples of concepts or new knowledge, or providing them with opportunities to reflect on how the content relates to their personal experiences, helps them to make a connection between theory and practice. 
+
+![The Future Of Teaching Is Adaptive Technology](./the-future-of-teaching-is-adaptive-technology.png?height=300&width=600)
 
 People experience life as a whole. As teachers, we need to consider the way we teach in relation to the rest of our learners’ lives. Teaching should change with the learner. As we move forward as a society with technology, we need to stay open to change too. If technologies like Artificial Intelligence could be a vehicle for making learning more engaging, we need to become familiar with it and learn the necessary systems and algorithms to meet our learners where they are.
 
 One institution that is offering AI as part of its curriculum is HaileyburyX, based in Australia, which offers online and blended learning courses. Their aim is to start to ask questions, explore ideas and start conversations that will make the real-world- and near-future implications of AI in K12 education real and meaningful. In this article on [why they built AI micro-courses](https://medium.com/haileyburyx/an-ai-walks-into-a-classroom-f58e6ff53881), they say that they believe students learn best when engaged in experiences that push them beyond the boundaries of a ‘course’.
 
 While we may be a while away from using AI in our classrooms here in South Africa, it also makes sense to keep an eye on the technology trends that are informing the way we design our classrooms, curricula, and instruction for the future.
+
+![The Future Of Teaching Is Digital](./the-future-of-teaching-is-digital.png?height=300&width=600)
 
 With a continued need to present lessons online (at least some of the time), we need to rethink our approach to online teaching. We can't simply move lessons designed to take place face-to-face into an online space (and blame Zoom when our learners are not engaged). It’s not a sustainable way to teach or learn. The latest research in neuroscience and our understanding of how the brain works shows that learning doesn’t work in marathon sessions, but that we should be using spaced repetition to retain information.
 
@@ -35,6 +43,8 @@ If pre-Covid you were spending most of your face-to-face lessons instructing, an
 There is also the idea that learning online is lonely. But part of our solution to teaching online is building social connections. Jennifer Hofmann says in this [article on learner engagement](https://learningsolutionsmag.com/articles/get-and-keep-learners-engaged-in-a-virtual-classroom) that learning happens during collaboration. We need to use the technology available to us and give learners more opportunities to do the talking. This doesn’t mean random activities during your virtual lessons, but designing every part of your lesson to support learning at its essence.
 
 To create a more interactive classroom you could introduce polls using Google Forms or Menti.com, build engaging quizzes or games using Kahoot, or provide opportunities for learners to work together on problems or challenges in breakaway rooms, providing regular feedback on their learning experiences.
+
+![The Future Of Teaching Is Learner Agency](./the-future-of-teaching-is-learner-agency.png?height=300&width=600)
 
 We want learners to be accountable for their learning, but we need to ask ourselves if we are giving them permission to do so. Are they allowed to take accountability for their learning and do we trust them enough? Dr Jane Bozarth says in [this article on instructional design](https://learningsolutionsmag.com/articles/688/nuts-and-bolts-let-the-learners-hold-the-spoon), oftentimes learners are seen as wanting to be spoon-fed, but she challenges the reader by ending the article “Maybe it isn’t that learners want to be spoon-fed. Maybe it’s that we won’t let them hold the spoon.” We need to consider how much of the learning we are controlling and move to become better facilitators than lecturers.
 
