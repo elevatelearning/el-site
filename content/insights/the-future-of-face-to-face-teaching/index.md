@@ -1,12 +1,10 @@
 ---
 thumbnail: "../../assets/insights-cover-21.jpg"
-title: The Future of Face-to-Face Teaching.
+title: The Future of Face-to-Face Teaching
 date: "2021-10-22T10:59:59.169Z"
 description:  A year and a half into the Covid-19 pandemic and we are still hopping on- and offline without a clear plan of which mode of delivery is around the corner. It’s safe to say that this hybrid way of teaching is commonplace and here to stay. So how does this affect learning? Is this the future of teaching?
 author: Kelsey Groenmeyer
 ---
-
-![The Future Of Face To Face Teaching](./the-future-of-face-to-face-teaching.png?align=centre&height=300&width=600)
 
 A year and a half into the Covid-19 pandemic and we are still hopping on- and offline without a clear plan of which mode of delivery is around the corner. It’s safe to say that this hybrid way of teaching is commonplace and here to stay. So how does this affect learning? Is this the future of teaching?
 
