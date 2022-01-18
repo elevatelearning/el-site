@@ -16,10 +16,7 @@
     .card-text {
       p {
         color: $evl-white;
-        display: -webkit-box;
-        overflow: hidden;
-        -webkit-box-orient: vertical;
-        -webkit-line-clamp: 3;
+        font-size: 1rem;
       }
 
       a {

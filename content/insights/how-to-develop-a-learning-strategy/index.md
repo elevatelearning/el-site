@@ -1,8 +1,8 @@
 ---
-thumbnail: "../../assets/insights-cover-3.jpg"
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-3_iokwd2.jpg
+featured: false
 title: How to Develop a Learning Strategy
-date: "2020-08-06T10:59:59.169Z"
-description: Most learning and development teams are the first to feel the brunt of budget cuts, often cited as ‘nice-to-have’ rather than strategic enablers of your organisational strategy. There are plenty of reasons why learning teams have played in the shadows in the past.
+date: 2020-08-06
 author: Kira Koopman
 ---
 

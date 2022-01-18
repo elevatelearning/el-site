@@ -1,9 +1,11 @@
 const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const {
+  createFilePath,
+  createRemoteFileNode,
+} = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
-  const article = path.resolve(`./src/templates/article.js`)
   const result = await graphql(
     `
       {
@@ -24,45 +26,100 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (result.errors) {
     reporter.panicOnBuild(
-      `There was an error loading your insights posts`,
+      `There was an error loading your insights articles`,
       result.errors
     )
     return
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const articles = result.data.allMarkdownRemark.nodes
 
-  if (posts.length > 0) {
-    posts.forEach((post, index) => {
-      const previousPostId =
-        index === 0 ? posts[index + 2].id : posts[index - 1].id
-      const nextPostId =
-        index === posts.length - 1 ? posts[index - 2].id : posts[index + 1].id
+  if (articles.length > 0) {
+    articles.forEach((article, index) => {
+      const previousId =
+        index === 0 ? articles[index + 2].id : articles[index - 1].id
+      const nextId =
+        index === articles.length - 1
+          ? articles[index - 2].id
+          : articles[index + 1].id
 
       createPage({
-        path: post.fields.slug,
-        component: article,
+        path: article.fields.slug,
+        component: path.resolve(`./src/templates/article.js`),
         context: {
-          id: post.id,
-          previousPostId,
-          nextPostId,
+          id: article.id,
+          previousId,
+          nextId,
         },
       })
     })
   }
 }
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+exports.onCreateNode = async ({
+  node,
+  actions,
+  getNode,
+  createNodeId,
+  getCache,
+}) => {
+  const { createNode, createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-
+    const slug = createFilePath({ node, getNode })
     createNodeField({
-      name: `slug`,
       node,
-      value: `/insights${value}`,
+      name: `slug`,
+      value: `/insights${slug}`,
     })
+
+    if (node.frontmatter.imageUrl != null) {
+      const imageUrlFileNode = await createRemoteFileNode({
+        url: node.frontmatter.imageUrl,
+        parentNodeId: node.id,
+        createNode,
+        createNodeId,
+        getCache,
+      })
+
+      createNodeField({
+        node,
+        name: "image",
+        value: imageUrlFileNode.id,
+      })
+    }
+
+    if (node.frontmatter.infographicPreviewUrl != null) {
+      const infographicPreviewUrlFileNode = await createRemoteFileNode({
+        url: node.frontmatter.infographicPreviewUrl,
+        parentNodeId: node.id,
+        createNode,
+        createNodeId,
+        getCache,
+      })
+
+      createNodeField({
+        node,
+        name: "infographicPreview",
+        value: infographicPreviewUrlFileNode.id,
+      })
+    }
+
+    if (node.frontmatter.infographicUrl != null) {
+      const infographicUrlFileNode = await createRemoteFileNode({
+        url: node.frontmatter.infographicUrl,
+        parentNodeId: node.id,
+        createNode,
+        createNodeId,
+        getCache,
+      })
+
+      createNodeField({
+        node,
+        name: "infographic",
+        value: infographicUrlFileNode.id,
+      })
+    }
   }
 }
 
@@ -86,15 +143,22 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type MarkdownRemark implements Node {
+      image: File @link(from: "fields.image")
+      infographicPreview: File @link(from: "fields.infographicPreview")
+      infographic: File @link(from: "fields.infographic")
       frontmatter: Frontmatter
       fields: Fields
     }
 
-    type Frontmatter {
+    type Frontmatter @dontInfer {
+      imageUrl: String
+      featured: Boolean
       title: String
       description: String
       author: String
       date: Date @dateformat
+      infographicPreviewUrl: String
+      infographicUrl: String
     }
 
     type Fields {

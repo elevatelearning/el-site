@@ -1,8 +1,8 @@
 ---
-thumbnail: "../../assets/insights-cover-14.jpg"
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341526/site-assets/insights-cover-14_e8mvik.jpg
+featured: false
 title: Launching Learning Experience Design Essentials
-date: "2021-07-02T10:59:59.169Z"
-description: If we want employees or learners to thrive in a constantly changing world, we have to equip them with the skills and knowledge to do so. Outdated modes of teaching and learning are no longer serving generations that are digitally adept.” explains the Founder of Elevate Learning, Kira Koopman.
+date: 2021-07-02
 author: Kira Koopman
 ---
 

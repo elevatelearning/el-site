@@ -1,8 +1,8 @@
 ---
-thumbnail: "../../assets/insights-cover-5.jpg"
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-5_pqduue.jpg
+featured: false
 title: Using Gamification to Motivate Learning
-date: "2020-09-30T10:59:59.169Z"
-description: Modern adult learners are difficult customers to please. They’re strapped for time, digitally fatigued and are mostly uninterested in mandatory company training. Cutting through the noise and designing impactful digital and blended learning experiences means to understand their needs and motivations.
+date: 2020-09-30
 author: Kira Koopman
 ---
 
