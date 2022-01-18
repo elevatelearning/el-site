@@ -46,11 +46,7 @@
 
     p {
       color: $evl-white;
-      display: -webkit-box;
       font-size: 1rem;
-      overflow: hidden;
-      -webkit-box-orient: vertical;
-      -webkit-line-clamp: 3;
     }
 
     a {
@@ -121,11 +117,7 @@
 
       p {
         color: $evl-white;
-        display: -webkit-box;
         font-size: 1rem;
-        overflow: hidden;
-        -webkit-box-orient: vertical;
-        -webkit-line-clamp: 3;
       }
 
       a {

@@ -1,8 +1,8 @@
 ---
-thumbnail: "../../assets/insights-cover-10.jpg"
+imageUrl: https://res.cloudinary.com/elevate-learning/image/upload/v1643720128/site-assets/insights-cover-10_rwzxvm.jpg
+featured: false
 title: Experiential Learning in the Flow of Work
-date: "2021-02-19T10:59:59.169Z"
-description: Experiential learning has become a catch-all phrase for any type of learning that is practical in nature (or in theory). In this article, we explore Kolb's experiential learning cycle as it relates to learning experience design and learning in the flow of work. "The key to learning in the flow of work is personalised microlearning, and easy access to just-in-time information, knowledge and learning experiences, delivered via adaptive and intuitive learning experience platforms and continuous feedback loops."
+date: 2021-02-19
 author: Kira Koopman
 ---
 

@@ -12,13 +12,15 @@ import ShareButtons from "../components/share-buttons"
 
 const ArticleTemplate = ({ data }) => {
   const url = typeof window !== "undefined" ? window.location.href : ""
-  const post = data.markdownRemark
+  const article = data.article
+
+  console.log(article)
 
   return (
     <Layout>
       <Seo
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
+        title={article.frontmatter.title}
+        description={article.frontmatter.description || article.excerpt}
       />
       <article
         className="article mb-5"
@@ -30,13 +32,15 @@ const ArticleTemplate = ({ data }) => {
             <Col md={10} lg={8}>
               <Jumbotron className="text-center py-4 py-md-5 py-lg-7 my-1">
                 <header>
-                  <h1 itemProp="headline">{post.frontmatter.title}</h1>
-                  <p>{post.frontmatter.date}</p>
+                  <h1 itemProp="headline">{article.frontmatter.title}</h1>
+                  <p>{article.frontmatter.date}</p>
                 </header>
                 <ShareButtons
                   url={url}
-                  title={post.frontmatter.title}
-                  description={post.frontmatter.description}
+                  title={article.frontmatter.title}
+                  description={
+                    article.frontmatter.description || article.excerpt
+                  }
                 />
               </Jumbotron>
             </Col>
@@ -44,18 +48,21 @@ const ArticleTemplate = ({ data }) => {
           <Row className="justify-content-center article-content py-3 py-md-5">
             <Col md={10} lg={8}>
               <section
-                dangerouslySetInnerHTML={{ __html: post.html }}
+                dangerouslySetInnerHTML={{ __html: article.html }}
                 itemProp="articleBody"
               />
               <hr />
               <footer>
-                <Bio selected={post.frontmatter.author} />
+                <Bio selected={article.frontmatter.author} />
               </footer>
             </Col>
           </Row>
         </Container>
       </article>
-      <DownloadInfographic attachments={post.frontmatter.attachments} infographic={post.frontmatter.infographic} />
+      <DownloadInfographic
+        preview={article.infographicPreview}
+        infographic={article.infographic}
+      />
       <RelatedArticles previous={data.previous} next={data.next} />
     </Layout>
   )
@@ -64,81 +71,66 @@ const ArticleTemplate = ({ data }) => {
 export default ArticleTemplate
 
 export const pageQuery = graphql`
-  query ArticleBySlug(
-    $id: String!
-    $previousPostId: String
-    $nextPostId: String
-  ) {
+  query ArticleBySlug($id: String!, $previousId: String, $nextId: String) {
     site {
       siteMetadata {
         title
       }
     }
-    markdownRemark(id: { eq: $id }) {
+    article: markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
       html
-      frontmatter {
-        title
-        date(formatString: "MMMM DD, YYYY")
-        description
-        author
-        infographic {
-          childImageSharp {
-            gatsbyImageData(
-              width: 250
-              quality: 80
-              placeholder: BLURRED
-              formats: [AUTO, WEBP, AVIF]
-            )
-          }
-        }
-        attachments {
-          publicURL
-          name
+      infographicPreview {
+        childImageSharp {
+          gatsbyImageData(layout: FIXED)
         }
       }
+      infographic {
+        publicURL
+        name
+      }
+      frontmatter {
+        title
+        date(formatString: "DD MMMM YYYY")
+        description
+        author
+      }
     }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
+    previous: markdownRemark(id: { eq: $previousId }) {
+      id
+      excerpt(pruneLength: 160)
+      image {
+        childImageSharp {
+          gatsbyImageData(layout: FIXED)
+        }
+      }
+      frontmatter {
+        title
+        date(formatString: "DD MMMM YYYY")
+        description
+        author
+      }
       fields {
         slug
       }
-      frontmatter {
-        title
-        date(formatString: "MMMM DD, YYYY")
-        description
-        author
-        thumbnail {
-          childImageSharp {
-            gatsbyImageData(
-              layout: FIXED
-              width: 600
-              placeholder: BLURRED
-              formats: [AUTO, WEBP, AVIF]
-            )
-          }
+    }
+    next: markdownRemark(id: { eq: $nextId }) {
+      id
+      excerpt(pruneLength: 160)
+      image {
+        childImageSharp {
+          gatsbyImageData(layout: FIXED)
         }
       }
-    }
-    next: markdownRemark(id: { eq: $nextPostId }) {
+      frontmatter {
+        title
+        date(formatString: "DD MMMM YYYY")
+        description
+        author
+      }
       fields {
         slug
-      }
-      frontmatter {
-        title
-        date(formatString: "MMMM DD, YYYY")
-        description
-        author
-        thumbnail {
-          childImageSharp {
-            gatsbyImageData(
-              layout: FIXED
-              width: 600
-              placeholder: BLURRED
-              formats: [AUTO, WEBP, AVIF]
-            )
-          }
-        }
       }
     }
   }

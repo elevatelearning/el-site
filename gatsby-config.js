@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   siteMetadata: {
     title: `Elevate Learning`,
@@ -22,13 +26,7 @@ module.exports = {
     },
   },
   plugins: [
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
-      },
-    },
+    `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -43,21 +41,25 @@ module.exports = {
         name: `images`,
       },
     },
-    `gatsby-plugin-image`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-extract-image-attributes`,
+          {
+            resolve: `gatsby-remark-image-attributes`,
+            options: {
+              dataAttributes: true,
+            },
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {
               backgroundColor: `transparent`,
+              maxWidth: 630,
+              quality: 90,
+              withWebp: true,
             },
           },
-          `gatsby-remark-images-insert-wrapper-attributes`,
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
@@ -68,6 +70,22 @@ module.exports = {
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
         ],
+      },
+    },
+    {
+      resolve: `gatsby-transformer-sharp`,
+      options: {
+        checkSupportedExtensions: false,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          quality: 70,
+          formats: ["auto", "webp", "avif"],
+          placeholder: "blurred",
+        },
       },
     },
     {
@@ -169,6 +187,27 @@ module.exports = {
       options: {
         color: `tomato`,
         showSpinner: false,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-netlify-cms",
+      options: {
+        modulePath: `${__dirname}/src/cms/cms.js`,
+        enableIdentityWidget: true,
+        publicPath: `admin`,
+        htmlTitle: `Elevate Learning CMS`,
+        htmlFavicon: `${__dirname}/src/images/elevate-logo-no-text.png`,
+        includeRobots: false,
+      },
+    },
+    {
+      resolve: `gatsby-source-cloudinary`,
+      options: {
+        cloudName: process.env.CLOUDINARY_CLOUD_NAME,
+        apiKey: process.env.CLOUDINARY_API_KEY,
+        apiSecret: process.env.CLOUDINARY_API_SECRET,
+        resourceType: `image`,
+        prefix: `site-assets/`,
       },
     },
   ],

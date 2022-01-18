@@ -1,12 +1,11 @@
 ---
-thumbnail: "../../assets/insights-cover-18.jpg"
-title: Mayer's 12 Principles of Multimedia 
-date: "2021-08-14T10:59:59.169z"
-description: Multimedia refers to an array of media types such as text, images, audio and video content, and is used to convey meaning and enhance learning experiences. Here are Mayer’s 12 Principles of Multimedia to help you create interactive, engaging and memorable digital learning experiences.
+imageUrl: https://res.cloudinary.com/elevate-learning/image/upload/v1643720134/site-assets/insights-cover-18_f1oqqn.jpg
+featured: false
+title: Mayer's 12 Principles of Multimedia
+date: 2021-08-14
 author: Pasqua Lawrenson
-infographic: "../../assets/mayers-principles-of-multimedia-infographic-preview.png"
-attachments:
-  - "./Mayer’s Principles of Multimedia.pdf"
+infographicPreviewUrl: https://res.cloudinary.com/elevate-learning/image/upload/v1643720134/site-infographics/mayers-principles-of-multimedia-infographic-preview_syrvqs.png
+infographicUrl: https://res.cloudinary.com/elevate-learning/image/upload/v1645597978/site-infographics/Mayer_s_Principles_of_Multimedia_n4mj32.pdf
 ---
 
 Multimedia refers to an array of media types such as text, images, audio and video content, and is used to convey meaning and enhance learning experiences. Here are Mayer’s 12 Principles of Multimedia to help you create interactive, engaging and memorable digital learning experiences.

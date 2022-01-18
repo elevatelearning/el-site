@@ -1,8 +1,8 @@
 ---
-thumbnail: "../../assets/insights-cover-12.jpg"
+imageUrl: https://res.cloudinary.com/elevate-learning/image/upload/v1643720130/site-assets/insights-cover-12_hy9uvk.jpg
+featured: false
 title: How to Become a Better Learner
-date: "2021-05-27T10:59:59.169Z"
-description: Have you ever intended to learn something new for personal or professional reasons and signed up for a free online short course only to make it halfway through? Or subscribed to newsletters from industry leaders, only to have multiple left unopened in your inbox?
+date: 2021-05-27
 author: Pasqua Lawrenson
 ---
 

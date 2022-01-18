@@ -20,20 +20,20 @@ const Articles = () => {
               fields {
                 slug
               }
-              frontmatter {
-                title
-                date(formatString: "MMMM DD, YYYY")
-                description
-                thumbnail {
-                  childImageSharp {
-                    gatsbyImageData(
-                      layout: FIXED
-                      width: 600
-                      placeholder: BLURRED
-                      formats: [AUTO, WEBP, AVIF]
-                    )
-                  }
+              image {
+                childImageSharp {
+                  gatsbyImageData(
+                    layout: FIXED
+                    width: 600
+                  )
                 }
+              }
+              frontmatter {
+                featured
+                title
+                description
+                author
+                date(formatString: "DD MMMM YYYY")
               }
             }
           }
@@ -44,9 +44,10 @@ const Articles = () => {
 
   const cards = data.allMarkdownRemark.edges.slice(1).map(({ node }) => {
     const title = node.frontmatter.title || node.fields.slug
+
     return (
       <Card key={title} className="mb-4">
-        <Card.Img src={getSrc(node.frontmatter.thumbnail)} alt={title} />
+        <Card.Img src={getSrc(node.image)} alt={title} />
         <Card.Body>
           <Card.Title>
             <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
@@ -67,6 +68,7 @@ const Articles = () => {
   })
 
   const card = data.allMarkdownRemark.edges[0].node
+  const title = card.frontmatter.title || card.fields.slug
 
   return (
     <>
@@ -75,16 +77,13 @@ const Articles = () => {
           <Card className="card-horizontal mb-4">
             <Row noGutters>
               <Col md={4}>
-                <Card.Img
-                  src={getSrc(card.frontmatter.thumbnail)}
-                  alt={card.frontmatter.title}
-                />
+                <Card.Img src={getSrc(card.image)} alt={title} />
               </Col>
               <Col md={8}>
                 <Card.Body>
                   <Card.Title>
                     <Link style={{ boxShadow: `none` }} to={card.fields.slug}>
-                      {card.frontmatter.title}
+                      {title}
                     </Link>
                   </Card.Title>
                   <Card.Text
