@@ -1,8 +1,15 @@
 ---
-thumbnail: "../../assets/insights-cover-1.jpg"
+thumbnail: ../../assets/insights-cover-1.jpg
+imageUrl: https://res.cloudinary.com/elevate-learning/image/upload/v1643720125/site-assets/insights-cover-1_oal7j3.jpg
+featured: false
 title: What is Learning Experience Design (LXD)?
-date: "2020-07-08T10:59:59.169Z"
-description: Learning Experience Design (or LXD) is a relatively new discipline within the field of learning sciences. As our understanding of teaching and learning has evolved with the introduction of educational technologies as a mode of delivery, so the discipline of Learning Experience Design is increasingly drawing on learnings from the world of user-experience design, human-centered design and co-created learning experiences.
+date: 2020-07-08T10:59:59.169Z
+description: Learning Experience Design (or LXD) is a relatively new discipline
+  within the field of learning sciences. As our understanding of teaching and
+  learning has evolved with the introduction of educational technologies as a
+  mode of delivery, so the discipline of Learning Experience Design is
+  increasingly drawing on learnings from the world of user-experience design,
+  human-centered design and co-created learning experiences.
 author: Kira Koopman
 ---
 
