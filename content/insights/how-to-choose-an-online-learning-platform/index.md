@@ -1,7 +1,7 @@
 ---
 thumbnail: "../../assets/insights-cover-23.jpg"
 title: How to Choose an Online Learning Platform
-date: "2022-04-12T10:59:59.169Z"
+date: "2022-02-08T10:59:59.169Z"
 description: If you’ve been tasked with choosing and implementing an online learning platform for your team or organisation, there are some critical questions you’ll need to ask before being sold by the most convincing demo or salesperson.
 author: Kira Koopman
 ---
