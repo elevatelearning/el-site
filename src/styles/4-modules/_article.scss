@@ -157,16 +157,16 @@
     p {
       clear: none;
     }
-  
+
     .avatar {
       float: left;
       margin: 10px 20px 10px 10px;
     }
-  
+
     @include media-breakpoint-up(md) {
       font-size: 1.1rem;
     }
-  
+
     @include media-breakpoint-up(lg) {
       font-size: 1.2rem;
     }
@@ -217,62 +217,19 @@
   }
 
   @media only screen and (min-width: 641px) {
-    [data-align="right"] {
+    .img-right {
       float: right;
-      margin-bottom: 10px !important;
-      margin-left: 10px !important;
+      margin: 6px 0 10px 40px !important;
     }
 
-    [data-align="left"] {
+    .img-left {
       float: left;
-      margin-bottom: 10px !important;
-      margin-right: 10px !important;
+      margin: 6px 40px 10px 0 !important;
     }
 
-    [data-align="right-30"] {
-      float: right;
-      margin-bottom: 30px !important;
-      margin-left: 10px !important;
-    }
-
-    [data-align="left-30"] {
-      float: left;
-      margin-bottom: 30px !important;
-      margin-right: 10px !important;
-    }
-
-    [data-align="right-60"] {
-      float: right;
-      margin-bottom: 60px !important;
-      margin-left: 10px !important;
-    }
-
-    [data-align="left-60"] {
-      float: left;
-      margin-bottom: 60px !important;
-      margin-right: 10px !important;
-    }
-
-    [data-align="center"] {
-      display: block;
+    .img-center {
       float: none;
-      margin-bottom: 60px !important;
-    }
-
-    figure[data-align] {
-      margin-bottom: 60px !important;
-    }
-  }
-
-  @media only screen and (max-width: 640px) {
-    .gatsby-resp-image-wrapper {
-      width: unset !important;
-      height: unset !important;
-    }
-
-    .gatsby-resp-image-figure {
-      width: unset !important;
-      height: unset !important;
+      margin: 6px 40px 10px 40px !important;
     }
   }
 }
