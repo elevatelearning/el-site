@@ -5,26 +5,31 @@ import { getSrc } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
 const RelatedArticles = ({ previous, next }) => {
+  console.log(previous)
+  console.log(next)
+
+  const previousTitle = previous.frontmatter.title || previous.fields.slug
+
   const previousCard = () => {
     return (
-      <Card key={previous.frontmatter.title} className="mb-4">
+      <Card key={previous.id} className="mb-4">
         <Row noGutters>
           <Col md={4}>
             <Card.Img
-              src={getSrc(previous.frontmatter.thumbnail)}
-              alt={previous.frontmatter.title}
+              src={getSrc(previous.image)}
+              alt={previousTitle}
             />
           </Col>
           <Col md={8}>
             <Card.Body>
               <Card.Title>
                 <Link style={{ boxShadow: `none` }} to={previous.fields.slug}>
-                  {previous.frontmatter.title}
+                  {previousTitle}
                 </Link>
               </Card.Title>
               <Card.Text
                 dangerouslySetInnerHTML={{
-                  __html: previous.frontmatter.description,
+                  __html: previous.frontmatter.description || previous.excerpt,
                 }}
               />
               <Card.Footer>
@@ -39,26 +44,28 @@ const RelatedArticles = ({ previous, next }) => {
     )
   }
 
+  const nextTitle = next.frontmatter.title || next.fields.slug
+
   const nextCard = () => {
     return (
-      <Card key={next.frontmatter.title} className="mb-4">
+      <Card key={next.id} className="mb-4">
         <Row noGutters>
           <Col md={4}>
             <Card.Img
-              src={getSrc(next.frontmatter.thumbnail)}
-              alt={next.frontmatter.title}
+              src={getSrc(next.image)}
+              alt={nextTitle}
             />
           </Col>
           <Col md={8}>
             <Card.Body>
               <Card.Title>
                 <Link style={{ boxShadow: `none` }} to={next.fields.slug}>
-                  {next.frontmatter.title}
+                  {nextTitle}
                 </Link>
               </Card.Title>
               <Card.Text
                 dangerouslySetInnerHTML={{
-                  __html: next.frontmatter.description,
+                  __html: next.frontmatter.description || next.excerpt,
                 }}
               />
               <Card.Footer>

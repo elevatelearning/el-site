@@ -1,5 +1,7 @@
 <h1 align="center">Elevate Learning</h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b787d682-a272-48c0-bf09-a76f8ae6af25/deploy-status)](https://app.netlify.com/sites/elevatelearning/deploys)
+
 Elevate Learning is a full-service learning design consultancy. We partner with you to design and implement online and blended learning experiences, organisation-specific learning programmes, and experiential content and workshops.
 
 ## 🚀 Quick start
@@ -82,3 +84,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 ## 💫 Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/elevatelearning/el-site)
+
+## Netlify CMS
+
+1.  **Connect Netlify CMS to a local Git repository.**
+
+    ```shell
+    npx netlify-cms-proxy-server
+    ```

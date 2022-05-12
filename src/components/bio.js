@@ -11,7 +11,7 @@ const Bio = ({ selected }) => {
       images: allFile(
         filter: {
           extension: { regex: "/(jpg)|(jpeg)|(png)/" }
-          sourceInstanceName: { eq: "assets" }
+          sourceInstanceName: { eq: "images" }
         }
       ) {
         edges {

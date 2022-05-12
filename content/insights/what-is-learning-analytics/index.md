@@ -1,8 +1,8 @@
 ---
-thumbnail: "../../assets/insights-cover-20.jpg"
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-20_ehnfuq.jpg
+featured: false
 title: What is learning analytics?
-date: "2021-09-03T10:59:59.169Z"
-description: Launching online learning programmes or courses in your organisation can be costly. Paradoxically, successful online learning experiences can save your organisation time, talent and money. Therefore, it’s important to frequently measure the effectiveness of your learning experiences, to know whether they are benefitting learners, creating a learning culture in your organisation and reaping a return on investment.
+date: 2021-09-03
 author: Pasqua Lawrenson
 ---
 

@@ -7,7 +7,11 @@ import Layout from "../components/layout"
 const Index = () => {
   return (
     <Layout>
-      <Container fluid className="legal-wrapper mt-7 mt-lg-8 py-6" id="terms-of-use">
+      <Container
+        fluid
+        className="legal-wrapper mt-7 mt-lg-8 py-6"
+        id="terms-of-use"
+      >
         <Row className="justify-content-center">
           <Col md={10} lg={8}>
             <h1 className="mb-5">Terms of use</h1>

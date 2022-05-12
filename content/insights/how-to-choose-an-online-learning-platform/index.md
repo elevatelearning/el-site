@@ -1,8 +1,8 @@
 ---
-thumbnail: "../../assets/insights-cover-23.jpg"
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-23_kai2bd.jpg
+featured: false
 title: How to Choose an Online Learning Platform
-date: "2022-02-08T10:59:59.169Z"
-description: If you’ve been tasked with choosing and implementing an online learning platform for your team or organisation, there are some critical questions you’ll need to ask before being sold by the most convincing demo or salesperson.
+date: 2022-02-08
 author: Kira Koopman
 ---
 

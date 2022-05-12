@@ -8,7 +8,7 @@ import ReCAPTCHA from "react-google-recaptcha"
 
 import { MessageContext } from "../contexts/message-context"
 
-const DownloadInfographic = ({ attachments, infographic }) => {
+const DownloadInfographic = ({ preview, infographic }) => {
   const { setFlashMessage } = useContext(MessageContext)
   const [formRef] = useState(createRef())
   const [formState, setFormState] = useState({ step: 0 })
@@ -32,7 +32,8 @@ const DownloadInfographic = ({ attachments, infographic }) => {
 
     if (!recaptcha.value) {
       setFlashMessage({
-        message: "Error verifying reCAPTCHA, please wait a few minutes and then try again?",
+        message:
+          "Error verifying reCAPTCHA, please wait a few minutes and then try again?",
         type: "error",
         icon: "alert",
       })
@@ -65,7 +66,8 @@ const DownloadInfographic = ({ attachments, infographic }) => {
       })
       .catch(() => {
         setFlashMessage({
-          message: "Your submission could not be completed, please wait a few minutes and then try again?",
+          message:
+            "Your submission could not be completed, please wait a few minutes and then try again?",
           type: "error",
           icon: "alert",
         })
@@ -149,10 +151,7 @@ const DownloadInfographic = ({ attachments, infographic }) => {
                   </Card.Body>
                 </Col>
                 <Col md={4}>
-                  <Card.Img
-                    src={getSrc(infographic)}
-                    alt={attachments[0].name}
-                  />
+                  <Card.Img src={getSrc(preview)} alt={preview.name} />
                 </Col>
               </Row>
             </Card>
@@ -183,10 +182,10 @@ const DownloadInfographic = ({ attachments, infographic }) => {
                         anyone else.
                       </p>
                       <a
-                        href={attachments[0].publicURL}
+                        href={preview.publicURL}
                         target="_blank"
                         rel="noopener noreferrer"
-                        title={attachments[0].name}
+                        title={preview.name}
                       >
                         Download Free Infographic
                       </a>
@@ -194,10 +193,7 @@ const DownloadInfographic = ({ attachments, infographic }) => {
                   </Card.Body>
                 </Col>
                 <Col md={4}>
-                  <Card.Img
-                    src={getSrc(infographic)}
-                    alt={attachments[0].name}
-                  />
+                  <Card.Img src={getSrc(preview)} alt={preview.name} />
                 </Col>
               </Row>
             </Card>
