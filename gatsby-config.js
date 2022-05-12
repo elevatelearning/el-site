@@ -46,12 +46,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-image-attributes`,
-            options: {
-              dataAttributes: true,
-            },
-          },
-          {
             resolve: `gatsby-remark-images`,
             options: {
               backgroundColor: `transparent`,
