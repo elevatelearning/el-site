@@ -1,7 +1,7 @@
 ---
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-19_u5bj9o.jpg
 featured: false
-title: How to measure the effectiveness of your learning experiences
+title: How to Measure the Effectiveness of your Learning Experiences
 date: 2021-08-18
 author: Pasqua Lawrenson
 ---
