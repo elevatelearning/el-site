@@ -1,7 +1,7 @@
 ---
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-20_ehnfuq.jpg
 featured: false
-title: What is learning analytics?
+title: What is Learning Analytics?
 date: 2021-09-03
 author: Pasqua Lawrenson
 ---
