@@ -94,6 +94,7 @@ module.exports = {
         trackingIds: [process.env.GA4_TRACKING_ID],
       },
     },
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
