@@ -11,15 +11,75 @@ Long before the COVID-19 outbreak, individuals across the world were using socia
 
 By its very nature, the digital world is continually developing, growing and adapting. The social media platforms which occupy this space equally adapt to meet its users' changing demands and needs. However, one use of social media remains unchanged: social networking. 
 
-#### \[Image] **What does 'social networking' mean?**
+<style>
+	.demo {
+		border:1px none;
+		border-collapse:collapse;
+		padding:0px;
+	}
+	.demo th {
+		border:1px none;
+		padding:0px;
+	}
+	.demo td {
+		border:1px none;
+		padding:0px;
 
-A practice of collaborating and communicating with like-minded individuals in an online environment. These platforms can also be used to build and develop relationships between people, and often assist in fostering a sense of community. 
+color:#ffffff;
+	}
+</style>
+
+<table class="demo">
+	<tbody>
+	<tr>
+		<td><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655103280/site-articles/social-media-as-a-cooperative-learning-tool/Definition_Icon_vz3rw9.png" width="200">
+
+</td>
+		<td>What does 'social networking' mean?
+
+A practice of collaborating and communicating with like-minded individuals in an online environment. These platforms can also be used to build and develop relationships between people, and often assist in fostering a sense of community.
+
+</td>
+		<td>&nbsp;</td>
+	</tr>
+	</tbody>
+</table>
 
 Social learning is a key motivating factor for many in-person learning experiences. The growing demand to take learning online whilst ensuring that the social needs of learners are met has left many scratching their heads as to how to achieve this. But it's the same platforms we've long been using to engage with others online that can also be utilised as a cooperative learning tool. 
 
-#### **\[Image] What does 'cooperative learning' mean?**
+<style>
+	.demo {
+		border:1px none;
+		border-collapse:collapse;
+		padding:0px;
+	}
+	.demo th {
+		border:1px none;
+		padding:0px;
+	}
+	.demo td {
+		border:1px none;
+		padding:0px;
+
+color:#ffffff;
+	}
+</style>
+
+<table class="demo">
+	<tbody>
+	<tr>
+		<td><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655103280/site-articles/social-media-as-a-cooperative-learning-tool/Definition_Icon_vz3rw9.png" width="200">
+
+</td>
+		<td>What does 'cooperative learning' mean?
 
 As a strategy, cooperative learning focuses on structuring learning around collaboration between learners. The aim of cooperative learning is to set up a learning environment in such a way that the success of each learner is dependent on the performance of the group as a whole. 
+
+</td>
+		<td>&nbsp;</td>
+	</tr>
+	</tbody>
+</table>
 
 With [more than half the world's population](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media#post-navigation-1) having some sort of social media account, it is increasingly becoming evident that institutions seeking to disseminate learning material, have not only a wide audience base, but one that is ready to consume information online. 
 
@@ -34,6 +94,8 @@ In 2021, [Hamadi, El-Den, Azam and Sriratanaviriyakul](https://reader.elsevier.c
 If implemented carefully, the use of social media in the learning process could enhance users' collaboration, communication, and engagement. These learning platforms could allow for in-class learning and offline activities — simultaneously addressing users' needs and learning goals. 
 
 Their proposed framework is made up of five levels which are followed sequentially: 
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655103289/site-articles/social-media-as-a-cooperative-learning-tool/Hamadi_et_al._Five_Levels_of_Using_Social_Media_as_a_Cooperative_Learning_Tool_Infographic_qeqol7.png" alt="" title="" class=""/>
 
 \[Infographic]
 
@@ -72,9 +134,39 @@ In the examples below, each Instagram account has been set up with the purpose o
 
 This method of learning offers learners the opportunity to exercise independent study within their timeframe. Learning time is a key consideration for any course or programme, especially given the increasing time-stress being placed on our learners. 
 
-#### \[GRAPHIC] Take Note
+<style>
+	.demo {
+		border:1px none;
+		border-collapse:collapse;
+		padding:0px;
+	}
+	.demo th {
+		border:1px none;
+		padding:0px;
+	}
+	.demo td {
+		border:1px none;
+		padding:0px;
+
+color:#ffffff;
+	}
+</style>
+
+<table class="demo">
+	<tbody>
+	<tr>
+		<td><img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655103275/site-articles/social-media-as-a-cooperative-learning-tool/Take_Note_Icon_g8ayzn.png" width="200">
+
+</td>
+		<td>Take Note
 
 It is vital that learning designers, instructors, and educators understand how to create positive interdependence, promote interaction, and group processing into the social media learning environment. Our goal as educators should be to foster an environment where learners are active participants in their learning journey — with an aim of developing an ethos of lifelong learning.
+
+</td>
+		<td>&nbsp;</td>
+	</tr>
+	</tbody>
+</table>
 
 \[Sub-topic graphic]
 
