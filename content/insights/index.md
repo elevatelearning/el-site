@@ -95,11 +95,11 @@ If implemented carefully, the use of social media in the learning process could 
 
 Their proposed framework is made up of five levels which are followed sequentially: 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655103289/site-articles/social-media-as-a-cooperative-learning-tool/Hamadi_et_al._Five_Levels_of_Using_Social_Media_as_a_Cooperative_Learning_Tool_Infographic_qeqol7.png" alt="" title="" class=""/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109157/site-articles/social-media-as-a-cooperative-learning-tool/Hamadi_et_al_1_3_xledcd.png" alt="This image illustrates the five levels of using social media as a cooperative learning tool." title="The Five Levels of Using Social Media as a Cooperative Learning Tool" class=""/>
 
-\[Infographic]
 
-This framework identifies valuable considerations for any learning environment or design: 
+
+</br> This framework identifies valuable considerations for any learning environment or design: 
 
 1. The correct pedagogical approach must be carefully selected (in this instance, we’re focusing on cooperative learning as an effective approach). 
 2. Common challenges and fears surrounding the use of social media must not be ignored, and should rather be factored into both the design and implementation of a learning plan. 
@@ -108,7 +108,9 @@ This framework identifies valuable considerations for any learning environment o
 
 While the purpose of this article is not to describe the five levels of the original work, it is of importance to explore some of the key points from this framework as they align with various social media tactics and platforms within the eLearning space.
 
-\[Sub-topic graphic]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109329/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_1_1_wbrhbi.png" alt="Choose a platform that is fit-for-purpose" title="Choose a platform that is fit-for-purpose" class=""/>
+
+</br>
 
 #### Role in eLearning
 
@@ -130,9 +132,9 @@ Let’s consider Instagram, a social media platform where information is shared 
 
 In the examples below, each Instagram account has been set up with the purpose of helping their followers learn and improve their English skills. 
 
-\[Instagram Graphic]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109595/site-articles/social-media-as-a-cooperative-learning-tool/Group_171_1_rzgdrk.png" alt="This image illustrates three examples of Instagram being used as a cooperative learning tool. " title="Instragram as a Cooperative Learning Tool" class=""/>
 
-This method of learning offers learners the opportunity to exercise independent study within their timeframe. Learning time is a key consideration for any course or programme, especially given the increasing time-stress being placed on our learners. 
+</br>This method of learning offers learners the opportunity to exercise independent study within their timeframe. Learning time is a key consideration for any course or programme, especially given the increasing time-stress being placed on our learners. 
 
 <style>
 	.demo {
@@ -168,7 +170,11 @@ It is vital that learning designers, instructors, and educators understand how t
 	</tbody>
 </table>
 
-\[Sub-topic graphic]
+</br>
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109415/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_2_1_ttchsv.png" alt="Identify and mitigate valid learner concerns" title="Identify and mitigate valid learner concerns" class=""/>
+
+#### </br>
 
 #### Role in eLearning
 
@@ -180,20 +186,19 @@ Privacy and ambiguity are two of the greatest challenges when it comes to implem
 
 Addressing privacy requires a focus on confidentiality, online behaviour, anonymity as well as control and monitoring. Confidentiality could be minimised by utilising the personal privacy options that are available on many social media platforms. In most cases, instructors are given the option to add a private page or profile that when used can only be accessed by specific learners. 
 
-
 In addition, anonymity can be addressed by allowing every learner access to the learning platform only if their real-life names are utilised. To limit the misuse and misconduct by users on the selected platform, measures should be put into place and monitored regularly. For example, using closed groups where only approved learners have access and misconduct is reported if observed. These groups need to be supervised by either the instructor involved or selected learners.
-
 
 When dealing with ambiguity, three aspects must be considered: **purpose**, **professionalism**, and **workload concerns**. Remember that learners may not always be aware of the intended purpose of the implemented social media learning activity, so it’s important to provide learners with clear guidelines and expectations on how to access and use the platforms for educational purposes. These guidelines should address crucial aspects such as professionalism to guarantee that there are no misunderstandings about conduct while learning. 
 
 Furthermore, learners may experience workload concerns associated with multitasking, distractions and time management when using social media platforms. Instructors should help learners navigate these concerns by bringing awareness to these potential roadblocks, ensuring that learning isn’t negatively influenced.
 
-\[Sub-topic graphic]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109416/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_3_1_x5lqd1.png" alt="Use social media as a learner motivation tool" title="Use social media as a learner motivation tool" class=""/>
+
+#### </br>
 
 #### Role in eLearning
 
 For the implementation of social media as a cooperative learning tool to be a success, incentives need to be provided, and a reward system can influence the user’s level of engagement and participation in learning. 
-
 
 Social media should be viewed as an interactive online learning resource between learners as well as instructors. The content posted, shared, or created should be managed according to the learning material and time set for each unit. Instructors, therefore, guide activities and provide learning support where required. Prepare a list of social media activities incorporating their teaching methods but keeping in mind what the social media platform offers in terms of features.
 
@@ -201,10 +206,11 @@ Social media should be viewed as an interactive online learning resource between
 
 Encouraging learner participation and engagement through the use of the comment feature available on many social media platforms, can help foster a greater sense of community. Despite our desire to be a part of a community, our learners are often not properly incentivised to participate in online discussions. Let’s briefly consider YouTube as a discussion tool. 
 
-
 Not only can YouTube be utilised as a powerful tool for [enhancing content mastery through visual cues](https://www.shiftelearning.com/blog/teach-learn-share-the-role-of-social-media-in-elearning), but its comment features allow for learners to engage with fellow learners by replying to comments which may spark interest. Use prompts at the end of your videos asking learners to share their personal insights — What stood out to them? What challenged their perceptions towards the topic or concept? Then, take it one step further by encouraging learners to interact with other comments. As an instructor, a rubric could be developed to assess the quality of the posts, as well as the learner-to-learner engagement.  
 
-\[Sub-topic graphic]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109417/site-articles/social-media-as-a-cooperative-learning-tool/Key_Point_4_1_tyourg.png" alt="Evaluate learner engagement and interest" title="Evaluate learner engagement and interest" class=""/>
+
+#### </br>
 
 #### Role in eLearning
 
@@ -226,17 +232,12 @@ There is an immeasurable amount of information and knowledge desired to be share
 
 Alenazy, W. M., Al-Rahmi, W. M., & Khan, M. S. (2019). Validation of TAM model on social media use for collaborative learning to enhance collaborative authoring. *Ieee Acces*s, 7, 71550-71562.
 
-
 Arshavskiy, M. (2021). *Social Media For eLearning. eLearning Industry*. Retrieved 6 May 2022, from <https://elearningindustry.com/social-media-for-elearning>.
-
 
 Average Time Spent Daily on Social Media (Latest 2022 Data), (2022). BroadbandSearch. Retrieved from <https://www.broadbandsearch.net/blog/average-daily-time-on-social-media#post-navigation-1>.
 
-
 Bauld, A. (2021). *My Get Up and Go Got Up and Went*. Harvard Ed. Magazine. Retrieved 6 May 2022, from <https://www.gse.harvard.edu/news/ed/21/05/my-get-and-go-got-and-went>.
 
-
 Buckler, L. *Teach, Learn, Share: the Role of Social Media in eLearning*. Shiftelearning.com. Retrieved 6 May 2022, from <https://www.shiftelearning.com/blog/teach-learn-share-the-role-of-social-media-in-elearning.>
-
 
 Hamadi, M., El-Den, J., Azam, S., & Sriratanaviriyakul, N. (2021). Integrating social media as cooperative learning tool in higher education classrooms: An empirical study. *Journal of King Saud University-Computer and Information Sciences.*
