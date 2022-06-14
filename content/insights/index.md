@@ -95,9 +95,7 @@ If implemented carefully, the use of social media in the learning process could 
 
 Their proposed framework is made up of five levels which are followed sequentially: 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109157/site-articles/social-media-as-a-cooperative-learning-tool/Hamadi_et_al_1_3_xledcd.png" alt="This image illustrates the five levels of using social media as a cooperative learning tool." title="The Five Levels of Using Social Media as a Cooperative Learning Tool" class=""/>
-
-
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109157/site-articles/social-media-as-a-cooperative-learning-tool/Hamadi_et_al_1_3_xledcd.png" alt="This image illustrates the five levels of using social media as a cooperative learning tool." title="The Five Levels of Using Social Media as a Cooperative Learning Tool" class="img-center"/>
 
 </br> This framework identifies valuable considerations for any learning environment or design: 
 
@@ -132,7 +130,7 @@ Let’s consider Instagram, a social media platform where information is shared 
 
 In the examples below, each Instagram account has been set up with the purpose of helping their followers learn and improve their English skills. 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109595/site-articles/social-media-as-a-cooperative-learning-tool/Group_171_1_rzgdrk.png" alt="This image illustrates three examples of Instagram being used as a cooperative learning tool. " title="Instragram as a Cooperative Learning Tool" class=""/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655109595/site-articles/social-media-as-a-cooperative-learning-tool/Group_171_1_rzgdrk.png" alt="This image illustrates three examples of Instagram being used as a cooperative learning tool. " title="Instragram as a Cooperative Learning Tool" class="img-center"/>
 
 </br>This method of learning offers learners the opportunity to exercise independent study within their timeframe. Learning time is a key consideration for any course or programme, especially given the increasing time-stress being placed on our learners. 
 
