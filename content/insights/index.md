@@ -2,7 +2,7 @@
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1655103267/site-articles/social-media-as-a-cooperative-learning-tool/Title_Graphic_eopniq.png
 featured: false
 title: Social Media as a Cooperative Learning Tool
-date: 2022-06-13
+date: 2022-06-15
 author: Lara Hilton
 ---
 Long before the COVID-19 outbreak, individuals across the world were using social media as a tool to create community, to foster collaboration, and to broadcast information for consumption. Social media has become an intrinsic part of daily life, with [studies](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media#post-navigation-1) claiming that users spend an average of 2 hours and 24 minutes a day on different platforms. Since the COVID-19 outbreak, pockets of society have become increasingly dependent on social media as a means of information gathering and a means of forging and strengthening collaborative spaces.
