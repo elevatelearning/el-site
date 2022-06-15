@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1655103267/site-articles/social-media-as-a-cooperative-learning-tool/Title_Graphic_eopniq.png
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1655103267/site-articles/social-media-as-a-cooperative-learning-tool/Title_Graphic_eopniq.png
 featured: false
 title: Social Media as a Cooperative Learning Tool
 date: 2022-06-15
