@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-2_qvblea.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652341525/site-assets/insights-cover-2_qvblea.jpg
 featured: false
 title: Five Reasons Why You Should Invest in Digital Learning
 date: 2020-07-26
