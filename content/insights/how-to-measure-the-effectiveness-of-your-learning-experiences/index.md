@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-19_u5bj9o.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652341527/site-assets/insights-cover-19_u5bj9o.jpg
 featured: false
 title: How to Measure the Effectiveness of your Learning Experiences
 date: 2021-08-18
