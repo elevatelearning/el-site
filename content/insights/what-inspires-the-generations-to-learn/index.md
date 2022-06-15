@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-6_guiwyl.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1652341525/site-assets/insights-cover-6_guiwyl.jpg
 featured: false
 title: What Inspires the Generations to Learn
 date: 2020-11-13
