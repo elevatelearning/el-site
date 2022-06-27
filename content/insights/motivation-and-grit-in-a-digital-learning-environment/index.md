@@ -13,9 +13,11 @@ There are two main classifications of motivation, namely intrinsic motivation an
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_1280/v1655978131/site-articles/motivation-and-grit-in-a-digital-learning-environment/Intrinscic_and_Extrinsic_Motivation_msw6ay.jpg" alt="This graphic illustrates the differences between intrinsic motivation and extrinsic motivation." title="Intrinsic Motivation vs. Extrinsic Motivation" class="img-center"/>
 
+</br>
+
 In fact, findings drawn from comparative studies between on-campus learners and online learners suggest that online learners are naturally more intrinsically motivated when compared to their on-campus peers, both at a postgraduate and undergraduate level (Harnett, 2016). This is because the digital learning environment requires learners to display characteristics similar to those needed to be intrinsically motivated - such as self-regulation and curiosity - in order to have a successful learning experience. Interestingly, online learning experience design, when done well, strategically fosters intrinsic motivation due to the fact that it provides opportunities for curiosity, challenge, fantasy and novelty. 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655978129/site-articles/motivation-and-grit-in-a-digital-learning-environment/Online_Learning_pcgoai.jpg" alt="This graphic is a quote." title="Quote Graphic" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_885/v1655978129/site-articles/motivation-and-grit-in-a-digital-learning-environment/Online_Learning_pcgoai.jpg" alt="This graphic is a quote." title="Quote Graphic" class="img-center"/>
 
 This is why motivation plays such a critical role in the design and delivery of digital learning experiences, and it’s where the science and art of learning intersect. 
 
