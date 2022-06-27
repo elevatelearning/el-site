@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1655978130/site-articles/motivation-and-grit-in-a-digital-learning-environment/motivation-grit-1_moyuha.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656323434/site-articles/motivation-and-grit-in-a-digital-learning-environment/Motivation%20and%20Grit_Banner%20Image.png
 featured: false
 title: Motivation and Grit in a Digital Learning Environment
 date: 2022-06-23
