@@ -2,7 +2,7 @@
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656323434/site-articles/motivation-and-grit-in-a-digital-learning-environment/Motivation%20and%20Grit_Banner%20Image.png
 featured: false
 title: Motivation and Grit in a Digital Learning Environment
-date: 2022-06-23
+date: 2022-03-16
 author: Kira Koopman
 ---
 When we're feeling motivated, we are able to find time to dedicate to learning new skills, changing habits or behaviours, to being more productive, and ultimately to achieving our goals. 
