@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-4_ejcfop.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415850/site-articles/the-benefits-of-microlearning-to-achieve-learning-goals/Blog_Banner_4_fqrvdg.png
 featured: false
 title: The Benefits of Microlearning to Achieve Learning Goals
 date: 2020-08-21
