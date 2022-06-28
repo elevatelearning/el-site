@@ -51,13 +51,13 @@ Deliberate practice is the intentional and sustained efforts to work on developi
 
 You can create opportunities for deliberate practice simply through prompts or pause and reflect questions, or by sharing templates or activities and exercises for learners to complete offline.  
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655978132/site-articles/motivation-and-grit-in-a-digital-learning-environment/Create_Opportunities_for_Continuous_Feedback_ba5u2h.jpg" alt="This graphic illustrates the concept of creating opportunities for continuous feedback" title="Create opportunities for continuous feedback" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404423/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_193_irfnln.png" alt="This graphic illustrates the concept of creating opportunities for continuous feedback" title="Create opportunities for continuous feedback" class="img-center"/>
 
 Allowing students to learn from their mistakes is fundamental to the development of grit. While delivering a course means you’re not always able to provide individualised coaching, there are ways to share feedback. 
 
 You can create opportunities to provide feedback by implementing social learning elements in your learning environment. This could be through encouraging learning buddies, creating discussion boards or groups for sharing ideas, activities or feedback. Additionally, sharing model answers and detailed explainers or completed templates can also guide and help learners to learn from their deliberate practice activities. 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655978133/site-articles/motivation-and-grit-in-a-digital-learning-environment/Create_Clear_Scaffolded_Learning_Goals_xy4sz4.jpg" alt="This graphic illustrates the concept of creating clear, scaffolded learning goals" title="Create clear, scaffolded learning goals" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656404418/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_192_yzy0xr.png" alt="This graphic illustrates the concept of creating clear, scaffolded learning goals" title="Create clear, scaffolded learning goals" class="img-center"/>
 
 Learners can sometimes feel overwhelmed by a digital learning experience, especially if they are not used to learning online or if the subject matter is technically challenging. In structuring learning into chunks, with clear direction as to what is expected of the learner at each stage, learning designers can help to manage cognitive overload and allow the learners to focus on the learning to be done. 
 
