@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-17_wvrd5m.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656417214/site-articles/how-to-design-impactful-learning-experiences/Blog_Banner_7_d5eqop.png
 featured: false
 title: How to Design Impactful Learning Experiences
 date: 2020-12-10
