@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-3_iokwd2.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656415594/site-articles/how-to-develop-a-learning-strategy/Blog_Banner_3_yb63yx.png
 featured: false
 title: How to Develop a Learning Strategy
 date: 2020-08-06
