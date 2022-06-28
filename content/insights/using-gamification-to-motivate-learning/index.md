@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-5_pqduue.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656416420/site-articles/using-gamification-to-motivate-learning/Blog_Banner_5_mv44ke.png
 featured: false
 title: Using Gamification to Motivate Learning
 date: 2020-09-30
