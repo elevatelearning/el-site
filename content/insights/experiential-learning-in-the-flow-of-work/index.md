@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-10_y0y6f8.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656419391/site-articles/experiential-learning-in-the-flow-of-work/Blog_Banner_10_l7kkn0.png
 featured: false
 title: Experiential Learning in the Flow of Work
 date: 2021-02-19
