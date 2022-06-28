@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341525/site-assets/insights-cover-1_klwzqe.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656414244/site-articles/what-is-learning-experience-design/Blog_Banner_1_ldvwt1.png
 featured: false
 title: What is Learning Experience Design (LXD)?
 date: 2020-07-08
