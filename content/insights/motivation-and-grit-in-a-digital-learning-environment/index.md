@@ -45,7 +45,7 @@ In her 2007 research and subsequent [2013 TedTalk](https://www.ted.com/talks/ang
 
 Here are three ways in which grit can be developed through the learning design process:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_489/v1655978131/site-articles/motivation-and-grit-in-a-digital-learning-environment/Create_Relevant_Challenging_Practice_Activities_dxzpnl.jpg" alt="This graphic illustrates the concept of creating relevant and challenging activities" title="Create relevant, challenging activities" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1656396566/site-articles/motivation-and-grit-in-a-digital-learning-environment/Suptopic_1_vadykx.png" alt="This graphic illustrates the concept of creating relevant and challenging activities" title="Create relevant, challenging activities" class="img-center"/>
 
 Deliberate practice is the intentional and sustained efforts to work on developing new competencies. It’s not just practicing the same repetitive exercises over and over, but rather, it’s the steady improvement and extension of a range of skills (Ericsson, Prietula & Cokely, 2007). As learning designers, if we want learners to develop both grit and new competencies, we have to create opportunities for them to put their new or emerging skills into practice. 
 
