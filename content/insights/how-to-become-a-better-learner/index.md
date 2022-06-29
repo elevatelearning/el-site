@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341526/site-assets/insights-cover-12_fbxrz3.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656507886/site-articles/how-to-become-a-better-learner/Blog_Banner_12_ovqbpg.png
 featured: false
 title: How to Become a Better Learner
 date: 2021-05-27
