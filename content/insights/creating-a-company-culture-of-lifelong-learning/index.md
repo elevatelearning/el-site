@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341526/site-assets/insights-cover-11_wgfplm.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656507665/site-articles/creating-a-company-culture-of-lifelong-learning/Blog_Banner_11_tomcvu.png
 featured: false
 title: Creating a Company Culture of Lifelong Learning
 date: 2021-05-04
