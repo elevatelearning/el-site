@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341526/site-assets/insights-cover-13_ywuzj4.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656571970/site-articles/how-to-become-a-better-learning-designer/Blog_Banner_14_zt2blm.png
 featured: false
 title: How to Become a Better Learning Designer
 date: 2021-06-24
