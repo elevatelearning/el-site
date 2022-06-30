@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341526/site-assets/insights-cover-14_e8mvik.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656571345/site-articles/launching-learning-experience-design-essentials/Blog_Banner_13_qxue2m.png
 featured: false
 title: Launching Learning Experience Design Essentials
 date: 2021-07-02
