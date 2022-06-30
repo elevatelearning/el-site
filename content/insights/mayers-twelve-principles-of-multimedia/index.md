@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-18_rqkbb4.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656593889/site-articles/mayers-twelve-principles-of-multimedia/Blog_Banner_16_sghcsp.png
 featured: false
 title: Mayer's 12 Principles of Multimedia
 date: 2021-08-14
