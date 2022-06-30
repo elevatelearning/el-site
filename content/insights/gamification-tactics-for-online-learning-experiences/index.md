@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341526/site-assets/insights-cover-15_awlrcy.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1656593560/site-articles/gamification-tactics-for-online-learning-experiences/Blog_Banner_15_fqd73t.png
 featured: false
 title: Gamification Tactics for Online Learning Experiences
 date: 2021-07-19
