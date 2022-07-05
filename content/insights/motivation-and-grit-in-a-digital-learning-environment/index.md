@@ -65,9 +65,9 @@ You can do this by creating competence-based learning outcomes, structuring your
 
 ## Motivation & Grit: A Recipe for Digital Learning Success
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1655978130/site-articles/motivation-and-grit-in-a-digital-learning-environment/Grit_and_Learning_voi8fp.jpg" alt="This is a quote graphic" title="Quote graphic" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1657011041/site-articles/motivation-and-grit-in-a-digital-learning-environment/Group_203_ic5314.png" alt="This is a quote graphic" title="Quote graphic" class="img-center"/>
 
-Needless to say, motivation and grit in learning are crucial for a successful learning experience, and it’s important for learning designers to understand the science and art of designing digital learning experiences that breed motivation and help learners to stay the course. 
+<br>Needless to say, motivation and grit in learning are crucial for a successful learning experience, and it’s important for learning designers to understand the science and art of designing digital learning experiences that breed motivation and help learners to stay the course. 
 
 ### References
 
