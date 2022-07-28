@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-20_ehnfuq.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658998958/site-articles/what-is-learning-analytics/Blog_Banner_19_edw5ax.png
 featured: false
 title: What is Learning Analytics?
 date: 2021-09-03
