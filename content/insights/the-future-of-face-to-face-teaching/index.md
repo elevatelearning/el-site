@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652341527/site-assets/insights-cover-21_sjvqzo.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999166/site-articles/the-future-of-face-to-face-teaching/Blog_Banner_20_j66w4d.png
 featured: false
 title: The Future of Face-to-Face Teaching
 date: 2021-10-22
