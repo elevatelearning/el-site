@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999020/site-articles/the-future-of-digital-learning-predictions-for-2022-and-beyond/Blog_Banner_20_rheygv.png
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999109/site-articles/the-future-of-digital-learning-predictions-for-2022-and-beyond/Blog_Banner_21_c8vfex.png
 featured: false
 title: The Future of Digital Learning - Predictions for 2022 and Beyond
 date: 2021-12-13
