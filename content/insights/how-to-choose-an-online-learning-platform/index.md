@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1652341527/site-assets/insights-cover-23_kai2bd.jpg
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1658999399/site-articles/how-to-choose-an-online-learning-platform/Blog_Banner_22_js1pgh.png
 featured: false
 title: How to Choose an Online Learning Platform
 date: 2022-02-08
