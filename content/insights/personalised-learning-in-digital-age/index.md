@@ -1,6 +1,6 @@
 ---
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1659013569/site-articles/personalised-learning-in-the-digital-age/Blog_Banner_24_hjpyyr.png
-featured: false
+featured: true
 title: Personalised Learning in the Digital Age
 date: 2022-07-28
 author: Lara Hilton
