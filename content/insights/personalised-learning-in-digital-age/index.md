@@ -21,15 +21,24 @@ The practice of personalised learning helps create what was once seen as a utopi
 
 # Key Indicators of Personalised Learning in the Digital Age
 
-Let's explore a few of the key benefits of personalised learning in the digital age.
+Let’s dive into the benefits of technology-driven personalised learning in a digital age by exploring a few of the key principles.
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_737/v1659009468/site-articles/personalised-learning-in-the-digital-age/THREE_BENEFITS_OF_PERSONALISED_LEARNING_1_rj8nyl.png" alt="This infographic illustrates the three benefits of personalised learning." title="The Three Benefits of Personalised Learning" class="img-center"/>
 
 # Prioritising Technology in Learning Design
 
-Utilising technology can elevate learning experiences. It can provide all stakeholders with valuable insight on learners' progress; and it can improve learner engagement as lessons become more interactive. For example, using classroom responsive systems (clickers) or software applications on devices allows learners to respond individually and simultaneously with immediate feedback. Learners also have access to experts and a rich library of information using research studies, scholarly databases, and reliable news sources etc. Furthermore, those who need to build on their organisational skills can rely on note-taking apps where reminders, prompts and strategies are provided. They also develop their logic, critical thinking and communication when learning to design, build and assess their own apps, robots, and games. Educators can easily connect with all learners and parents through virtual office hours, class webpages or even online gradebooks. More importantly, learning can happen with anyone, anywhere and at any time.
+Utilising technology can elevate learning experiences. It can provide all stakeholders with valuable insight on learners' progress; and it can improve learner engagement as lessons become more interactive. For example, using classroom responsive systems (clickers) or software applications on devices allows learners to respond individually and simultaneously with immediate feedback. Learners also have access to experts and a rich library of information using research studies, scholarly databases, and reliable news sources etc. 
+
+Furthermore, those who need to build on their organisational skills can rely on note-taking apps where reminders, prompts and strategies are provided. They also develop their logic, critical thinking and communication when learning to design, build and assess their own apps, robots, and games. Educators can easily connect with all learners and parents through virtual office hours, class webpages or even online gradebooks. More importantly, learning can happen with anyone, anywhere and at any time.
 
 To take full advantage of educational technology and to help move your learning experience forward into the digital age, prioritise these four key principles: 
+
+1. *Personalised learning should always come from the learner’s perspective.*
+2. *Educators or learning instructors must be properly equipped.*
+3. *Utilise high quality digital content and assessments.*
+4. *Improve access to technology infrastructure and high-speed broadband connection.*
+
+Let’s take a deeper dive into each of these principles, along with practical ways to personalise your digital learning experiences. 
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_750/v1659012230/site-articles/personalised-learning-in-the-digital-age/Personalised_Learning_-_Blog_Article_agzl34.png" alt="This graphic illustrates of personalised learning being informed by the learner's perspective." title="Personalised Learning Should Always Come From the Learner's Perspective" class="img-center"/>
 
