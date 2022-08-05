@@ -15,19 +15,22 @@ So, how exactly has technology and the rise of digital influenced the way learne
 
 # Learning Becomes Personalised
 
-Technology and digital learning tools offer learning institutions and learning experts the opportunity to provide both variability of content and learning journeys, as well as advancing the practice of creating personalised learning experience.
+Technology and digital learning tools offer learning institutions and learning experts the opportunity to provide both variability of content and learning journeys, as well as advance the practice of creating personalised learning experience.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_750/v1659006933/site-articles/personalised-learning-in-the-digital-age/Untitled_design_57_ceqaet.png" alt="This image illustrates the personalised learning definition." title="Personalised Learning Definition" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1659683922/site-articles/personalised-learning-in-the-digital-age/Personalised_Learning_-_Blog_Article_5_vtrmkj.png" alt="This image illustrates the personalised learning definition." title="Personalised Learning Definition" class="img-left"/>
 
-The practice of personalised learning helps create what was once seen as a utopian educational dream: that learners would have access to a rich library of information and to an array of subject matter experts to help guide them throughout their learning experience.
+</br>The practice of personalised learning helps create what was once seen as a utopian educational dream: that learners would have access to a rich library of information and to an array of subject matter experts to help guide them throughout their learning experience.
 
 # Key Indicators of Personalised Learning in the Digital Age
 
 Let’s dive into the benefits of technology-driven personalised learning in a digital age by exploring a few of the key principles.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_737/v1659009468/site-articles/personalised-learning-in-the-digital-age/THREE_BENEFITS_OF_PERSONALISED_LEARNING_1_rj8nyl.png" alt="This infographic illustrates the three benefits of personalised learning." title="The Three Benefits of Personalised Learning" class="img-center"/>
+## \[GRAPHIC] **[Meets the learner's needs](https://www.intel.com/content/www/us/en/education/k12/personalized-learning-toolkit.html)**
 
-# Prioritising Technology in Learning Design
+<img src="" alt="This infographic illustrates the three benefits of personalised learning." title="The Three Benefits of Personalised Learning" class="img-center"/>
+
+# 
+Prioritising Technology in Learning Design 
 
 Utilising technology can elevate learning experiences. It can provide all stakeholders with valuable insight into learners’ progress, and it can improve learner engagement as lessons become more interactive. For example, using classroom responsive systems (clickers) or software applications on devices allows learners to respond individually and simultaneously with immediate feedback. Learners also have access to experts and a rich library of information using research studies, scholarly databases, reliable news sources etc.  
 
@@ -68,7 +71,7 @@ The one size fits all learning models does not prepare our learners for a succes
 
 - - -
 
-*Are you looking to learn more about Learning Experience Design and how to create a more personalised learning experience? Elevate Learning launched an insightful online course (Learning Experience Design Essentials), equipping individuals to design learning experiences that are learner-centered, goal-oriented, and design-focused. For more information visit the [course page here](https://www.elevatelearning.org/insights/launching-learning-experience-design-essentials/).* 
+*Are you looking to learn more about Learning Experience Design and how to create a more personalised learning experience? Elevate Learning launched an insightful online course (Learning Experience Design Essentials), equipping individuals to design learning experiences that are learner-centred, goal-oriented, and design-focused. For more information visit the [course page here](https://www.elevatelearning.org/insights/launching-learning-experience-design-essentials/).* 
 
 ## References
 
