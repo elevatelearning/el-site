@@ -31,17 +31,25 @@ Let’s dive into the benefits of technology-driven personalised learning in a d
 
 Personalised learning has been achieved when the instruction, support strategies and content speak directly to a learner’s unique needs, interests, motivations, culture, language, and background knowledge. When personalised learning occurs, learners improve their knowledge retention and learning results, increase their motivation and engagement and develop their 21st-century skills.
 
+You could implement **game-based** learning systems into your learning design — offering learners a self-paced learning environment, all while promoting fun in learning. If you'd like to learn more about various gamified learning tactics, then [visit our article here](https://www.elevatelearning.org/insights/gamification-tactics-for-online-learning-experiences/).
+
+</br>
+
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1659685055/site-articles/personalised-learning-in-the-digital-age/Personalised_Learning_-_Blog_Article_7_reqsv7.png" alt="Benefit two" title="Second benefit" class="img-center"/>
 
 ## Meets the learner wherever they need to be
 
 Learners benefit from this new approach to learning by [relying on educational technology and digital tools](https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/0a143ac0adb340a3b12bfea12da96a52/files/reports/personalized_learning_brief_final_003_1.pdf). Advanced educational technology is often digital and mobile (portable and personal). They are electronic tools, devices, software, systems, and resources that generate, process and store data using digital devices such as laptops. Personalised learning is [a 21st-century form of differentiation](https://www.intel.com/content/www/us/en/education/k12/personalized-learning-toolkit.html) but revitalised with educational technology, making it more flexible, accessible, and successful.
 
+If possible, offer your learners the option to learn based on their unique contexts — this offers increased flexibility for learners who may have demanding extra-curricular activities that call for them to learn on-demand and on the go. If you'd like to learn more about how the future of face-to-face teaching is rapidly evolving, then [visit our article here](https://www.elevatelearning.org/insights/the-future-of-face-to-face-teaching/).
+
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1659685122/site-articles/personalised-learning-in-the-digital-age/Personalised_Learning_-_Blog_Article_8_mol8mo.png" alt="Benefit three" title="Third benefit" class="img-center"/>
 
 ## [Meets and anticipates analytical needs](https://files.eric.ed.gov/fulltext/ED607620.pdf)
 
 Earlier educational technology adapted content based on the learner’s progress such as increasing the difficulty level once a pattern of correct responses was achieved, or repeating the content if a pattern of incorrect responses emerged. Current education technology identifies and analyses learning difficulties to better understand learner motivation and abilities. In other words, this technology learns while the learner is learning to personalise and support their digital learning journey.  
+
+Learning analytics is a vital step in any learning design process. It allows you to focus beyond mere course completion rates, and instead, more fully understand individual learners, their experience of your programme and whether your design has enabled them to achieve their learning goals. If you'd like to find out more about the impact of learning analytics, then [visit our article here](https://www.elevatelearning.org/insights/what-is-learning-analytics/).
 
 # Prioritising Technology in Learning Design 
 
