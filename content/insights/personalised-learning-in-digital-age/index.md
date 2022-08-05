@@ -25,12 +25,25 @@ Technology and digital learning tools offer learning institutions and learning e
 
 Let’s dive into the benefits of technology-driven personalised learning in a digital age by exploring a few of the key principles.
 
-## \[GRAPHIC] **[Meets the learner's needs](https://www.intel.com/content/www/us/en/education/k12/personalized-learning-toolkit.html)**
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1659684837/site-articles/personalised-learning-in-the-digital-age/Personalised_Learning_-_Blog_Article_6_uweah4.png" alt="Benefit one" title="First benefit" class="img-center"/>
 
-<img src="" alt="This infographic illustrates the three benefits of personalised learning." title="The Three Benefits of Personalised Learning" class="img-center"/>
+## **[Meets the learner's needs](https://www.intel.com/content/www/us/en/education/k12/personalized-learning-toolkit.html)**
 
-# 
-Prioritising Technology in Learning Design 
+Personalised learning has been achieved when the instruction, support strategies and content speak directly to a learner’s unique needs, interests, motivations, culture, language, and background knowledge. When personalised learning occurs, learners improve their knowledge retention and learning results, increase their motivation and engagement and develop their 21st-century skills.
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1659685055/site-articles/personalised-learning-in-the-digital-age/Personalised_Learning_-_Blog_Article_7_reqsv7.png" alt="Benefit two" title="Second benefit" class="img-center"/>
+
+## Meets the learner wherever they need to be
+
+Learners benefit from this new approach to learning by [relying on educational technology and digital tools](https://nmcdn.io/e186d21f8c7946a19faed23c3da2f0da/0a143ac0adb340a3b12bfea12da96a52/files/reports/personalized_learning_brief_final_003_1.pdf). Advanced educational technology is often digital and mobile (portable and personal). They are electronic tools, devices, software, systems, and resources that generate, process and store data using digital devices such as laptops. Personalised learning is [a 21st-century form of differentiation](https://www.intel.com/content/www/us/en/education/k12/personalized-learning-toolkit.html) but revitalised with educational technology, making it more flexible, accessible, and successful.
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1659685122/site-articles/personalised-learning-in-the-digital-age/Personalised_Learning_-_Blog_Article_8_mol8mo.png" alt="Benefit three" title="Third benefit" class="img-center"/>
+
+## [Meets and anticipates analytical needs](https://files.eric.ed.gov/fulltext/ED607620.pdf)
+
+Earlier educational technology adapted content based on the learner’s progress such as increasing the difficulty level once a pattern of correct responses was achieved, or repeating the content if a pattern of incorrect responses emerged. Current education technology identifies and analyses learning difficulties to better understand learner motivation and abilities. In other words, this technology learns while the learner is learning to personalise and support their digital learning journey.  
+
+# Prioritising Technology in Learning Design 
 
 Utilising technology can elevate learning experiences. It can provide all stakeholders with valuable insight into learners’ progress, and it can improve learner engagement as lessons become more interactive. For example, using classroom responsive systems (clickers) or software applications on devices allows learners to respond individually and simultaneously with immediate feedback. Learners also have access to experts and a rich library of information using research studies, scholarly databases, reliable news sources etc.  
 
