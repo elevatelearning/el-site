@@ -5,11 +5,11 @@ title: Deliberate Practice in Digital Learning Experience Design
 date: 2022-04-12
 author: Kira Koopman
 ---
-In a previous article on [motivation and grit in learning experience design](https://www.elevatelearning.org/insights/motivation-and-grit-in-a-digital-learning-environment/), we described grit as the pursuit of one’s passion, with “consistent interest and sustained effort over a long period of time” (Duckworth & Quinn, 2009) and looked at its role in ensuring learners are fully engaged and motivated throughout a learning experience. This idea of staying motivated throughout a learning experience and sustained engagement in practice activities is key to developing new skills, competencies and behaviours. 
+In a previous article on [motivation and grit in learning experience design](https://www.elevatelearning.org/insights/motivation-and-grit-in-a-digital-learning-environment/), we described grit as the pursuit of one’s passion, with 'consistent interest and sustained effort over a long period of time' (Duckworth & Quinn, 2009) and looked at its role in ensuring learners are fully engaged and motivated throughout a learning experience. This idea of staying motivated throughout a learning experience and sustained engagement in practice activities is key to developing new skills, competencies and behaviours. 
 
 So, how can we create opportunities for learners to put their new or emerging skills into practice by directing that long period of time using deliberate practice? Thankfully there’s some research we can look to to help us create relevant, challenging opportunities that allow learners to practice new skills. 
 
-Deliberate practice is a concept that focuses on improving skills and extending the reach and range of those skills. It refers to “intentional and sustained efforts to work on developing new competencies. It’s not just practising the same repetitive exercises over and over, but rather, it’s the steady improvement and extension of a range of skills,” (Ericsson, Prietula & Cokely, 2007).\
+Deliberate practice is a concept that focuses on improving skills and extending the reach and range of those skills. It refers to 'intentional and sustained efforts to work on developing new competencies. It’s not just practising the same repetitive exercises over and over, but rather, it’s the steady improvement and extension of a range of skills,' (Ericsson, Prietula & Cokely, 2007).\
 \
 In 1993, psychologist K. Anders Ericsson became fundamental in establishing the role of practice as it shapes experts, specifically, and originally, in the field of music. While many people believe that talent is essential to becoming a professional instrumental musician, deliberate practice seeks to show that hard work and focussed training play a much larger role in creating experts of all fields. 
 
@@ -60,6 +60,8 @@ Peer learning is another way to give and receive feedback, so have learners part
 Human beings like to look up to experts like superstars and we like to believe that we ourselves can do better, achieve more and reach our potential. Using deliberate practice in learning experience design increases the average learner’s self-awareness and means the learner not only practises deliberately but it makes the learner think deliberately. Using deliberate practice methods means improving the skills the learner already has and extending the reach and range of their skills.
 
 There are many elements of deliberate practice that have and will continue to be studied as it applies to learning success, and particularly in a digital realm. As you design learning experiences, implementing small, practical ways to include deliberate practice to turn your learners into experts will ensure you continuously put your learners at the centre of your design.
+
+</br>
 
 ### REFERENCES
 
