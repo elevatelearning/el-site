@@ -1,6 +1,6 @@
 ---
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1659000588/site-articles/deliberate-practice-in-digital-learning-experience-design/Blog_Banner_23_ddszru.png
-featured: false
+featured: true
 title: Deliberate Practice in Digital Learning Experience Design
 date: 2022-09-05
 author: Kira Koopman
