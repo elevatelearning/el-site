@@ -9,7 +9,7 @@ In a previous article on [motivation and grit in learning experience design](htt
 
 So, how can we create opportunities for learners to put their new or emerging skills into practice by directing that long period of time using deliberate practice? Thankfully there’s some research we can look to to help us create relevant, challenging opportunities that allow learners to practice new skills. 
 
-Deliberate practice is a concept that focuses on improving skills and extending the reach and range of those skills. It refers to 'intentional and sustained efforts to work on developing new competencies. It’s not just practising the same repetitive exercises over and over, but rather, it’s the steady improvement and extension of a range of skills,' (Ericsson, Prietula & Cokely, 2007).\
+Deliberate practice is a concept that focuses on improving skills and extending the reach and range of those skills. It refers to 'intentional and sustained efforts to work on developing new competencies. It’s not just practising the same repetitive exercises over and over, but rather, it’s the steady improvement and extension of a range of skills' (Ericsson, Prietula & Cokely, 2007).\
 \
 In 1993, psychologist K. Anders Ericsson became fundamental in establishing the role of practice as it shapes experts, specifically, and originally, in the field of music. While many people believe that talent is essential to becoming a professional instrumental musician, deliberate practice seeks to show that hard work and focussed training play a much larger role in creating experts of all fields. 
 
