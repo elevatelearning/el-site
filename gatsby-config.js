@@ -18,6 +18,10 @@ module.exports = {
         name: `Kelsey Groenmeyer`,
         summary: `Learning Experience Design Specialist`,
       },
+      {
+        name: `Lara Hilton`,
+        summary: `Learning Experience Design Specialist`,
+      },
     ],
     description: `Elevate Learning is a full-service learning design consultancy. We partner with you to design and implement online and blended learning experiences.`,
     siteUrl: `https://www.elevatelearning.org/`,
