@@ -92,3 +92,23 @@ People learn best when listening to a human voice. Narration should be recorded 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_115/v1652430372/site-articles/mayers-twelve-principles-of-multimedia/mayers-principles-of-multimedia-image_p8iioi.png" alt="Image Principle" title="Image Principle" class="img-right"/>
 
 Including a video of the speaker on screen doesn’t necessarily improve learning. Rather include relevant visuals or text on screen to enhance the learning experience.
+
+```html
+<div style="display: flex; gap: 1rem; align-items: center;">
+  <button class="ds-c-button ds-c-button--on-dark" type="button">
+    Outline
+  </button>
+  <button
+    class="ds-c-button ds-c-button--on-dark ds-c-button--solid"
+    type="button"
+  >
+    Solid
+  </button>
+  <button
+    class="ds-c-button ds-c-button--on-dark ds-c-button--ghost"
+    type="button"
+  >
+    Ghost
+  </button>
+</div>
+```
