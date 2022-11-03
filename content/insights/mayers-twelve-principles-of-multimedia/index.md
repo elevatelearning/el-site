@@ -7,7 +7,6 @@ author: Pasqua Lawrenson
 infographicPreviewUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1643720134/site-infographics/mayers-principles-of-multimedia-infographic-preview_syrvqs.png
 infographicUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1645597978/site-infographics/Mayer_s_Principles_of_Multimedia_n4mj32.pdf
 ---
-
 Multimedia refers to an array of media types such as text, images, audio and video content, and is used to convey meaning and enhance learning experiences. Here are Mayer’s 12 Principles of Multimedia to help you create interactive, engaging and memorable digital learning experiences.
 
 ## Principles that reduce extraneous load
@@ -72,7 +71,7 @@ People learn better from a combination of pictures and narration, rather than pi
 
 ### 1. The Multimedia Principle
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_110/v1652430372/site-articles/mayers-twelve-principles-of-multimedia/mayers-principles-of-multimedia-multimedia_o0fwc7.png" alt="Multimedia Principle" title="Multimedia Principle class="img-left"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_115/v1652430372/site-articles/mayers-twelve-principles-of-multimedia/mayers-principles-of-multimedia-multimedia_o0fwc7.png" alt="Multimedia Principle" title="Multimedia Principle" class="img-left"/>
 
 People learn best when they see visuals and hear narration, rather than when they only listen to narration or only read text on-screen without any visuals. Include images in your multimedia that align with and clarify the narrated message, rather than functioning as purely decorative.
 
@@ -90,6 +89,6 @@ People learn best when listening to a human voice. Narration should be recorded 
 
 ### 4. The Image Principle
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_500/v1652430372/site-articles/mayers-twelve-principles-of-multimedia/mayers-principles-of-multimedia-image_p8iioi.png" alt="Image Principle" title="Image Principle" class="img-left"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_115/v1652430372/site-articles/mayers-twelve-principles-of-multimedia/mayers-principles-of-multimedia-image_p8iioi.png" alt="Image Principle" title="Image Principle" class="img-right"/>
 
 Including a video of the speaker on screen doesn’t necessarily improve learning. Rather include relevant visuals or text on screen to enhance the learning experience.
