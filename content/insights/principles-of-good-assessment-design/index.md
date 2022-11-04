@@ -5,7 +5,7 @@ title: Principles of Good Assessment Design
 date: 2022-11-09
 author: Lara Hilton
 ---
-\[﻿Quote graphic]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_818/v1667545141/site-articles/principles-of-good-assessment-design/Quote_graphic-01_t3dr72.png" alt="Quote by Race, Brown and Smith: "Nothing that we do, or for, our students is more important than our assessment of their work and the feedback we give them on it. The results for our assessment influence our students for the rest of their lives and careers — fine if we get it right, but unthinkable if we get it wrong."" title="Quote" class="img-center"/>
 
 As we now know, digital learning has created a new medium through which engaging, relevant and impactful learning experiences can be delivered sustainably, and at scale. Learning is no longer confined to in-person learning institutions and constructions and can take place at any time and at any place, with far greater reach and accessibility than ever before. 
 
@@ -23,20 +23,21 @@ Using technology for assessments has many potential benefits. It offers more cho
 
 [For example](https://www.bristol.ac.uk/media-library/sites/education/documents/researchreview.pdf), using simulations can simultaneously measure computer skills, decision making and strategy processing, providing a comprehensive understanding of a learner’s level of competence or mastery.
 
- 
 Given these benefits, you may be asking yourself: how can I go about creating online assessments or transferring already existing courses to online platforms in a way that is meaningful and impactful to the overall learning experience? But it’s important to remember that digital learning and assessment design still needs to adhere to learning experience design best practice in that it must **consider the learner experience**, the **design of the assessment** and the **goals you’re aiming to achieve**. 
-
 
 Whether you’re brand new to the digital learning design field, or you have plenty of digital content creation experience but are in need of inspiration when it comes to designing assessments, we’ve conducted some research into some of the best principles and practices to help you create considered, effective, and high-quality learning assessments.
 
-# P﻿rinciple 1: Well-designed assessments should be aligned with the course learning outcomes
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545139/site-articles/principles-of-good-assessment-design/Principle_01_banner-02_rmxni4.png" alt="Well-design assessments should be aligned with the course learning outcomes" title="Well-design assessments should be aligned with the course learning outcomes" class="img-left"/>
 
 [Good digital assessments](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses) should be integrated into the course design to support learning, and the teaching strategies and learning outcomes must align with the assessment strategies. In other words, the course activities should allow the learner to practice the assessed knowledge and skills. This also allows learners to direct their learning as well as instructors to focus their course elements such as content selection.
 
-
 To help you in the task of aligning your assessments with your learning outcomes, take a look at the following infographic:
 
-\[﻿Graphic]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_750/v1667545141/site-articles/principles-of-good-assessment-design/Outcomes_infographic-09_yezogj.png" alt="Infographic which illustrates how you can align assessments to course learning outcomes" title="Aligning assessments to course learning outcomes" class="img-center"/>
+
+
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_02_banner-03_gex5ty.png" alt="" title="" class=""/>
 
 # P﻿rinciple 2: Well-designed assessments should reflect the discipline or field of study
 
