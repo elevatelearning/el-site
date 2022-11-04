@@ -11,7 +11,7 @@ As we now know, digital learning has created a new medium through which engaging
 
 Whether you’re working in Higher Education, in an NPO, or in a corporate setting, what would you consider to be one of the foundational learning concepts and principles across a range of industries?
 
-While we believe that the fundamental principles required for a successful learning experience are that it must be learner-centred, goal-oriented and design-focused, being able to measure the effectiveness of the learning experience and assess whether learning transfer has taken place is key. 
+While we believe that the fundamental principles required for a successful learning experience are that it must be learner-centered, goal-oriented and design-focused, being able to measure the effectiveness of the learning experience and assess whether learning transfer has taken place is key. 
 
 Assessments are therefore an [essential component](http://doi.org/10.2139/ssrn.3370615) of the learning experience. Not only do they determine the user’s progression through the content, but also influence their understanding of their learning. Through carefully designed pause and reflect activities, consistent and personalised feedback, and questions that are designed to have learners practically apply key concepts, assessments can be a strategic tool for competence development and learning success.
 
@@ -36,8 +36,6 @@ To help you in the task of aligning your assessments with your learning outcomes
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_1200/v1667552057/site-articles/principles-of-good-assessment-design/Group_339_plm8s5.png" alt="Infographic which illustrates how you can align assessments to course learning outcomes" title="Aligning assessments to course learning outcomes" class="img-center"/>
 
 - - -
-
-
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_02_banner-03_gex5ty.png" alt="Well-designed assessments should reflect the discipline or field of study" title="Well-designed assessments should reflect the discipline or field of study" class="img-left"/>
 
@@ -73,8 +71,6 @@ A high-quality course will include both formative and summative assessments. Exp
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_650/v1667545140/site-articles/principles-of-good-assessment-design/Assessment_types-08_afuall.png" alt="Graphic illustrating the differences and commonalities between formative and summative assessments" title="Formative vs Summative Assessments" class="img-center"/>
 
-
-
 A single summative assessment (also known as assessment of learning) completed at the end of a course does not allow the learner to overcome or improve on their inadequacies. They simply show what learning has occurred after some time. While regular formative assessments (also known as assessment for learning) throughout a course with meaningful feedback, provides learners with an understanding of their strengths and weaknesses. This advises and guides their learning. Therefore, course designers and instructors should [include both summative and formative assessments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8929315/) to reap the benefits of both.
 
 Just as in traditional classrooms or lecture halls, multiple forms of assessments can be effective in the online learning environment. The use of different assessment methods allows the learners to demonstrate their learning in a way that best suits them. As a result, [learners take more ownership](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses) of their learning while still meeting the assessment outcomes.
@@ -96,8 +92,6 @@ Whereas an effective summative assessment could include:
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_05_banner-06_ijasem.png" alt="Well-designed assessments include explicit, accessible and transparent information" title="Well-designed assessments include explicit, accessible and transparent information" class="img-left"/>
 
-
-
 [All stakeholders](https://warwick.ac.uk/fac/cross_fac/academic-development/assessmentdesign/assessmentdesignprinciples/#:~:text=In%20short%2C%20inclusive%20assessment%20shares,feedback%20is%20individualised%20and%20effective) should receive clear, accurate and consistent information relating to the assessment purpose, methods, procedures, and criteria. Assessments should be transparent to be considered fair. Learners should be provided with clear expectations indicating what is being taught, how they need to demonstrate their learning as well as the criteria used to assess them. This is more important than ever before for digital learning, as many [learners are experiencing online assessments for the first time](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses). 
 
 Here are a few examples of how to prepare your learners for various assessments:
@@ -115,8 +109,6 @@ Meaningful and actionable feedback can influence learners’ motivation and enga
 In addition, video and audio feedback foster connections between instructors and learners (if utilising this option, consider additional accessibility requirements). Online discussion forums also allow for common feedback and provide opportunities for questions to be answered. [As online courses may move quickly](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses), feedback should be timely, and learners should be able to apply the feedback to upcoming assessments.
 
 - - -
-
-
 
 # F﻿inal Thoughts
 
