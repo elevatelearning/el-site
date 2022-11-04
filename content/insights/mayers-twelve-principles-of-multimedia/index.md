@@ -93,22 +93,13 @@ People learn best when listening to a human voice. Narration should be recorded 
 
 Including a video of the speaker on screen doesn’t necessarily improve learning. Rather include relevant visuals or text on screen to enhance the learning experience.
 
-```html
 <div style="display: flex; gap: 1rem; align-items: center;">
-  <button class="ds-c-button ds-c-button--on-dark" type="button">
-    Outline
-  </button>
+ 
   <button
     class="ds-c-button ds-c-button--on-dark ds-c-button--solid"
     type="button"
   >
     Solid
-  </button>
-  <button
-    class="ds-c-button ds-c-button--on-dark ds-c-button--ghost"
-    type="button"
-  >
-    Ghost
-  </button>
+ </button>
+
 </div>
-```
