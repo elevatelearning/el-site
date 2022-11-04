@@ -35,17 +35,19 @@ To help you in the task of aligning your assessments with your learning outcomes
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_750/v1667545141/site-articles/principles-of-good-assessment-design/Outcomes_infographic-09_yezogj.png" alt="Infographic which illustrates how you can align assessments to course learning outcomes" title="Aligning assessments to course learning outcomes" class="img-center"/>
 
+- - -
 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_02_banner-03_gex5ty.png" alt="" title="" class=""/>
 
-# P﻿rinciple 2: Well-designed assessments should reflect the discipline or field of study
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_02_banner-03_gex5ty.png" alt="Well-designed assessments should reflect the discipline or field of study" title="Well-designed assessments should reflect the discipline or field of study" class="img-left"/>
 
 Whether it be in an academic setting, where assessments should [relate directly to the learner’s field of interest](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-assessments),  or in a corporate setting, where learners should be provided with the opportunity to engage with opportunities to practically apply the content and skills required to perform in their roles, a well-designed assessment targets specific skills and competencies for success.
 
 In the end, a well-designed assessment should be practical in nature and reflect the type of work and activities that your learners would be doing in their field of work or industry.
 
-# P﻿rinciple 3: Well-designed assessments should be inclusive and accessible
+- - -
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_03_banner-04_sqxipk.png" alt="Well-designed assessments should be inclusive and accessible" title="Well-designed assessments should be inclusive and accessible" class="img-left"/>
 
 At Elevate Learning, we believe in championing all voices, contexts, perspectives and cultures. This flows into our pedagogical choices, which are shaped by our desire to create accessible and inclusive learning experiences. Our goal is to ensure that no one feels left behind. 
 
@@ -63,11 +65,15 @@ Ask yourself the following questions (these are in line with WCAG):
 
 For more on accessible design considerations, keep your eyes open for our upcoming accessibility series. 
 
-# P﻿rinciple 4: Well-designed assessments should include both summative and formative assessment types
+- - -
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545140/site-articles/principles-of-good-assessment-design/Principle_04_banner-05_sicxnl.png" alt="Well-designed assessments should include both summative and formative assessment types" title="Well-designed assessments should include both summative and formative assessment types" class="img-left"/>
 
 A high-quality course will include both formative and summative assessments. Explore the differences and similarities of these different assessment types in the graphic below.
 
-\[﻿Graphic]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_650/v1667545140/site-articles/principles-of-good-assessment-design/Assessment_types-08_afuall.png" alt="Graphic illustrating the differences and commonalities between formative and summative assessments" title="Formative vs Summative Assessments" class="img-center"/>
+
+
 
 A single summative assessment (also known as assessment of learning) completed at the end of a course does not allow the learner to overcome or improve on their inadequacies. They simply show what learning has occurred after some time. While regular formative assessments (also known as assessment for learning) throughout a course with meaningful feedback, provides learners with an understanding of their strengths and weaknesses. This advises and guides their learning. Therefore, course designers and instructors should [include both summative and formative assessments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8929315/) to reap the benefits of both.
 
@@ -86,7 +92,11 @@ Whereas an effective summative assessment could include:
 * Podcasts capture a user’s self-expression to create an audio narrative. 
 * Learners can also demonstrate their learning digitally by displaying the best examples that represent their work completed during a certain time (eportfolios).   
 
-# P﻿rinciple 5: Well-designed assessments include explicit, accessible and transparent information
+- - -
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_05_banner-06_ijasem.png" alt="Well-designed assessments include explicit, accessible and transparent information" title="Well-designed assessments include explicit, accessible and transparent information" class="img-left"/>
+
+
 
 [All stakeholders](https://warwick.ac.uk/fac/cross_fac/academic-development/assessmentdesign/assessmentdesignprinciples/#:~:text=In%20short%2C%20inclusive%20assessment%20shares,feedback%20is%20individualised%20and%20effective) should receive clear, accurate and consistent information relating to the assessment purpose, methods, procedures, and criteria. Assessments should be transparent to be considered fair. Learners should be provided with clear expectations indicating what is being taught, how they need to demonstrate their learning as well as the criteria used to assess them. This is more important than ever before for digital learning, as many [learners are experiencing online assessments for the first time](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses). 
 
@@ -96,13 +106,17 @@ Here are a few examples of how to prepare your learners for various assessments:
 * **Formative, in-lesson reflection:** Before continuing with your course content, take a few minutes to reflect on what you’ve just learnt and ponder on this reflection point…
 * **Summative quiz:** You’ve just completed the learning portion of this course. Now it’s time to put your knowledge to the test. You will be required to achieve a minimum pass rate of 70% to consider your learning successful. You will also be given quiz attempts. If you do not manage to pass on the third attempt, reach out to support at support@institutionname.com to find out about next steps.
 
-# P﻿rinciple 6: Well-designed assessments provide timely and meaningful feedback
+- - -
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_786/v1667545141/site-articles/principles-of-good-assessment-design/Principle_06_banner-07_rureie.png" alt="Well-design assessments provide timely and meaningful feedback" title="Well-design assessments provide timely and meaningful feedback" class="img-left"/>
 
 Meaningful and actionable feedback can influence learners’ motivation and engagement as well as encourage self-directed learning. Where possible, this feedback should be automatic such as quizzes that are graded immediately. This feedback should not merely correct the learner by providing right/wrong answers but should provide meaningful qualitative feedback, even if it’s the same feedback regardless of the correct/incorrect answer. 
 
 In addition, video and audio feedback foster connections between instructors and learners (if utilising this option, consider additional accessibility requirements). Online discussion forums also allow for common feedback and provide opportunities for questions to be answered. [As online courses may move quickly](https://taylorinstitute.ucalgary.ca/resources/module/designing-online-asses), feedback should be timely, and learners should be able to apply the feedback to upcoming assessments.
 
-_﻿\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+- - -
+
+
 
 # F﻿inal Thoughts
 
