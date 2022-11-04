@@ -33,7 +33,7 @@ Whether you’re brand new to the digital learning design field, or you have ple
 
 To help you in the task of aligning your assessments with your learning outcomes, take a look at the following infographic:
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_750/v1667545141/site-articles/principles-of-good-assessment-design/Outcomes_infographic-09_yezogj.png" alt="Infographic which illustrates how you can align assessments to course learning outcomes" title="Aligning assessments to course learning outcomes" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_1200/v1667552057/site-articles/principles-of-good-assessment-design/Group_339_plm8s5.png" alt="Infographic which illustrates how you can align assessments to course learning outcomes" title="Aligning assessments to course learning outcomes" class="img-left"/>
 
 - - -
 
