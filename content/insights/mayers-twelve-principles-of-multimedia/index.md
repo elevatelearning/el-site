@@ -93,13 +93,4 @@ People learn best when listening to a human voice. Narration should be recorded 
 
 Including a video of the speaker on screen doesn’t necessarily improve learning. Rather include relevant visuals or text on screen to enhance the learning experience.
 
-<div style="display: flex; gap: 1rem; align-items: center;">
- 
-  <button
-    class="ds-c-button ds-c-button--on-dark ds-c-button--solid"
-    type="button"
-  >
-    Solid
- </button>
-
-</div>
+*I﻿f you would like to download a free infographic for this article, then [click here](https://res.cloudinary.com/elevatelearning/image/upload/v1643720134/site-infographics/mayers-principles-of-multimedia-infographic-preview_syrvqs.png).*
