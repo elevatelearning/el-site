@@ -134,9 +134,7 @@ In addition, video and audio feedback foster connections between instructors and
 
 Whether you’re designing assessments for face-to-face learning environments or online learning, assessments continue to lie at the heart of any learning experience. ell-designed assessments are beneficial for all stakeholders — it highlights potential weaknesses and areas for iteration in a learning designer’s course design, provides insights for the assessors, clients or managers into the strengths and weaknesses of their learners, and highlights to learners where further improvement may be needed.
 
-If you would like to learn more about our service offerings, or if you require assistance with your assessment design and implementation, then contact us below.
-
-\[﻿Contact form]
+If you would like to learn more about our service offerings, or if you require assistance with your assessment design and implementation, then [contact us here](https://www.elevatelearning.org/#contact).
 
 ## R﻿eferences
 
