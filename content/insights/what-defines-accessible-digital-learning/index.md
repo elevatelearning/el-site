@@ -1,5 +1,5 @@
 ---
-imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1670314914/site-articles/what-defines-accessible-digital-learning/Web-Accessibility_bzesbz.webp
+imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1671533574/site-articles/what-defines-accessible-digital-learning/Blog_Banner_7_hwtsfs.png
 featured: true
 title: What Defines 'Accessible' Digital Learning?
 date: 2022-12-15
