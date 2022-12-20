@@ -15,38 +15,32 @@ This emphasis on user-centricity and user experience design as it relates to dig
 
 Generally speaking, the best way to personalise content in an online space, where you may never know who the person on the other side of your screen could be, is by giving everyone who comes across your content the tools to personalise their experience themselves, according to their unique preferences and needs. 
 
-
 Fundamentally, learning designers should want learners to feel empowered by having the agency to choose their learning journey. To achieve a successful personalised learning experience, learning designers need to consider the following essential element: accessibility.
 
 # A﻿ccessible Learning Enables Reach and Access
 
 At this point, you might ask yourself, ‘doesn’t online content automatically mean that it is more accessible?’ Unfortunately, not necessarily. No matter how engaging your online experience is, it won't achieve its objectives if it’s inaccessible to some participants.
 
-
 When it comes to digital learning, the term ‘accessible’ refers to content designed to make it possible for everyone across the continuum of ability to navigate. 
-
 
 Let’s paint a picture of a typical online learning experience to understand better what this means.
 Imagine your learner, Alex, starting one of the courses you have created online. Typically, they would have to work through a few videos of a narrator talking through critical concepts of the course. They might get a few paragraphs of text and some example images to look through, and finally, the course might pose a series of questions by, for example, asking Alex to select green for true statements and red for false statements. 
 
-\[graphic illustrating the above paragraph]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532590/site-articles/what-defines-accessible-digital-learning/Alex_1-01_prlfjm.jpg" alt="A student, Alex, taking a online course and being asked to select green for true statements and red for false statements." title="Meet Alex" class="img-center"/>
 
 The above explanation unpacks a basic online learning experience, but what might it look like if Alex were differently abled?
 
-
 If Alex had a hearing difficulty, how would they be able to access the information from the audio narration? Are there closed captions or a script available that they could follow? If not, they will miss out on crucial information they need to complete the course successfully. 
 
-\[graphic illustrating the above paragraph]
-
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532587/site-articles/what-defines-accessible-digital-learning/Subtitles_alttext-02_lphcw9.jpg" alt="Online video with captions and online image with alternative text." title="Captions and Alt Text" class="img-center"/>
 
 Another example to consider is if Alex were visually impaired. In this case, Alex would be able to hear the audio narration, but would they be able to use a standard screen reading tool to navigate through the images in the course? And would they be able to complete the activity posed to them at the end of the course?
 
-\[graphic illustrating the above paragraph]
-
+\[graphic illustrating the above paragraph - I've briefed Gemma on this, will work on it in Jan]
 
 These two examples might be the first that comes to mind when considering accessibility. Still, the breadth and complexity of barriers to learning are extensive — and must be considered. Take, for instance, the assessment activity we used as an example at the end of the course. What if Alex could see and hear all the content but struggled with colour blindness? Alex would be unable to distinguish the red and green options from each other and, therefore, unable to complete the final activity of the course — potentially failing their learning journey. 
 
-\[graphic illustrating the above paragraph]
+\[graphic illustrating the above paragraph - briefed Gemma and expecting to receive in Jan]
 
 # C﻿reating a Truly Accessible Learning Experience
 
@@ -69,23 +63,19 @@ Each learner should be able to recognise all the information delivered to them t
 
 Returning to our learner, Alex, we’ve already discussed using transcripts and subtitling for any learner who may be hard of hearing. Beyond video-based content, any course images (including graphics and buttons) should contain alternative text (more commonly known as alt text), which a screen reader can read for visually impaired participants. Beyond physical ability, using alt text can also benefit those learners whose access to a secure internet connection is not always guaranteed. 
 
-\[﻿Graphic - create an example of a video with subtitles and then a graphic with alt text]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532587/site-articles/what-defines-accessible-digital-learning/Subtitles_alttext-02_lphcw9.jpg" alt="Video captions and alternative text" title="Video Captions and Alt Text" class="img-center"/>
 
 Colour is another critical element to ensure that your learning experience is perceivable. If Alex were colour blind, and during the assessment activity was asked to distinguish between data in a graph. The graphic below provides a simple illustration of various colour blindness spectrums and how poor accessibility design choices might impact a learner:
 
-
-\[Graphic of a graph - show standard, and then some variations dependent on variations of colour blindness]
-
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_600/v1671532589/site-articles/what-defines-accessible-digital-learning/Colourblind_option1-03_tsi3ze.jpg" alt="Graphs depicting how variations of colour blindness affect learning experiences" title="Colour Blindness Graphs" class="img-center"/>
 
 Several tools, such as [this colour contrast and analyser](https://contrast-ratio.com/), can help you improve your course’s colours by finding more suitable contrasts to meet accessibility standards. Another workaround is to include patterns, text or iconography so as not to rely on colour alone. The graphic below illustrates an accessibility-friendly version of the original graph.
 
-
-\[Graphic of accessibility graph]
+\[Graphic of accessibility graph - briefed Gemma and expecting this in Jan]
 
 ## 2﻿. Your Learning Experience Should Be Operable
 
 Another fundamental component of accessible digital learning is ensuring that your interface is operable. This includes elements such as interactivities, quizzes, external links and menus. These course elements should be accessible to screen readers and other assistive technologies.
-
 
 Creating a digital learning experience that is genuinely operable needs to take into account the following (note: this is not an exhaustive list):
 
@@ -115,9 +105,7 @@ Everyone has different comprehension abilities, but all learners should be able 
 
 Lastly, your content should be robust. This means it should be compatible with your learners’ web browsers, media players or any plug-ins that help participants with disabilities to interact with and consume the content. Ultimately, the user experience should be equal for those using assistive technology or not.
 
-
 While this foundational principle specifically targets web developers, as learning designers, we are called to ensure that the robust requirements are being met.
-
 
 Let’s consider Alex for the final time: a tested, accessible learning environment has been created. However, despite creating a keyboard-navigable environment, Alex’s disability means that they cannot engage with an interactive learning environment. In this instance, create accessible PDF documents that house all the course’s content. You have successfully catered for a wide variety of needs, and have mitigated excluding a learner from gaining knowledge. 
 
@@ -127,11 +115,17 @@ Let’s consider Alex for the final time: a tested, accessible learning environm
 To help you on your journey towards creating more accessible and inclusive learning experiences, follow these tips:
 
 * **Approach:** Approach your learning experience design from a people-centered approach, instead of a people-first approach. By appealing to a broad range of learning preferences in the way you design your learning experience, you can create a more learner-centered experience, which will ensure you avoid reducing learners to their categories, and instead, embrace their differences.
-* **Language:** Avoid using defamatory language or characters in your learning experience that perpetuates harmful stereotypes. Keep your language, style and tone relatively neutral and avoid specifically mentioning demographic information (for example, for a persona or case study), unless it is relevant to the content. Similarly in designing graphics, try to include a wide variety of illustration and character types to ensure all learners feel represented.  
-* **T﻿echnology:** Take time to carefully consider the UX/UI development of your learning experience — ensuring an operable experience for your learners. \[ADD ADDITIONAL INFO HERE]
+* **Language:** Avoid using defamatory language or characters in your learning experience that perpetuates harmful stereotypes. Keep your language, style and tone relatively neutral and avoid specifically mentioning demographic information (for example, for a persona or case study), unless it is relevant to the content. Similarly in designing graphics, try to include a wide variety of illustrations and character types to ensure all learners feel represented.  
+* **T﻿echnology:** Take time to carefully consider the UX/UI development of your learning experience — ensuring an operable experience for your learners. Your learning experience should be compatible with different web and mobile browsers. Take the time to carefully test your environment by using assistive tools such as screen readers and voice recognition software. And finally, consider incorporating different user interfaces for learners with visual, auditory, and motor impairments.
 
 And as technology continues to adapt, the Web Content Accessibility Guidelines are updated. Therefore, it is imperative to check for the latest updates in these accessibility guidelines. Remember, equal is everyone getting the same thing. Fair is everyone getting what they need to be successful. And by following WCAG, you can ensure everyone has a fair chance of having a successful digital learning experience.
 
 ## R﻿eferences
 
-\[﻿ADD REFERENCES HERE]
+Rhodes, A. (2020) *What's the best font for people with dyslexia?*, *Extensis*. Celartem, Inc d.b.a. Extensis. Available at: https://www.extensis.com/blog/whats-the-best-font-for-people-with-dyslexia  
+
+Bozarth, J. (no date) *"but it's to code": Thoughts on accessibility in e-learning, E-learning Heroes.* Available at: https://community.articulate.com/articles/but-it-s-to-code-thoughts-on-accessibility-in-e-learning
+
+(WAI), W.C.W.A.I. (no date) *WCAG 2 Overview, Web Accessibility Initiative (WAI).* Available at: https://www.w3.org/WAI/standards-guidelines/wcag/
+
+WHO (no date) *Disability, World Health Organization. World Health Organization.* Available at: https://www.who.int/news-room/fact-sheets/detail/disability-and-health
