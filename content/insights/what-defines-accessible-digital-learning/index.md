@@ -2,10 +2,10 @@
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1671533574/site-articles/what-defines-accessible-digital-learning/Blog_Banner_7_hwtsfs.png
 featured: true
 title: What Defines 'Accessible' Digital Learning?
-date: 2022-12-15
+date: 2023-01-18
 description: Make your learning experience accessible to everyone, particularly
   learners with varying cognitive and physical abilities.
-author: Lara/Kira
+author: Lara Hilton
 ---
 ## "﻿We need to bring learning to people instead of people to learning." — Elliot Masie
 
@@ -36,11 +36,13 @@ If Alex had a hearing difficulty, how would they be able to access the informati
 
 Another example to consider is if Alex were visually impaired. In this case, Alex would be able to hear the audio narration, but would they be able to use a standard screen reading tool to navigate through the images in the course? And would they be able to complete the activity posed to them at the end of the course?
 
-\[graphic illustrating the above paragraph - I've briefed Gemma on this, will work on it in Jan]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418627/site-articles/what-defines-accessible-digital-learning/Alt_text-08_xnigsa.jpg" alt="Online course illustrating the use of a screen reading tool with alternative text" title="Screen Readers and Alt Text" class="img-center"/>
 
 These two examples might be the first that comes to mind when considering accessibility. Still, the breadth and complexity of barriers to learning are extensive — and must be considered. Take, for instance, the assessment activity we used as an example at the end of the course. What if Alex could see and hear all the content but struggled with colour blindness? Alex would be unable to distinguish the red and green options from each other and, therefore, unable to complete the final activity of the course — potentially failing their learning journey. 
 
-\[graphic illustrating the above paragraph - briefed Gemma and expecting to receive in Jan]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418626/site-articles/what-defines-accessible-digital-learning/Bnw_graph-05_jnphtu.jpg" alt="Scatter plot graph instructing a learner to circle the incorrect data point in red" title="Colour Blindness" class="img-center"/>
+
+
 
 # C﻿reating a Truly Accessible Learning Experience
 
@@ -71,7 +73,9 @@ Colour is another critical element to ensure that your learning experience is pe
 
 Several tools, such as [this colour contrast and analyser](https://contrast-ratio.com/), can help you improve your course’s colours by finding more suitable contrasts to meet accessibility standards. Another workaround is to include patterns, text or iconography so as not to rely on colour alone. The graphic below illustrates an accessibility-friendly version of the original graph.
 
-\[Graphic of accessibility graph - briefed Gemma and expecting this in Jan]
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_580/v1673418627/site-articles/what-defines-accessible-digital-learning/Bar_graph-07_qhojbg.jpg" alt="Bar graph illustrating the use of patterns that distinguish data points instead of relying on colour alone" title="Pattern Graph" class="img-center"/>
+
+
 
 ## 2﻿. Your Learning Experience Should Be Operable
 
