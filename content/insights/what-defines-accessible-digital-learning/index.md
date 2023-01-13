@@ -2,7 +2,7 @@
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1671533574/site-articles/what-defines-accessible-digital-learning/Blog_Banner_7_hwtsfs.png
 featured: true
 title: What Defines 'Accessible' Digital Learning?
-date: 2023-01-18
+date: 2023-01-13
 description: Make your learning experience accessible to everyone, particularly
   learners with varying cognitive and physical abilities.
 author: Lara Hilton
