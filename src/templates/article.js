@@ -14,8 +14,6 @@ const ArticleTemplate = ({ data }) => {
   const url = typeof window !== "undefined" ? window.location.href : ""
   const article = data.article
 
-  console.log(article)
-
   return (
     <Layout>
       <Seo

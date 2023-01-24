@@ -5,9 +5,6 @@ import { getSrc } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
 const RelatedArticles = ({ previous, next }) => {
-  console.log(previous)
-  console.log(next)
-
   const previousTitle = previous.frontmatter.title || previous.fields.slug
 
   const previousCard = () => {
