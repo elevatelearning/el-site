@@ -61,7 +61,11 @@ So, how does AI help revolutionise the tedious process of synthesising and analy
 
 \[﻿Graphic]
 
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_01-04_gugleu.png" alt="Decorative image" title="Decoractive Image" class="img-left"/>
+
 # E﻿mbracing New Technical Advancements (With Some Caution)
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_02-05_zi06lb.png" alt="Decorative image" title="Decorative image" class="img-left"/>
 
 With all of these tools and advancement, this begs the question what is the point of writing anything ourselves as learning designers and how do we help our students use their developing judgment to utilise AI in ethical ways? Is there even a place for AI in academia? 
 
