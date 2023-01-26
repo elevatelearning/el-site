@@ -11,7 +11,11 @@ If you’ve logged onto LinkedIn recently, there’s no doubt that your feed has
 
 The future of learning design (and education as a whole) is shaped by changes and advancements in digital technology. As learning design specialists, we’re encouraged to stay on top of current trends related to learning, and the impact that certain advancements could have on the way we design learning for the future. But, what if these trends and upcoming advancements posed a threat to not only how we design learning, but to our roles within learning design?
 
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674733506/site-articles/ai-for-learning/banner_2.1-05_sr7tvh.png" alt="Decorative graphic" title="Decorative graphic" class="img-center"/>
+
 # T﻿he Changing Role of Learning Designers
+
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674733506/site-articles/ai-for-learning/banner_2.2-06_wqcdf2.png" alt="Decorative image" title="Decorative image" class="img-center"/>
 
 As experts in learning and development, we play a crucial role in guiding learners on their journey of knowledge acquisition and competency development. But the way we approach this task is evolving. Gone are the days of rigidly scheduled classroom sessions or solely relying on information shared via a company-wide learning management system. In today’s information age and knowledge economy, learners expect to access knowledge on their terms and at their own pace. 
 
