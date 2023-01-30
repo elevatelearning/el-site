@@ -84,3 +84,10 @@ It means we need to start curating and personalising content and placing it at a
 And this requires a multidisciplinary set of skills. 
 
 It’s time to unlock the full potential of AI in learning! While it may not be the end-all solution, it can certainly help streamline tedious tasks and allow learning designers and educators to focus on what they do best. Embrace the power of AI and make it a regular part of your workflow. Remember, the more this technology is used and improved upon, the more future benefits we’ll reap. It’s time to welcome AI into the future of learning.
+
+# R﻿eferences
+
+Dillon, J.D. (no date) *LearnGeek innovation cycle, LearnGeek*. Available at: https://www.learngeek.co/innovation/ (Accessed: January 15, 2023). 
+
+
+Hilton, L.C. (2023) “What Defines 'Accessible' Digital Learning?,” *Elevate Learning*, 13 January. Available at: https://www.elevatelearning.org/insights/what-defines-accessible-digital-learning/ (Accessed: January 15, 2023).
