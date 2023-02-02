@@ -31,7 +31,7 @@ And, why should you care? If this is all hype, surely the conversation will even
 
 [According to JD Dillon, founder of LearnGeek](https://www.learngeek.co/innovation/), it’s time to pay attention to AI. His research shows that it’s no longer just hype — it’s becoming a reality. Instead of resisting it, we should explore how we can leverage AI to our advantage and stay ahead of the curve.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067234/site-articles/ai-for-learning/LearnGeek_Innovation_Cycle-11_kexptr.png" alt="The LearnGeek innovation cycle indicating the relevance and growth of learning innovations, tools and technology." title="The LearnGeek Innovation Cycle" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_650/v1675067234/site-articles/ai-for-learning/LearnGeek_Innovation_Cycle-11_kexptr.png" alt="The LearnGeek innovation cycle indicating the relevance and growth of learning innovations, tools and technology." title="The LearnGeek Innovation Cycle" class="img-center"/>
 
 **L﻿et's take a look at how AI might impact learning.**
 
@@ -45,8 +45,8 @@ Following from our [previous article on accessibility in learning](https://www.e
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675069635/site-articles/ai-for-learning/table_1-08_jc1l1f.png" alt="Table outlining AI tools for learning equity" title="AI tools for learning equity" class="img-center"/>
 
-|               **AI Software**              |                                                                                     **Purpose**                                                                                    |           **Existing AI Tools**          |
-|:------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------:|
+| **AI Software**                            | **Purpose**                                                                                                                                                                        | **Existing AI Tools**                    |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | Text-to-speech and speech-to-text software | These tools can help learners who have  difficulty reading or writing to access  the content of online courses.                                                                    | Descript's Overdub Murf.ai Google Cloud  |
 | Closed captioning and  subtitles           | These tools allow learners who are deaf  or hard of hearing to understand the  audio content of online courses.                                                                    | AssemblyAI Verbit.ai                     |
 | Screen readers                             | These tools can help learners who are  visually impaired to navigate and  interact with online course materials.                                                                   | accessiBe NVDA Speechify Apple Voiceover |
@@ -79,20 +79,16 @@ As learning designers, we’re responsible for the development of all learning m
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067348/site-articles/ai-for-learning/monitoring_and_evaluation-01_iym48w.png" alt="The impact of artificial intelligence on monitoring and evaluation" title="The impact of artificial intelligence on monitoring and evaluation" class="img-left"/>
 
-
-
 A well-designed learning experience is characterised by its personalisation to the individual learner. To achieve this, it is essential for learning designers to continually evaluate and incorporate learner data into their designs. This iterative process allows for more effective and efficient delivery of instruction, ultimately leading to enhanced learning outcomes.
 
 So, how does AI help revolutionise the tedious process of synthesising and analysing copious amounts of learner data? For many learning experts, this list should be familiar, but perhaps their tracking and data analytics capabilities were never fully explored in light of the recent popularity of the likes of ChatGPT.
 
 **Here is a list of AI tools to consider when conducting monitoring and review processes:**
 
-
-
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675069718/site-articles/ai-for-learning/table_3-10_pzxrdg.png" alt="Table outlining AI tools for monitoring and evaluation" title="AI tools for monitoring and evaluation" class="img-center"/>
 
-|          **AI Software**          |                                                                              **Purpose**                                                                             |                 **Existing AI Tools**                |
-|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------:|
+| **AI Software**                   | **Purpose**                                                                                                                                                          | **Existing AI Tools**                                |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Learning Management Systems (LMS) | These systems track learner progress and  engagement, allowing learning designers  to evaluate the effectiveness of course  content and delivery.                    | Blackboard Learn Smart Sparrow EdX                   |
 | Learning Analytics Platforms      | These tools use data mining, machine  learning, and visualisation techniques  to analyse learner data and provide  insights into learner behaviour and  performance. | Learnosity BrightBytes LearnDash                     |
 | Adaptive Learning Systems         | These systems use data on learner  performance to adjust course content  and delivery in real-time, helps to  improve learner engagement and outcomes.               | Knewton ALEKS Dreambox                               |
@@ -100,7 +96,6 @@ So, how does AI help revolutionise the tedious process of synthesising and analy
 | Natural Language Processing (NLP) | These tools can be used to analyse learner  feedback and discussions, providing insights  into learner engagement and understanding of  course content.              | IBM Watson Lexalytics Microsoft Azure Text Anayltics |
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_01-04_gugleu.png" alt="Decorative image" title="Decoractive Image" class="img-left"/>
-
 
 # E﻿mbracing New Technical Advancements (With Some Caution)
 
