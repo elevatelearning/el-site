@@ -2,7 +2,7 @@
 imageUrl: https://res.cloudinary.com/elevatelearning/image/upload/v1675067027/site-articles/ai-for-learning/Blog_Banner_8_vc8how.png
 featured: true
 title: AI for Learning
-date: 2023-02-02
+date: 2023-02-03
 author: Lara Hilton
 ---
 ### "﻿AI is the ultimate democratiser, providing access to information, education, and economic opportunity on an unprecedented scale." —﻿ Satya Nadella, CEO of Microsoft
@@ -48,7 +48,8 @@ Following from our [previous article on accessibility in learning](https://www.e
 * **S﻿creen readers:** These tools can help learners who are visually impaired to navigate and interact with online course materials. Existing AI tools include: [accessiBe](https://accessibe.com/accesswidget/artificial-intelligence), [NVDA](https://www.nvaccess.org/), [Speechify](https://speechify.com/blog/best-screen-readers/?landing_url=https%3A%2F%2Fspeechify.com%2Fblog%2Fbest-screen-readers%2F), and [Apple Voiceover](https://www.apple.com/accessibility/vision/).
 * **A﻿daptive learning platforms:** These tools use AI to personalise the learning experience for each individual learner, by adjusting the pace, difficulty and content of the course based on their performance. Existing  AI tools include: [EdApp](https://www.edapp.com/), [Adaptemy](https://www.adaptemy.com/), and [Smart Sparrow](https://www.smartsparrow.com/).
 * **V﻿irtual Reality and Augmented Reality:** These technologies can make online learning more engaging and interactive, allowing learners to immerse themselves in real-world simulations and scenarios. Existing AI tools include: [Synthesia](https://www.synthesia.io/?via=phong&gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT-VnSPLkVs_F-Qzt6Nyj1R8dxzLHZ6heWQ-IH_BA5BPzaR6K4b0y7kaAheMEALw_wcB), [SkyView](https://play.google.com/store/apps/details?id=com.t11.skyviewfree&hl=en_ZA&gl=US&pli=1), and [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens/industry-healthcare).
-*
+* **A﻿utomatic translation:** These tools can help learners who speak different languages to access online course content in their preferred language. Existing AI tools include: [Google Translate](https://translate.google.com/), [DeepL](https://www.deepl.com/translator?referrer=https%3A%2F%2Fwww.google.com%2F), and [Smartling](https://www.deepl.com/translator?referrer=https%3A%2F%2Fwww.google.com%2F).
+* **A﻿I-powered personal tutors:** These tools can provide one-on-one support and guidance to learners, providing personalised feedback and coaching based on their performance. Existing AI tools include: [Entelechy ](https://entelechy.app/)and [Google Cloud](https://cloud.google.com/blog/topics/public-sector/new-google-cloud-student-success-services-help-educators-scale-individualized-learning).
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067343/site-articles/ai-for-learning/content_creation-02_p4lwtu.png" alt="The impact of artificial intelligence on content creation" title="The impact of artificial intelligence on content creation" class="img-left"/>
 
@@ -58,7 +59,13 @@ As learning designers, we’re responsible for the development of all learning m
 
 **Here is a list of AI tools to consider when developing content:**
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675069559/site-articles/ai-for-learning/table_2-09_azhyvb.png" alt="Table outlining AI tools for content creation" title="AI tools for content creation" class="img-center"/>
+* **C﻿ontent generation software:** These AI tools can help learning designers to quickly and easily generate new learning content, such as quizzes, flashcards, and interactive scenarios. Existing AI tools include: [CopyAI](https://www.copy.ai/?via=start), [Copysmith](https://copysmith.ai/?utm_term=copysmith&utm_campaign=13700168840&utm_source=stackmatix_adwords&utm_medium=ppc&utm_content=123013813366&hsa_acc=8710542323&hsa_cam=13700168840&hsa_grp=123013813366&hsa_ad=586321600681&hsa_src=g&hsa_tgt=kwd-403459008145&hsa_kw=copysmith&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT8ei0FxPECnfCe5JWko0tZKt2qUrNlHiNsM6DLhXyKQ_1wXfn4HD9EaAj-VEALw_wcB), and [Lex.page](https://lex.page/~).
+* **A﻿daptive content creation:** These tools use AI to automatically generate different versions of the same content, tailored to the unique needs and preferences of different learners. Existing AI tools include: [Articulate](https://articulate.com/), [Quill](https://quillbot.com/), and [KAI](https://www.diekeure.be/nl-be/educatief/lager-onderwijs/kabas/kai/kai).
+* A﻿utomatic summarisation: These tools can quickly extract the main points from a piece of text, making it easier for learning designers to identify key takeaways and create summaries for learners. Existing AI tools include: [AutoSummarizer ](http://autosummarizer.com/)and [SummarizeThis](https://www.summarizethis.com/).
+* **N﻿atural Language Processing (NLP):** These tools can help learning designers to automatically analyse and understand the meaning and sentiment of text, making it easier to create personalised learning experiences. [Genism ](https://radimrehurek.com/gensim/)is an existing AI tool.
+* **A﻿I-powered content curation:** These tools can help learning designers to identify and select relevant and high-quality content from a wide range of sources, saving time and effort in the content creation process. Existing AI tools include: [Scoop.it](https://www.scoop.it/) and [Paper.li](https://paper.li/).
+* **V﻿ideo and audio editing tools:** These AI tools can help learning designers to quickly and easily edit video and audio content, such as by transcribing speech, adding captions, and generating subtitles. Existing AI tools include: [Adobe Premiere Rush](https://www.adobe.com/africa/products/premiere-rush.html), [Adobe Captivate](https://www.adobe.com/africa/products/captivate.html), [Articulate Storyline](https://articulate.com/360/storyline), and [Audacity](https://www.audacityteam.org/).
+* **I﻿nteractive content creation:** These tools can help learning designers to create interactive learning experiences, such as virtual reality simulations, gamified learning, and adaptive quizzes. Existing AI tools include: [Adobe XD](https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html), [H5P](https://h5p.org/), [Articulate Rise](https://rise.com/?utm_source=articulate.com&utm_medium=referral&utm_campaign=header), and [Quizlet](https://quizlet.com/).
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675067348/site-articles/ai-for-learning/monitoring_and_evaluation-01_iym48w.png" alt="The impact of artificial intelligence on monitoring and evaluation" title="The impact of artificial intelligence on monitoring and evaluation" class="img-left"/>
 
@@ -68,7 +75,11 @@ So, how does AI help revolutionise the tedious process of synthesising and analy
 
 **Here is a list of AI tools to consider when conducting monitoring and review processes:**
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_850/v1675069718/site-articles/ai-for-learning/table_3-10_pzxrdg.png" alt="Table outlining AI tools for monitoring and evaluation" title="AI tools for monitoring and evaluation" class="img-center"/>
+* **L﻿earning Management System (LMS):** These systems track learner progress and engagement, allowing learning designers to evaluate the effectiveness of course content and delivery. Existing AI tools include: [Blackboard Learn](https://www.blackboard.com/en-mea/teaching-learning/learning-management/blackboard-learn), [Smart Sparrow](https://www.smartsparrow.com/), and [EdX](https://www.edx.org/).
+* **L﻿earning Analytics Platforms:** These tools use data mining, machine learning, and visualisation techniques to analyse learner data and provide insights into learner behaviour and performance. Existing AI tools include: [Learnosity](https://learnosity.com/), [BrightBytes](https://www.brightbytes.net/), and [LearnDash](https://www.learndash.com/).
+* **A﻿daptive Learning Systems:** These systems use data on learner performance to adjust course content and delivery in real-time, helps to improve learner engagement and outcomes. Existing AI tools include: [Knewton](https://www.knewton.com/), [ALEKS](https://www.aleks.com/), and [Dreambox](https://www.dreambox.com/).
+* **P﻿redictive Analytics:** These tools use data on student performance and demographics to predict future learner success and identify at-risk learners. Existing AI tools include: [Knewton ](https://www.knewton.com/)and [Smart Sparrow](https://www.smartsparrow.com/).
+* N﻿atural Language Processing (NLP): These tools can be used to analyse learner feedback and discussions, providing insights into learner engagement and understanding of course content. Existing AI tools include: [IBM Watson](https://www.ibm.com/za-en/watson), [Lexalytics](https://www.lexalytics.com/), and [Microsoft Azure Text Analytics](https://azure.microsoft.com/en-us/products/cognitive-services/text-analytics).
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1674722681/site-articles/ai-for-learning/banner_01-04_gugleu.png" alt="Decorative image" title="Decoractive Image" class="img-left"/>
 
