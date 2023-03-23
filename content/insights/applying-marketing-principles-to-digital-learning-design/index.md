@@ -59,7 +59,7 @@ The way that social networking platforms have enabled brands to reach their targ
 
 Online learning can sound like a lonely and daunting experience, but it doesn’t have to be. Take a look at a video from our [Learning Experience Design Essentials course ](https://lxd.elevatelearning.org)below which outlines some tips for incorporating social learning into your online learning experiences. 
 
-<center><iframe width="650" height="405" src="https://www.youtube.com/embed/EcnjAwmPjRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="650" height="405" src="https://www.youtube.com/embed/LESLPw3hwdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 [Social interactions and opportunities to connect](https://www.elevatelearning.org/insights/social-media-as-a-cooperative-learning-tool/) with others can enhance learners’ engagement, collaboration, and communication, reinforcing the experience and the perception or reputation of a brand. But with the rise of asynchronous and blended learning, how can learning experts try to combine the growing demand for self-directed online learning with the social needs of learners in order to reinforce the learning message?
 
