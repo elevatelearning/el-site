@@ -29,7 +29,7 @@ One technique that we utilise is the creation of **learner personas**. This help
 
 While developing these personas, you’ll need to ask yourself various questions about them, such as, what **motivates** them? What would they hope to **achieve** through an online course? **Where** and **how** do they feel like hearing about it? Answering these questions within your marketing strategy will help you get to know the target demographic you are trying to connect with.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554346/site-articles/applying-marketing-principles-to-digital-learning-design/Persona_Examples_wl7xto.png" alt="Graphic illustrating examples of learner personas" title="Learning Persona Examples" class="img-center"/>
+<center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554346/site-articles/applying-marketing-principles-to-digital-learning-design/Persona_Examples_wl7xto.png" alt="Graphic illustrating examples of learner personas" title="Learning Persona Examples" class="img-center"/></center>
 
 *<center><p text-color: white>I﻿mage 1: Examples of personas created by Elevate Learning, along with our Learning Experience Design Essentials course learner persona template.</p></center>*
 
