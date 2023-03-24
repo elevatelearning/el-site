@@ -77,7 +77,7 @@ As the old saying goes, what’s measured is managed, and like marketing, learni
 
 Similarly with learning experience design, setting high-level goals such as overarching learning objectives or competence-based outcomes you intend learners to achieve, or specific activities they need to complete throughout the learning experience, understanding what will ensure your learning is a success and writing out specific goals to that effect is half the battle won. 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554405/site-articles/applying-marketing-principles-to-digital-learning-design/M3_L1_01_Elevate_s_four_phase_approach_ube5rb.png" alt="Graphic illustrating a four-phase approach to developing a learning strategy, including the following steps: strategy, competencies, delivery and measurement." title="A Four-Phase Approach to Developing a Learning Strategy" class="img-center"/>
+<center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554405/site-articles/applying-marketing-principles-to-digital-learning-design/M3_L1_01_Elevate_s_four_phase_approach_ube5rb.png" alt="Graphic illustrating a four-phase approach to developing a learning strategy, including the following steps: strategy, competencies, delivery and measurement." title="A Four-Phase Approach to Developing a Learning Strategy" class="img-center"/></center>
 
 *<center><p text-color: white>I﻿mage 2: Elevate's four-phase approach to developing a learning strategy. To learn more, [enrol in our Learning Experience Design Essentials course](https://lxd.elevatelearning.org/).</p></center>*
 
@@ -101,7 +101,7 @@ Before the launch of your course, send prospective learners an overview of the c
 
 Providing an overview of the learning objectives before a learner starts a course, or creating an introductory video or glossary with key concepts that will be used in the lesson are all helpful ways of priming the learner for what they will be experiencing.  Another example might be when a learner gets to the end of a chapter or lesson, prime them for what’s coming next by stating this in your instructional text. 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554339/site-articles/applying-marketing-principles-to-digital-learning-design/Group_413_mujnob.png" alt="Graphic illustrating a lesson example where a learner has to click a continue button after reaching the end of a chapter." title="In-lesson Continue Button" class="img-center"/>
+<center><img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554339/site-articles/applying-marketing-principles-to-digital-learning-design/Group_413_mujnob.png" alt="Graphic illustrating a lesson example where a learner has to click a continue button after reaching the end of a chapter." title="In-lesson Continue Button" class="img-center"/></center>
 
 *<center><p text-color: white>I﻿mage 3: An example of a learner being primed for what's coming next after reaching the end of a chapter.</p></center>*
 
