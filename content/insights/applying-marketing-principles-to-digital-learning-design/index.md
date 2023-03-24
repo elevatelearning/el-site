@@ -31,7 +31,7 @@ While developing these personas, you’ll need to ask yourself various questions
 
 <img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554346/site-articles/applying-marketing-principles-to-digital-learning-design/Persona_Examples_wl7xto.png" alt="Graphic illustrating examples of learner personas" title="Learning Persona Examples" class="img-center"/>
 
-#### *I﻿mage 1: Examples of personas created by Elevate Learning, along with our Learning Experience Design Essentials course learner persona template.*
+*<center><p text-color: white>I﻿mage 1: Examples of personas created by Elevate Learning, along with our Learning Experience Design Essentials course learner persona template.</p></center>*
 
 For more on the what, how and why of learning persona, check out our carousel [here](https://www.linkedin.com/feed/update/urn:li:activity:6991396564069953536).
 
@@ -77,9 +77,9 @@ As the old saying goes, what’s measured is managed, and like marketing, learni
 
 Similarly with learning experience design, setting high-level goals such as overarching learning objectives or competence-based outcomes you intend learners to achieve, or specific activities they need to complete throughout the learning experience, understanding what will ensure your learning is a success and writing out specific goals to that effect is half the battle won. 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554405/site-articles/applying-marketing-principles-to-digital-learning-design/M3_L1_01_Elevate_s_four_phase_approach_ube5rb.png" alt="Graphic illustrating a four-phase approach to developing a learning strategy, including the following steps: strategy, competencies, delivery and measurement." title="A Four-Phase Approach to Developing a Learning Strategy" class="img-left"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554405/site-articles/applying-marketing-principles-to-digital-learning-design/M3_L1_01_Elevate_s_four_phase_approach_ube5rb.png" alt="Graphic illustrating a four-phase approach to developing a learning strategy, including the following steps: strategy, competencies, delivery and measurement." title="A Four-Phase Approach to Developing a Learning Strategy" class="img-center"/>
 
-#### *I﻿mage 2: Elevate's four-phase approach to developing a learning strategy To learn more, [enrol in our Learning Experience Design Essentials course](https://lxd.elevatelearning.org).*
+*<center><p text-color: white>I﻿mage 2: Elevate's four-phase approach to developing a learning strategy. To learn more, [enrol in our Learning Experience Design Essentials course](https://lxd.elevatelearning.org/).</p></center>*
 
 For example, one way to measure the success of your learning experience might be through course completions. So, you’ll set a goal for x number of completions compared to enrolments and then assess the total number of completions within a certain timeframe. 
 
@@ -101,7 +101,9 @@ Before the launch of your course, send prospective learners an overview of the c
 
 Providing an overview of the learning objectives before a learner starts a course, or creating an introductory video or glossary with key concepts that will be used in the lesson are all helpful ways of priming the learner for what they will be experiencing.  Another example might be when a learner gets to the end of a chapter or lesson, prime them for what’s coming next by stating this in your instructional text. 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554339/site-articles/applying-marketing-principles-to-digital-learning-design/Group_413_mujnob.png" alt="Graphic illustrating a lesson example where a learner has to click a continue button after reaching the end of a chapter." title="In-lesson Continue Button" class="img-left"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_800/v1679554339/site-articles/applying-marketing-principles-to-digital-learning-design/Group_413_mujnob.png" alt="Graphic illustrating a lesson example where a learner has to click a continue button after reaching the end of a chapter." title="In-lesson Continue Button" class="img-center"/>
+
+*<center><p text-color: white>I﻿mage 3: An example of a learner being primed for what's coming next after reaching the end of a chapter.</p></center>*
 
 Similarly, having learners practise a scenario-based activity before completing a summative assessment with similar types of questions helps them to also subconsciously put their new knowledge into practice without the finality or pressure of a final assessment weighing on the experience. Connolly adds that priming can also reduce stress and anxiety by introducing learners to the topics that will be covered, and what will be expected of them, thereby contributing to more effective and successful learning outcomes.
 
