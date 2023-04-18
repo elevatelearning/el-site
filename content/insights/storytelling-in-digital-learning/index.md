@@ -19,7 +19,7 @@ When we hear a story, [our brains light up](https://bera-journals.onlinelibrary.
 
 Moreover, storytelling allows us to create a more personalised learning experience. By relating content to real-life situations, learners can see how the material applies to their own lives, making it more meaningful and relevant. This connection also helps learners feel more invested in the learning process, leading to [increased motivation and better outcomes](https://bera-journals.onlinelibrary.wiley.com/doi/full/10.1111/bjet.13004). 
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724127/site-articles/storytelling-in-digital-learning/Benefits_of_Storytelling_vc3jvo.png" alt="Graphic depicting the benefits of storytelling" title="Benefits of Storytelling" class="img-center"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/v1681724127/site-articles/storytelling-in-digital-learning/Benefits_of_Storytelling_vc3jvo.png" alt="Graphic depicting the benefits of storytelling" title="Benefits of Storytelling" class="img-left"/>
 
 # T﻿he Benefits of Storytelling
 
@@ -27,7 +27,7 @@ First, it is important to understand the role that storytelling plays in learnin
 
 One of the key benefits of using storytelling in digital learning is its ability to engage learners. Storytelling can be used to create a sense of curiosity and anticipation, which can help to keep learners interested and motivated to continue learning. For example, a video game-based learning module may use a story-driven approach to introduce new concepts and challenges. This not only helps to keep learners engaged but also helps to make the learning experience more enjoyable.
 
-<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_735/v1681720378/site-articles/storytelling-in-digital-learning/Storytelling_Article_Quote_Graphic_i2z2od.png" alt="Quote by Mary Catherin Bateson which reads, the human species thinks in metaphors and learns through stories." title="Mary Catherine Bateson Quote" class="img-left"/>
+<img src="https://res.cloudinary.com/elevatelearning/image/upload/c_scale,w_735/v1681720378/site-articles/storytelling-in-digital-learning/Storytelling_Article_Quote_Graphic_i2z2od.png" alt="Quote by Mary Catherin Bateson which reads, the human species thinks in metaphors and learns through stories." title="Mary Catherine Bateson Quote" class="img-center"/>
 
 Another benefit of using storytelling in digital learning is its ability to [convey complex information in an easily digestible way](https://www.cambridge.org/elt/blog/2020/10/06/how-to-make-storytelling-effective-for-all-learners/). Often, learners struggle with understanding abstract or technical concepts, but by presenting the information through a story, it can be made more relatable and understandable. For example, a virtual reality simulation of a historical event can be used to help learners understand the context and significance of the event, making it more engaging and memorable.
 
